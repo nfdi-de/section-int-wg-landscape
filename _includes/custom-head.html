@@ -1,0 +1,18 @@
+<!-- from https://mrinalcs.github.io/generate-diagrams-jekyll-mermaid -->
+<script type="module">
+    import mermaid from "https://cdn.jsdelivr.net/npm/mermaid@11/dist/mermaid.esm.min.mjs";
+    mermaid.initialize({ startOnLoad: true });
+    document
+      .querySelectorAll("pre > code.language-mermaid")
+      .forEach((codeBlock) => {
+        codeBlock.parentElement.outerHTML = `<pre class="mermaid">${codeBlock.textContent}</pre>`;
+      });
+</script>
+
+<!-- overrides the weird purple background and border for mermaid diagrams -->
+<style>
+    pre.mermaid {
+      border: none;
+      background-color: transparent;
+    }
+</style>
