@@ -35,3 +35,8 @@ graph LR
         internalPerson -- member of --> internalWG -- member of --> internalSection
     end
 ```
+
+## License
+
+Code in this repository is licensed under MIT.
+Data in this repository are licensed under CC0.
