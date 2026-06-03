@@ -1,0 +1,36 @@
+wikidata	section	working group	page	charter	lang
+	meta	wg_search_harvest	https://doi.org/10.5281/zenodo.6770762	en
+	meta	wg_terminology_services	https://doi.org/10.5281/zenodo.6759325	en
+	meta	wg_knowledgegraphs	https://zenodo.org/records/19708817	en
+Q139055838	meta	wg_onto	https://doi.org/10.5281/zenodo.6726518	en
+	meta	wg_rs_metadata	https://zenodo.org/records/19732950	en
+	elsa	wg_ethics
+	elsa	wg_data_protection	https://zenodo.org/records/15790950	en
+	elsa	wg_lara
+	infra	di	https://zenodo.org/records/6519590	en
+	infra	dmp	https://zenodo.org/records/7540682	en
+	infra	dsai	https://doi.org/10.5281/zenodo.6498197	en
+	infra	eln	https://zenodo.org/records/6510247	en
+	infra	iam	https://zenodo.org/records/6421866	en
+	infra	ids
+	infra	lta	https://doi.org/10.5281/zenodo.6451455	en
+	infra	mc	https://zenodo.org/records/6510971	en
+	infra	oa	https://doi.org/10.5281/zenodo.15210894	en
+	infra	pid	https://zenodo.org/records/14961772	en
+Q125747942	infra	rse	https://zenodo.org/records/6483449	en
+	edutrain	wg_target_analysis	https://zenodo.org/records/6478698	en
+	edutrain	wg_materials	duplicate
+	edutrain	wg_modular_concept	duplicate
+	edutrain	wg_knowledge_base	duplicate
+	edutrain	wg_training_formats	duplicate
+	edutrain	wg_quality_assurance	duplicate
+	edutrain	wg_networking	duplicate
+	edutrain	wg_error_culture	duplicate
+	edutrain	wg_rdm_helpdesk	duplicate
+	industry	wg_benefits_costs_risks
+	industry	wg_cooperation_models
+	industry	wg_data_spaces
+	industry	wg_knowledge_transfer
+	int	wg_landscape_survey
+	int	wg_eosc_node
+	int	wg_outreach
