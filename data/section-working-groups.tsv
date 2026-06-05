@@ -31,6 +31,6 @@ Q125747942	infra	rse	https://zenodo.org/records/6483449	en
 	industry	wg_cooperation_models
 	industry	wg_data_spaces
 	industry	wg_knowledge_transfer
-	int	wg_landscape_survey
+Q140073062	int	wg_landscape_survey
 	int	wg_eosc_node
 	int	wg_outreach
