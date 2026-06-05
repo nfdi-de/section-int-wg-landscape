@@ -1,7 +1,7 @@
 wikidata	key	label	concept_zenodo	concept_language	website
-Q111582407	meta	Metadata, Terminologies, and Provenance	5619089	de	https://www.nfdi.de/section-metadata/
-Q111582403	elsa	Ethical, Legal, and Social Aspects	5675972	de	https://www.nfdi.de/section-elsa/
-Q121415618	industry	Industry Engagement	17588697	de	https://www.nfdi.de/section-industry/
-Q111582309	infra	Common Infrastructures	15000221	en	https://www.nfdi.de/section-infra/
-Q140044669	int	International Engagement 	15000221	en	https://www.nfdi.de/sektion-international-engagement/
-Q111582410	edutrain	Training and Education	6478698	en	https://www.nfdi.de/section-edutrain/
+Q111582407	meta	Metadata, Terminologies, and Provenance	5619089	de	https://www.nfdi.de/section-metadata/?lang=en
+Q111582403	elsa	Ethical, Legal, and Social Aspects	5675972	de	https://www.nfdi.de/section-elsa/?lang=en
+Q121415618	industry	Industry Engagement	17588697	de	https://www.nfdi.de/section-industry/?lang=en
+Q111582309	infra	Common Infrastructures	15000221	en	https://www.nfdi.de/section-infra/?lang=en
+Q140044669	int	International Engagement 	15000221	en	https://www.nfdi.de/section-international-engagement/?lang=en
+Q111582410	edutrain	Training and Education	6478698	en	https://www.nfdi.de/section-edutrain/?lang=en

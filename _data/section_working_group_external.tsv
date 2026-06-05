@@ -1,0 +1,21 @@
+wikidata	wg	external	external_short	external_wikidata	external_link	external_type	source	curator	curation_date
+	wg_knowledgegraphs	Open Research Knowledge Graph	ORKG	Q108127463	https://orkg.org	project	charter	orcid:0000-0003-4423-4370	2026-06-05
+	wg_knowledgegraphs	Wikimedia Germany		Q8288	https://www.wikimedia.de	organization	charter	orcid:0000-0003-4423-4370	2026-06-05
+	wg_knowledgegraphs	Wikibase Stakeholder Group		Q109375836	https://wbstakeholder.group	organization	charter	orcid:0000-0003-4423-4370	2026-06-05
+	wg_knowledgegraphs	Research Data Alliance Open Science Graphs for FAIR Data Interest Group			https://www.rd-alliance.org/groups/open-science-graphs-fair-data-ig/activity/	interest group	charter	orcid:0000-0003-4423-4370	2026-06-05
+	wg_terminology_services	Basic Register of Thesauri, Ontologies, and Classifications	BARTOC	Q22279816	https://bartoc.org/	project	charter	orcid:0000-0003-4423-4370	2026-06-05
+	wg_terminology_services	Networked Knowledge Organization Systems/Services/Structures	NKOS	Q41070759	https://nkos.dublincore.org/	interest group	charter	orcid:0000-0003-4423-4370	2026-06-05
+	wg_terminology_services	Research Data Alliance Vocabulary Services Interest Group	VSSIG		https://www.rd-alliance.org/groups/vocabulary-services-interest-group/activity/	interest group	charter	orcid:0000-0003-4423-4370	2026-06-05
+	wg_terminology_services	Linked Open Vocabularies	LOV	Q39392701	https://lov.linkeddata.es	project / data resource	charter	orcid:0000-0003-4423-4370	2026-06-05
+Q139055838	wg_onto	EOSC Task Force Semantic Interoperability			https://www.eosc.eu/sites/default/files/tfcharters/eosca_tfsemanticinteroperability_draftcharter_20210614.pdf		charter	orcid:0000-0003-4423-4370	2026-06-05
+Q139055838	wg_onto	RDA Data Granularity WG			https://www.rd-alliance.org/groups/data-granularity-wg		charter	orcid:0000-0003-4423-4370	2026-06-05
+Q139055838	wg_onto	W3C Web Ontology WG			https://www.w3.org/2002/11/swv2/charters/WebOntologyCharter		charter	orcid:0000-0003-4423-4370	2026-06-05
+Q139055838	wg_onto	The Ontology Matching Community			http://ontologymatching.org/		charter	orcid:0000-0003-4423-4370	2026-06-05
+Q139055838	wg_onto	Simple Standard for Sharing Ontological Mappings	SSSOM	Q108394480	https://academic.oup.com/database/article/doi/10.1093/database/baac035/6591806		charter	orcid:0000-0003-4423-4370	2026-06-05
+Q139055838	wg_onto	Open Biological and Biomedical Ontology Foundry	OBO	Q7072326	https://obofoundry.org		charter	orcid:0000-0003-4423-4370	2026-06-05
+Q139055838	wg_onto	Data for History Consortium			http://dataforhistory.org/		charter	orcid:0000-0003-4423-4370	2026-06-05
+Q139055838	wg_onto	CIDOC Conceptual Reference Model Special Interest Group			https://www.cidoc-crm.org/		charter	orcid:0000-0003-4423-4370	2026-06-05
+Q139055838	wg_onto	International Committee on Documentation	CIDOC	Q1666445	https://www.wikidata.org/wiki/Q1666445		manual	orcid:0000-0003-4423-4370	2026-06-05
+Q139055838	wg_onto	LIDO Working Group		Q132576571	https://cidoc.mini.icom.museum/working-groups/lido/		charter	orcid:0000-0003-4423-4370	2026-06-05
+Q139055838	wg_onto	Project Anwendung Interoperabler Metadatenstandards	AIMS		https://gepris.dfg.de/gepris/projekt/432233186	funding-award	charter	orcid:0000-0003-4423-4370	2026-06-05
+Q139055838	wg_onto	The FAIR Digital Objects Forum			https://fairdo.org/		charter	orcid:0000-0003-4423-4370	2026-06-05
