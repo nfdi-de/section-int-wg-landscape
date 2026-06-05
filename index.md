@@ -1,6 +1,6 @@
 ---
 layout: home
-title: NFDI Section Int WG Landscape
+title: Home
 ---
 
 There are 26 accepted consortia in the German National Research Data

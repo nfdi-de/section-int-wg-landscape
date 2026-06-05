@@ -1,0 +1,36 @@
+label	wikidata	section_key	key	charter_zenodo	charter_language
+Search and Harvesting		meta	wg_search_harvest	6770762	en
+Terminology Services		meta	wg_terminology_services	6759325	en
+Knowledge Graphs		meta	wg_knowledgegraphs	19708817	en
+Ontology Harmonization and Mapping	Q139055838	meta	wg_onto	6726518	en
+Research Software Metadata		meta	wg_rs_metadata	19732950	en
+Ethics		elsa	wg_ethics
+Data Protection		elsa	wg_data_protection	15790950	en
+Licensing and Agreement Rule Automation		elsa	wg_lara
+Data Integration		infra	di	6519590	en
+Data Management Planning		infra	dmp	7540682	en
+Data Science and Artificial Intelligence		infra	dsai	6498197	en
+Electronic Lab Notebook		infra	eln	6510247	en
+Identity and Access Management		infra	iam	6421866	en
+Infrastructure and Data Security		infra	ids
+Long-term Access and Preservation		infra	lta	6451455	en
+Multi-Cloud		infra	mc	6510971	en
+Overall Architecture		infra	oa	15210894	en
+Persistent Identifiers		infra	pid	14961772	en
+Research Software Engineering	Q125747942	infra	rse	6483449	en
+Target Group and Needs Analysis		edutrain	wg_target_analysis	6478698	en
+Materials Inventory		edutrain	wg_materials	duplicate
+Modular and Scalable Concept		edutrain	wg_modular_concept	duplicate
+Teaching Materials and Knowledge Base		edutrain	wg_knowledge_base	duplicate
+Training Formats and Certificate Courses		edutrain	wg_training_formats	duplicate
+Quality Assurance and Evaluation		edutrain	wg_quality_assurance	duplicate
+Networking and Outreach		edutrain	wg_networking	duplicate
+Error Culture in Science		edutrain	wg_error_culture	duplicate
+RDM Helpdesk Network		edutrain	wg_rdm_helpdesk	duplicate
+Benefits, Costs, and Risks in Research Cooperations		industry	wg_benefits_costs_risks
+Cooperation Models and Cooperation Agreements		industry	wg_cooperation_models
+Data Spaces & Interoperability for Joint Research		industry	wg_data_spaces
+Knowledge Transfer and Impact		industry	wg_knowledge_transfer
+Landscaping and Outreach	Q140073062	int	wg_landscape_survey
+Supporting the Development of EOSC Node Germany		int	wg_eosc_node
+Continuation of Internationalization and Outreach		int	wg_outreach
