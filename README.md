@@ -13,7 +13,7 @@ Links:
 config:
       theme: redux
 ---
-graph LR
+graph TD
     
     internalPerson[Person] -.-> external
     internalInstitution[Institution] -.->  external
