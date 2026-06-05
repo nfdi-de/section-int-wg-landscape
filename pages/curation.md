@@ -73,14 +73,7 @@ permalink: /curation/
 <tbody>
 {% for record in site.data.section_working_group_external %}
 <tr>
-<td>
-    {% if record.wikidata %}
-    {{ record.wikidata }}
-    ({{ record.wg | replace: "wg_", "" | replace: "_", " " }})
-    {% else %}
-    {{ record.wg | replace: "wg_", "" | replace: "_", " " }}
-    {% endif %}
-</td>
+<td>{{ record.wg }}</td>
 <td><a href="{{ record.external_link }}">{{ record.external }}{% if record.external_short %} ({{ record.external_short}}){% endif %}</a></td>
 <td>{% if record.external_wikidata %}<a href="https://wikidata.org/wiki/{{ record.external_wikidata }}">{{ record.external_wikidata }}</a>{% endif %}</td>
 <td>{{ record.external_type }}</td>
