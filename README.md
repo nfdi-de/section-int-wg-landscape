@@ -13,7 +13,7 @@ Links:
 config:
       theme: redux
 ---
-graph TD
+graph TB
     
     internalPerson[Person] -.-> external
     internalInstitution[Institution] -.->  external
@@ -28,6 +28,9 @@ graph TD
         organization[Organization]
         externalPerson[Person]
         externalOther[Other Stakeholder]
+        
+        funder ~~~ project ~~~ workingGroup ~~~ organization ~~~ externalPerson~~~ externalOther
+        
     end
 
     subgraph internal [NFDI]
