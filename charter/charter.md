@@ -222,20 +222,20 @@ WG Landscape's initial membership list is open to anyone who is interested in
 the goals of the WG, regardless of whether they have been able to attend the
 initial meetings.
 
-| Name                 | ORCiD                                                        | Organizations    | Email                                                                   |
-| :------------------- | :----------------------------------------------------------- | :--------------- | :---------------------------------------------------------------------- |
-| Sebastian Böhm       | [0009-0006-4599-6309](https://orcid.org/0009-0006-4599-6309) | NFDI4Immuno      | [sebastian.boehm@fli.de](mailto:sebastian.boehm@fli.de)                 |
-| Alexandra Büttner    | [0000-0002-4950-0941](https://orcid.org/0000-0002-4950-0941) | NFDI4Culture     | [alexandra.buettne@adwmainz.de](mailto:alexandra.buettne@adwmainz.de)   |
-| Cordula Hege         | [0000-0003-0616-5191](https://orcid.org/0000-0003-0616-5191) | Base4NFDI        | [cordula.hege@desy.de](mailto:cordula.hege@desy.de)                     |
-| Charles Tapley Hoyt† | [0000-0003-4423-4370](https://orcid.org/0000-0003-4423-4370) | NFDI4Chem        | [charles.hoyt@ac.rwth-aachen.de](mailto:charles.hoyt@ac.rwth-aachen.de) |
-| Melina Jander        | [0000-0003-1646-6836](https://orcid.org/0000-0003-1646-6836) | Text+, Base4NFDI | [jander@sub.uni-goettingen.de](mailto:jander@sub.uni-goettingen.de)     |
-| Alicja Krysmann      | [0000-0003-1353-0994](https://orcid.org/0000-0003-1353-0994) | NFDI4Immuno      | [alicja.krysmann@fli.de](mailto:alicja.krysmann@fli.de)                 |
-| Peter Mutschke       | [0000-0003-3517-8071](https://orcid.org/0000-0003-3517-8071) | KonsortSWD       | [peter.mutschke@gesis.org](mailto:peter.mutschke@gesis.org)             |
-| Janete Saldanha Bach | [0000-0001-9011-5837](https://orcid.org/0000-0001-9011-5837) | KonsortSWD       | [janete.saldanhabach@gesis.org](mailto:janete.saldanhabach@gesis.org)   |
-| Thomas Schörner      | [0000-0002-7213-0352](https://orcid.org/0000-0002-7213-0352) | PUNCH4NFDI       | [thomas.schoerner@desy.de](mailto:thomas.schoerner@desy.de)             |
-| Christiane Schneide  | [0000-0003-1024-6875](https://orcid.org/0000-0003-1024-6875) | PUNCH4NFDI       | [christiane.schneide@desy.de](mailto:christiane.schneide@desy.de)       |
-| Robert Ulrich        | [0000-0001-9063-2703](https://orcid.org/0000-0001-9063-2703) | re3data          | [robert.ulrich@kit.edu](mailto:robert.ulrich@kit.edu)                   |
-| Alois Wieshuber      | [0009-0001-7010-7968](https://orcid.org/0009-0001-7010-7968) | Base4NFDI        | [alois.georg.wieshuber@desy.de](mailto:alois.georg.wieshuber@desy.de)   |
+| Name                     | Organizations       | Email                                   |
+|--------------------------|---------------------| --------------------------------------- |
+| [Sebastian Böhm](https://orcid.org/0009-0006-4599-6309)     | NFDI4Immuno         | [sebastian.boehm@fli.de](mailto:sebastian.boehm@fli.de)                 |
+| [Alexandra Büttner](https://orcid.org/0000-0002-4950-0941)  | NFDI4Culture        | [alexandra.buettne@adwmainz.de](mailto:alexandra.buettne@adwmainz.de)   |
+| [Cordula Hege](https://orcid.org/0000-0003-0616-5191)       | Base4NFDI           | [cordula.hege@desy.de](mailto:cordula.hege@desy.de)                     |
+| [Charles Tapley Hoyt†](https://orcid.org/0000-0003-4423-4370) | NFDI4Chem           | [charles.hoyt@ac.rwth-aachen.de](mailto:charles.hoyt@ac.rwth-aachen.de) |
+| [Melina Jander](https://orcid.org/0000-0003-1646-6836)      | TextPlus            | [jander@sub.uni-goettingen.de](mailto:jander@sub.uni-goettingen.de)     |
+| [Alicja Krysmann](https://orcid.org/0000-0003-1353-0994)    | NFDI4Immuno         | [alicja.krysmann@fli.de](mailto:alicja.krysmann@fli.de)                 |
+| [Peter Mutschke](https://orcid.org/0000-0003-3517-8071)     | KonsortSWD          | [peter.mutschke@gesis.org](mailto:peter.mutschke@gesis.org)             |
+| [Janete Saldanha Bach](https://orcid.org/0000-0001-9011-5837) | KonsortSWD          | [janete.saldanhabach@gesis.org](mailto:janete.saldanhabach@gesis.org)   |
+| [Thomas Schörner](https://orcid.org/0000-0002-7213-0352)    | PUNCH4NFDI          | [thomas.schoerner@desy.de](mailto:thomas.schoerner@desy.de)             |
+| [Christiane Schneide](https://orcid.org/0000-0003-1024-6875) | PUNCH4NFDI          | [christiane.schneide@desy.de](mailto:christiane.schneide@desy.de)       |
+| [Robert Ulrich](https://orcid.org/0000-0001-9063-2703)      | re3data             | [robert.ulrich@kit.edu](mailto:robert.ulrich@kit.edu)                   |
+| [Alois Wieshuber](https://orcid.org/0009-0001-7010-7968)    | Base4NFDI           | [alois.georg.wieshuber@desy.de](mailto:alois.georg.wieshuber@desy.de)   |
 
 †WG lead
 
