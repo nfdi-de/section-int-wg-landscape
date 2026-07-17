@@ -1,5 +1,7 @@
 # Section Internationalization Working Group for Landscaping and Outreach Charter
 
+Updated July 17<sup>th</sup>, 2026.
+
 ## Background
 
 NFDI Section International Engagement was established in March 2026 to support
@@ -250,10 +252,22 @@ envision overlap and collaboration with:
 - Section EduTrain RDM Helpdesk Working Group
 - Section Meta WG Knowledge Graphs
 
-# Connection to other external groups and projects
+## Connection to other external groups and projects
 
 - [Community Research and Development Information Service (CORDIS)](https://cordis.europa.eu)
 - [European Strategy Forum on Research Infrastructures (ESFRI)](https://research-and-innovation.ec.europa.eu/strategy/strategy-research-and-innovation/our-digital-future/european-research-infrastructures/esfri_en)
 - [Research Organization Registry (ROR)](https://ror.org)
 - [Wikidata](https://www.wikidata.org/wiki/Wikidata:Main_Page)
 - [European Open Science Cloud (EOSC)](https://open-science-cloud.ec.europa.eu)
+
+## License
+
+This document is licensed under CC BY 4.0.
+
+## Colophon
+
+This document is edited in GitHub-flavored Markdown then converted to PDF using
+Pandoc and Typst.
+
+Versions of this document are available on Zenodo at
+https://doi.org/10.5281/zenodo.21420211.
