@@ -216,7 +216,7 @@ releases (i.e., post new versions) to Zenodo.
 
 WG Landscape's initial membership list is open to anyone who is interested in
 the goals of the WG, regardless of whether they have been able to attend the
-initial meetings. The initial member list in the WG's charter does not
+initial meetings.
 
 | Name                 | ORCiD                                                        | Organizations    | Email                                                                   |
 | :------------------- | :----------------------------------------------------------- | :--------------- | :---------------------------------------------------------------------- |
