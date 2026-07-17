@@ -3,7 +3,7 @@
 ## Background
 
 NFDI Section International Engagement was established in March 2026 to support
-the NFDI, its affiliates, and its researchers in _internationalization_ \- the
+the NFDI, its affiliates, and its researchers in _internationalization_ - the
 process of identifying and executing outreach, collaboration, and communication
 with European and international partners (e.g., working groups, projects,
 organizations, funders, other stakeholders).
@@ -60,9 +60,9 @@ challenges by organizing information about the European and international
 landscapes relevant for NFDI consortia, developing tools and training materials
 to support NFDI consortia in internationalization, and to support NFDI Section
 Internationalization's working groups (and where possible, other sections'
-working groups) in the execution of internationalization opportunities, such as
-with the European Open Science Cloud (EOSC). These activities fall under two
-larger goals:
+working groups) in the execution of internationalization opportunities, such as,
+but not limited to, the [European Open Science Cloud (EOSC)](https://eosc.eu).
+These activities fall under two larger goals:
 
 ### Goal 1
 
@@ -134,11 +134,14 @@ background activity.
 ### Task 4
 
 We will develop a semi-automated workflow for standardizing the survey results
-(e.g., to make them FAIR) and enriching them (e.g., to connect to both internal
-and external knowledge graphs). We aspire to leverage bibliometric resources
-(funding indexes like Cordis, literature indexes like PubMed, project indexes
-like NIH RePORTER, organization registries like ROR) to complement and enrich
-NFDI information.
+(e.g., to make them findable, accessible, interoperable, and reusable (FAIR))
+and enriching them (e.g., to connect to both internal and external knowledge
+graphs). We aspire to leverage bibliometric resources (funding indexes like
+[CORDIS](https://cordis.europa.eu), literature indexes like
+[PubMed](https://pubmed.ncbi.nlm.nih.gov), project indexes like
+[NIH RePORTER](https://reporter.nih.gov/), organization registries like the
+[Research Organization Registry (ROR)](https://ror.org)) to complement and
+enrich NFDI information.
 
 ### Task 5
 
@@ -164,7 +167,8 @@ Potential avenues of publication:
 - An interaction matrix between NFDI consortia and external entities, entrance
   point to making more clever filtering, interactivity (e.g., as a website).
 - A white paper that highlights key existing and aspirational interactions, such
-  as with EOSC and RDA
+  as with EOSC and the
+  [Research Data Alliance (RDA)](https://www.rd-alliance.org)
 - A knowledge graph that can be federated and queried with other NFDI knowledge
   graphs, in collaboration with the Base4NFDI service _KGI4NFDI_
 
@@ -187,8 +191,8 @@ addressing the first five tasks during the first year of activity:
 
 ### Meetings and Communication
 
-The WG meets on the first Wednesday of each month at 11.00. Communication is
-primarily through
+The WG meets on the first Wednesday of each month at 11.00 (German time).
+Communication is primarily through
 [RocketChat](https://go.rocket.chat/invite?host=all-chat.nfdi.de&path=invite%2FsJ8Gdy).
 There are no membership requirements and meetings are open to anyone who would
 like to join. Minutes will be taken on a public document.
@@ -248,8 +252,8 @@ envision overlap and collaboration with:
 
 # Connection to other external groups and projects
 
-- [CORDIS](https://cordis.europa.eu/)
-- [European Strategy Forum on Research Infrastructures](https://research-and-innovation.ec.europa.eu/strategy/strategy-research-and-innovation/our-digital-future/european-research-infrastructures/esfri_en)
-- [ROR](https://ror.org/)
+- [Community Research and Development Information Service (CORDIS)](https://cordis.europa.eu)
+- [European Strategy Forum on Research Infrastructures (ESFRI)](https://research-and-innovation.ec.europa.eu/strategy/strategy-research-and-innovation/our-digital-future/european-research-infrastructures/esfri_en)
+- [Research Organization Registry (ROR)](https://ror.org)
 - [Wikidata](https://www.wikidata.org/wiki/Wikidata:Main_Page)
-- [EOSC](https://open-science-cloud.ec.europa.eu/)
+- [European Open Science Cloud (EOSC)](https://open-science-cloud.ec.europa.eu)
