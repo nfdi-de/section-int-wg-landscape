@@ -14,7 +14,7 @@ config:
       theme: redux
 ---
 graph TB
-    
+
     internalPerson[Person] -.-> external
     internalInstitution[Institution] -.->  external
     internalConsortium[NFDI Consortium] -.-> external
@@ -28,9 +28,9 @@ graph TB
         organization[Organization]
         externalPerson[Person]
         externalOther[Other Stakeholder]
-        
+
         funder ~~~ project ~~~ workingGroup ~~~ organization ~~~ externalPerson~~~ externalOther
-        
+
     end
 
     subgraph internal [NFDI]
@@ -41,5 +41,5 @@ graph TB
 
 ## License
 
-Code in this repository is licensed under MIT.
-Data in this repository are licensed under CC0.
+Code in this repository is licensed under MIT. Data in this repository are
+licensed under CC0.
