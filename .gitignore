@@ -2,3 +2,5 @@
 /_site
 /charter/*.typ
 /charter/*.pdf
+/charter/mermaid-images
+/mermaid-images
