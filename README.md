@@ -5,7 +5,9 @@ Links:
 - [Rolling Agenda](https://docs.google.com/document/d/1kvNkhYTdnMuBjMOZS5RcwXZa1xCi57heHeRf9VbQIbw/edit?usp=sharing)
 - [RocketChat](https://go.rocket.chat/invite?host=all-chat.nfdi.de&path=invite%2FsJ8Gdy)
 - [Mailing List](https://lists.nfdi.de/postorius/lists/section-int-wg-landscape.lists.nfdi.de)
-- [Charter](https://doi.org/10.5281/zenodo.21420211)
+- Charter
+  - [source code](charter/)
+  - [Zenodo publication](https://doi.org/10.5281/zenodo.21420211)
 
 ## Diagram
 
