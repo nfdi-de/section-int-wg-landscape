@@ -1,5 +1,5 @@
 format:
-    npx prettier --prose-wrap always --write --check "*.md"
+    pnpx prettier --prose-wrap always --write --check "*.md"
     just --fmt
 
 install-mermaid:
