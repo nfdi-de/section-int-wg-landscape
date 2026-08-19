@@ -2,6 +2,8 @@ format:
     pnpx prettier --prose-wrap always --write --check "*.md"
     just --fmt
     uv run -m nfdi_kg.lint
+    ruff format .
+    ruff check --fix .
 
 install-mermaid:
     #!/usr/bin/env bash
