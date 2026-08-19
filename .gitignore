@@ -4,3 +4,4 @@
 /charter/*.pdf
 /charter/mermaid-images
 /mermaid-images
+*.pyc
