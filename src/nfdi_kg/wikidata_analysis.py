@@ -1,11 +1,11 @@
 """A data model for the NFDI landscape."""
 
-import wikidata_client
 import click
-from bioregistry import NormalizedNamedReference
-from curies import Triple
 import pyobo
 import pystow
+import wikidata_client
+from bioregistry import NormalizedNamedReference
+from curies import Triple
 from wikidata_client import get_label
 
 WIKIDATA_MODULE = pystow.join("wikidata", "cache", name="labels.json")
