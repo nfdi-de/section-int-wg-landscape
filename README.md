@@ -4,7 +4,10 @@ Links:
 
 - [Rolling Agenda](https://docs.google.com/document/d/1kvNkhYTdnMuBjMOZS5RcwXZa1xCi57heHeRf9VbQIbw/edit?usp=sharing)
 - [RocketChat](https://go.rocket.chat/invite?host=all-chat.nfdi.de&path=invite%2FsJ8Gdy)
-- [Working Group Mailing List](https://lists.nfdi.de/postorius/lists/section-int-wg-landscape.lists.nfdi.de)
+- [Mailing List](https://lists.nfdi.de/postorius/lists/section-int-wg-landscape.lists.nfdi.de)
+- Charter
+  - [source code](charter/)
+  - [Zenodo publication](https://doi.org/10.5281/zenodo.21420211)
 
 ## Diagram
 
@@ -14,7 +17,7 @@ config:
       theme: redux
 ---
 graph TB
-    
+
     internalPerson[Person] -.-> external
     internalInstitution[Institution] -.->  external
     internalConsortium[NFDI Consortium] -.-> external
@@ -28,9 +31,9 @@ graph TB
         organization[Organization]
         externalPerson[Person]
         externalOther[Other Stakeholder]
-        
+
         funder ~~~ project ~~~ workingGroup ~~~ organization ~~~ externalPerson~~~ externalOther
-        
+
     end
 
     subgraph internal [NFDI]
@@ -41,5 +44,5 @@ graph TB
 
 ## License
 
-Code in this repository is licensed under MIT.
-Data in this repository are licensed under CC0.
+Code in this repository is licensed under MIT. Data in this repository are
+licensed under CC0.
