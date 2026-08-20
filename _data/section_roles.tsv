@@ -1,4 +1,4 @@
-section	section key	person orcid	person name	person email	role	start	end
+section	section key	person_orcid	person_name	person_email	role	start	end
 Q111582403	elsa	0000-0002-8961-509X	Vasilka Paunova		spokesperson		
 Q111582403	elsa	0000-0002-8188-3495	Ulrich Sax		deputy spokesperson		
 Q111582407	meta	0000-0003-3385-4232	Oliver Koepler		spokesperson		

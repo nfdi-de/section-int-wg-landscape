@@ -5,3 +5,4 @@
 /charter/mermaid-images
 /mermaid-images
 *.pyc
+_data/output.json

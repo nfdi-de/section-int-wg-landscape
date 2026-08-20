@@ -1,0 +1,69 @@
+wikidata	section_key	key	person_orcid	person_name	person_email	role	start	end
+	meta	search_harvest		Brigitte Mathiak				
+	meta	search_harvest		Heinrich Widmann				
+	meta	terminology_services		Roman Baum				
+	meta	terminology_services		Naouel Karam				
+	meta	knowledgegraphs		Renat Shigapov				
+	meta	knowledgegraphs		Lozana Rossenova				
+	meta	knowledgegraphs		Moritz Schubotz				
+	meta	tfmeta		Oliver Koepler				
+	meta	tfmeta		Christin Henzen				
+	meta	tfmeta		Thorsten Trippel				
+	meta	tfmeta		Heike Fliegl				
+Q139055838	meta	onto		Philip Strömert				
+	meta	rs_metadata		Stephan Ferenz				
+	meta	rs_metadata		Leyla Jael Castro				
+	elsa	ethics		Thomas Richter	thomas.richter@hs-fulda.de			
+	elsa	data_protection		Oliver Watteler	Oliver.Watteler@gesis.org			
+	elsa	data_protection		Timo Reichert				
+	elsa	lara		Constantin Breß	constantin.bress@fiz-karlsruhe.de			
+	infra	di		Bernhard Seeger				
+	infra	di		Andreas Henrich				
+	infra	di		Thorsten Papenbrock				
+	infra	di		Dirk Riehle				
+	infra	dmp		Daniela Hausen				
+	infra	dmp		Jürgen Windeck				
+	infra	dsai		Adamantios Koumpis				
+	infra	dsai		Arnim Bleier				
+	infra	dsai		Sonja Schimmler				
+	infra	eln		Nicole Jung				
+	infra	eln		Christof Wöll				
+	infra	eln		Felix Bach				
+	infra	iam		Marius Politze				
+	infra	iam		Wolfgang Pempe				
+	infra	ids		Petra Ritter				
+	infra	lta		Svenia Pohlkamp				
+	infra	lta		Tobias Steinke				
+	infra	lta		Katharina Markus				
+	infra	lta		Angela Hammer				
+	infra	mc		Alexander Sczyrba				
+	infra	oa		Marius Politze				
+	infra	oa		Philipp Wieder				
+	infra	pid		Sven Bingert				
+	infra	pid		Stephanie Hagemann-Wilholt				
+Q125747942	infra	rse		Florian Thiery				
+Q125747942	infra	rse		Bernd Flemisch				
+	edutrain	target_analysis		Britta Petersen				
+	edutrain	materials		Jonathan D. Geiger				
+	edutrain	modular_concept		Timo Mühlhaus				
+	edutrain	knowledge_base						
+	edutrain	training_formats		Konrad Förstner				
+	edutrain	training_formats		Birte Lindstädt				
+	edutrain	quality_assurance		Jana Neumann				
+	edutrain	networking						
+	edutrain	error_culture		Bernhard Miller				
+	edutrain	error_culture		Theo Bender				
+	edutrain	error_culture		Maximilian Frank				
+	edutrain	rdm_helpdesk		Martha Stellmacher				
+	edutrain	rdm_helpdesk		Marcus Schmidt				
+	edutrain	rdm_helpdesk		Judith Engel				
+	edutrain	rdm_helpdesk		Marina Lemaire				
+	industry	benefits_costs_risks		Chris Eberl				
+	industry	cooperation_models						
+	industry	data_spaces						
+	industry	knowledge_transfer		Florian Stahl				
+Q140073062	int	landscape_survey	0000-0003-4423-4370	Charles Tapley Hoyt	charles.hoyt@ac.rwth-aachen.de	lead	2026-03	
+	int	wg_eosc_node		Ilona Lang				
+	int	wg_eosc_node		Wilma Wolf				
+	int	wg_outreach						
+								
