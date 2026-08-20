@@ -19,15 +19,15 @@ Multi-Cloud	Q141133956	infra	mc	6510971	en	section-infra-wg-mc@lists.nfdi.de
 Overall Architecture	Q141133957	infra	oa	15210894	en	section-infra-wg-oa@lists.nfdi.de		
 Persistent Identifiers	Q141133958	infra	pid	14961772	en			
 Research Software Engineering	Q125747942	infra	rse	6483449	en	section-infra-wg-rse@lists.nfdi.de		
-Target Group and Needs Analysis		edutrain	target_analysis	6478698	en			
+Target Group and Needs Analysis	Q141133970	edutrain	target_analysis	6478698	en			
 Materials Inventory		edutrain	materials					
 Modular and Scalable Concept		edutrain	modular_concept					
 Teaching Materials and Knowledge Base		edutrain	knowledge_base					
 Training Formats and Certificate Courses	Q141133960	edutrain	training_formats	6478706	en			
 Quality Assurance and Evaluation		edutrain	quality_assurance					
 Networking and Outreach		edutrain	networking					
-Error Culture in Science		edutrain	error_culture					
-RDM Helpdesk Network		edutrain	rdm_helpdesk					
+Error Culture in Science	Q141133988	edutrain	error_culture	6475492	en			
+RDM Helpdesk Network	Q141133979	edutrain	rdm_helpdesk			fdm-helpdesks@listserv.dfn.de		
 Benefits, Costs, and Risks in Research Cooperations	Q141133916	industry	benefits_costs_risks					
 Cooperation Models and Cooperation Agreements	Q141133922	industry	cooperation_models					
 Data Spaces & Interoperability for Joint Research	Q141133920	industry	data_spaces					
