@@ -1,69 +1,82 @@
-wikidata	section_key	key	person_orcid	person_name	person_email	role	start	end
-	meta	search_harvest		Brigitte Mathiak				
-	meta	search_harvest		Heinrich Widmann				
-	meta	terminology_services		Roman Baum				
-	meta	terminology_services		Naouel Karam				
-	meta	knowledgegraphs		Renat Shigapov				
-	meta	knowledgegraphs		Lozana Rossenova				
-	meta	knowledgegraphs		Moritz Schubotz				
-	meta	tfmeta		Oliver Koepler				
-	meta	tfmeta		Christin Henzen				
-	meta	tfmeta		Thorsten Trippel				
-	meta	tfmeta		Heike Fliegl				
-Q139055838	meta	onto		Philip Strömert				
-	meta	rs_metadata		Stephan Ferenz				
-	meta	rs_metadata		Leyla Jael Castro				
-	elsa	ethics		Thomas Richter	thomas.richter@hs-fulda.de			
-	elsa	data_protection		Oliver Watteler	Oliver.Watteler@gesis.org			
-	elsa	data_protection		Timo Reichert				
-	elsa	lara		Constantin Breß	constantin.bress@fiz-karlsruhe.de			
-	infra	di		Bernhard Seeger				
-	infra	di		Andreas Henrich				
-	infra	di		Thorsten Papenbrock				
-	infra	di		Dirk Riehle				
-	infra	dmp		Daniela Hausen				
-	infra	dmp		Jürgen Windeck				
-	infra	dsai		Adamantios Koumpis				
-	infra	dsai		Arnim Bleier				
-	infra	dsai		Sonja Schimmler				
-	infra	eln		Nicole Jung				
-	infra	eln		Christof Wöll				
-	infra	eln		Felix Bach				
-	infra	iam		Marius Politze				
-	infra	iam		Wolfgang Pempe				
-	infra	ids		Petra Ritter				
-	infra	lta		Svenia Pohlkamp				
-	infra	lta		Tobias Steinke				
-	infra	lta		Katharina Markus				
-	infra	lta		Angela Hammer				
-	infra	mc		Alexander Sczyrba				
-	infra	oa		Marius Politze				
-	infra	oa		Philipp Wieder				
-	infra	pid		Sven Bingert				
-	infra	pid		Stephanie Hagemann-Wilholt				
-Q125747942	infra	rse		Florian Thiery				
-Q125747942	infra	rse		Bernd Flemisch				
-	edutrain	target_analysis		Britta Petersen				
-	edutrain	materials		Jonathan D. Geiger				
-	edutrain	modular_concept		Timo Mühlhaus				
-	edutrain	knowledge_base						
-	edutrain	training_formats		Konrad Förstner				
-	edutrain	training_formats		Birte Lindstädt				
-	edutrain	quality_assurance		Jana Neumann				
-	edutrain	networking						
-	edutrain	error_culture		Bernhard Miller				
-	edutrain	error_culture		Theo Bender				
-	edutrain	error_culture		Maximilian Frank				
-	edutrain	rdm_helpdesk		Martha Stellmacher				
-	edutrain	rdm_helpdesk		Marcus Schmidt				
-	edutrain	rdm_helpdesk		Judith Engel				
-	edutrain	rdm_helpdesk		Marina Lemaire				
-	industry	benefits_costs_risks		Chris Eberl				
-	industry	cooperation_models						
-	industry	data_spaces						
-	industry	knowledge_transfer		Florian Stahl				
-Q140073062	int	landscape_survey	0000-0003-4423-4370	Charles Tapley Hoyt	charles.hoyt@ac.rwth-aachen.de	lead	2026-03	
-	int	wg_eosc_node		Ilona Lang				
-	int	wg_eosc_node		Wilma Wolf				
-	int	wg_outreach						
-								
+wikidata	section_key	key	person_orcid	person_name	person_email	person_affiliation	role	start	end
+Q141133896	meta	search_harvest	0000-0003-1793-9615	Brigitte Mathiak	brigitte.mathiak@gesis.org				
+Q141133896	meta	search_harvest	0000-0001-9871-2687	Heinrich Widmann	widmann@dkrz.de				
+Q141133885	meta	terminology_services	0000-0001-5246-9351	Roman Baum	baum@zbmed.de				
+Q141133885	meta	terminology_services	0000-0002-6762-6417	Naouel Karam	karam@infai.org				
+Q141133885	meta	terminology_services	0000-0001-5099-3029	Luca Ghiringhelli	ghiringhelli@fhi-berlin.mpg.de				
+Q141133890	meta	knowledgegraphs	0000-0002-0331-2558	Renat Shigapov	renat.shigapov@uni-mannheim.de				
+Q141133890	meta	knowledgegraphs	0000-0002-5190-1867	Lozana Rossenova	lozana.rossenova@tib.eu				
+Q141133890	meta	knowledgegraphs	0000-0001-7141-4997	Moritz Schubotz	moritz.schubotz@fiz-karlsruhe.de				
+Q141133900	meta	tfmeta	0000-0003-3385-4232	Oliver Koepler					
+Q141133900	meta	tfmeta	0000-0002-5181-4368	Christin Henzen					
+Q141133900	meta	tfmeta	0000-0002-7211-7393	Thorsten Trippel					
+Q141133900	meta	tfmeta	0000-0002-7541-115X	Heike Fliegl					
+Q139055838	meta	onto	0000-0002-1595-3213	Philip Strömert	philip.stroemert@tib.eu				
+Q139055838	meta	onto	0000-0003-2576-1511	Anja Gerber	Anja.Gerber@klassik-stiftung.de				
+Q139055838	meta	onto	0000-0002-2831-8868	Ulrik Stervbo	Ulrik.Stervbo@elisabethgruppe.de				
+Q141133894	meta	rs_metadata	0000-0001-9523-7227	Stephan Ferenz	stephan.ferenz@offis.de				
+Q141133894	meta	rs_metadata	0000-0003-3986-0510	Leyla Jael Castro	ljgarcia@zbmed.de				
+Q141133901	elsa	ethics	0009-0005-7168-7959	Thomas Richter	thomas.richter@hs-fulda.de				
+Q141133902	elsa	data_protection	0000-0002-1634-9229	Oliver Watteler	Oliver.Watteler@gesis.org				
+Q141133902	elsa	data_protection		Timo Reichert					
+Q141133904	elsa	lara	0000-0002-2133-1541	Constantin Breß	constantin.bress@fiz-karlsruhe.de				
+Q141133933	infra	di	0000-0002-9362-153X	Bernhard Seeger		Uni. Marburg			
+Q141133933	infra	di	0000-0002-5074-3254	Andreas Henrich		Uni Bamberg			
+Q141133933	infra	di	0000-0002-4019-8221	Thorsten Papenbrock		Marburg			
+Q141133933	infra	di	0000-0002-8139-5600	Dirk Riehle		Uni Erlangen-Nürnberg			
+Q141133939	infra	dmp	0000-0001-9083-0670	Daniela Hausen					
+Q141133939	infra	dmp	0000-0003-1909-4353	Jürgen Windeck					
+Q141133941	infra	dsai	0000-0003-2661-7749	Adamantios Koumpis	adamantios.koumpis@dbis.rwth-aachen.de				
+Q141133941	infra	dsai	0000-0003-3794-0904	Arnim Bleier	arnim.bleier@gesis.org				
+Q141133941	infra	dsai	0000-0002-8786-7250	Sonja Schimmler	sonja.schimmler@fokus.fraunhofer.de				
+Q141133943	infra	eln	0000-0001-9513-2468	Nicole Jung					
+Q141133943	infra	eln	0000-0003-1078-3304	Christof Wöll					
+Q141133943	infra	eln	0000-0002-5035-7978	Felix Bach					
+Q141133948	infra	iam	0000-0003-3175-0659	Marius Politze	politze@itc.rwth-aachen.de				
+Q141133948	infra	iam	0000-0002-3346-2215	Wolfgang Pempe	pempe@dfn.de				
+Q141133951	infra	ids	0000-0002-4643-4782	Petra Ritter	petra.ritter@charite.de				
+Q141133954	infra	lta	0009-0006-3122-2951	Svenia Pohlkamp					
+Q141133954	infra	lta	0000-0002-3999-1687	Tobias Steinke					
+Q141133954	infra	lta	0000-0002-9316-8982	Katharina Markus					
+Q141133954	infra	lta		Angela Hammer					
+Q141133956	infra	mc	0000-0002-4405-3847	Alexander Sczyrba					
+Q141133957	infra	oa	0000-0003-3175-0659	Marius Politze	politze@itc.rwth-aachen.de				
+Q141133957	infra	oa	0000-0002-6992-1866	Philipp Wieder					
+Q141133958	infra	pid	https://orcid.org/0000-0001-9547-1582	Sven Bingert					
+Q141133958	infra	pid	https://orcid.org/0000-0002-0474-2410	Stephanie Hagemann-Wilholt					
+Q125747942	infra	rse		Florian Thiery					
+Q125747942	infra	rse	https://orcid.org/0000-0001-8188-620X	Bernd Flemisch					
+Q141133970	edutrain	target_analysis		Britta Petersen					
+	edutrain	materials		Jonathan D. Geiger					
+	edutrain	modular_concept		Timo Mühlhaus					
+	edutrain	knowledge_base							
+Q141133960	edutrain	training_formats		Konrad Förstner					
+Q141133960	edutrain	training_formats		Birte Lindstädt					
+	edutrain	quality_assurance		Jana Neumann					
+	edutrain	networking							
+Q141133988	edutrain	error_culture		Bernhard Miller					
+Q141133988	edutrain	error_culture	0009-0004-4064-6065	Theo Bender					
+Q141133988	edutrain	error_culture		Maximilian Frank					
+Q141133979	edutrain	rdm_helpdesk	0000-0001-5655-0130	Martha Stellmacher	martha.stellmacher@slub-dresden.de				
+Q141133979	edutrain	rdm_helpdesk	0000-0002-5546-5521	Marcus Schmidt	marcus.schmidt@zalf.de				
+Q141133979	edutrain	rdm_helpdesk	0000-0001-8665-6382	Judith Engel	judith.engel@uni-bremen.de				
+Q141133979	edutrain	rdm_helpdesk	0000-0003-4726-2481	Marina Lemaire	marina.lemaire@uni-trier.de				
+Q141133979	edutrain	rdm_helpdesk	0000-0001-6708-1237	Kilian Hensen	Kilian.Hensen@uni-koeln.de				
+Q141133916	industry	benefits_costs_risks		Chris Eberl					
+Q141133922	industry	cooperation_models							
+Q141133920	industry	data_spaces							
+Q141133920	industry	iab		Martina Fiddrich		Cornelsen Verlag GmbH			
+Q141133920	industry	iab		Michael Dose		Bundesverband der Deutschen Industrie (BDI) e.V.			
+Q141133920	industry	iab		Thomas Koenen		Bundesverband der Deutschen Industrie (BDI) e.V.			
+Q141133920	industry	iab		Julia Göhringer		Allianz SE			
+Q141133920	industry	iab		Ina Sebastian		Infineon Technologies AG			
+Q141133920	industry	iab		Corinna Hehlmann		Freudenberg (FTI)			
+Q141133920	industry	iab		Saskia Kress		Interactive Media Foundation gGmbH			
+Q141133920	industry	iab		Christine Regitz		SAP SE			
+Q141133920	industry	iab		Thomas Dauser		Südwestrundfunk (SWR)			
+Q141133920	industry	iab		Sicco Lehmann-Brauns		Siemens AG			
+Q141133928	industry	knowledge_transfer	0000-0002-2846-3424	Florian Stahl	florian.stahl@uni-mannheim.de	University of Mannheim			
+Q140073062	int	landscape_survey	0000-0003-4423-4370	Charles Tapley Hoyt	charles.hoyt@ac.rwth-aachen.de	RWTH Aachen University	lead	2026-03	
+Q141133913	int	wg_eosc_node		Ilona Lang					
+Q141133913	int	wg_eosc_node		Wilma Wolf					
+	int	wg_outreach							

@@ -1,3 +1,4 @@
+import enum
 from collections import defaultdict
 from typing import Annotated, Any, Literal
 
@@ -11,11 +12,26 @@ SECTIONS_PATH = DATA.joinpath("sections.tsv")
 SECTIONS_ROLES_PATH = DATA.joinpath("section_roles.tsv")
 WORKING_GROUPS_PATH = DATA.joinpath("working_groups.tsv")
 WORKING_GROUP_ROLES_PATH = DATA.joinpath("working_group_roles.tsv")
+INTERACTIONS_PATH = DATA.joinpath("interactions.tsv")
 OUTPUT_JSON_PATH = DATA.joinpath("output.json")
 
 type SectionAbbreviation = Literal[
     "meta", "elsa", "industry", "int", "edutrain", "infra"
 ]
+
+
+class ExternalType(enum.Enum):
+    project = enum.auto()
+    organization = enum.auto()
+    interest_group = enum.auto()
+    data_resource = enum.auto()
+    funding_body = enum.auto()
+    funding_call = enum.auto()
+    event = enum.auto()
+
+
+class SourceType(enum.Enum):
+    wg_charter = enum.auto()
 
 
 class Zenodo(BaseModel):
@@ -62,6 +78,25 @@ class Section(BaseModel):
     mailing_list: EmailStr
     roles: Annotated[list[Role], Field(default_factory=list)]
     working_groups: Annotated[list[WorkingGroup], Field(default_factory=list)]
+
+
+class Organization(BaseModel):
+    type: ExternalType
+    label: str
+    abbreviation: str | None = None
+    wikidata: str | None = None
+    homepage: AnyUrl | None = None
+
+
+type InteractionStatus = Literal["aspirational", "ramp-up", "active", "inactive"]
+
+
+class Interaction(BaseModel):
+    """Describes an interaction."""
+
+    organization: Organization
+    status: InteractionStatus
+    context: str | None = None
 
 
 class KnowledgeBase(BaseModel):
@@ -136,6 +171,11 @@ def get_kb() -> KnowledgeBase:
         return d
 
     sections = read_pydantic_tsv(SECTIONS_PATH, Section, process=_process_section)
+
+    with safe_open_dict_reader(INTERACTIONS_PATH) as reader:
+        for row in reader:
+            row.pop("wikidata")
+
     return KnowledgeBase(sections=sections)
 
 
