@@ -18,7 +18,7 @@ Q141133894	meta	rs_metadata	0000-0001-9523-7227	Stephan Ferenz	stephan.ferenz@of
 Q141133894	meta	rs_metadata	0000-0003-3986-0510	Leyla Jael Castro	ljgarcia@zbmed.de				
 Q141133901	elsa	ethics	0009-0005-7168-7959	Thomas Richter	thomas.richter@hs-fulda.de				
 Q141133902	elsa	data_protection	0000-0002-1634-9229	Oliver Watteler	Oliver.Watteler@gesis.org				
-Q141133902	elsa	data_protection		Timo Reichert					
+Q141133902	elsa	data_protection	0009-0004-2133-8227	Timo Reichert	timo.reichert@lifbi.de				
 Q141133904	elsa	lara	0000-0002-2133-1541	Constantin Breß	constantin.bress@fiz-karlsruhe.de				
 Q141133933	infra	di	0000-0002-9362-153X	Bernhard Seeger		Uni. Marburg			
 Q141133933	infra	di	0000-0002-5074-3254	Andreas Henrich		Uni Bamberg			
@@ -38,31 +38,31 @@ Q141133951	infra	ids	0000-0002-4643-4782	Petra Ritter	petra.ritter@charite.de
 Q141133954	infra	lta	0009-0006-3122-2951	Svenia Pohlkamp					
 Q141133954	infra	lta	0000-0002-3999-1687	Tobias Steinke					
 Q141133954	infra	lta	0000-0002-9316-8982	Katharina Markus					
-Q141133954	infra	lta		Angela Hammer					
+Q141133954	infra	lta	0000-0002-8711-3221	Angela Hammer					
 Q141133956	infra	mc	0000-0002-4405-3847	Alexander Sczyrba					
 Q141133957	infra	oa	0000-0003-3175-0659	Marius Politze	politze@itc.rwth-aachen.de				
 Q141133957	infra	oa	0000-0002-6992-1866	Philipp Wieder					
-Q141133958	infra	pid	https://orcid.org/0000-0001-9547-1582	Sven Bingert					
-Q141133958	infra	pid	https://orcid.org/0000-0002-0474-2410	Stephanie Hagemann-Wilholt					
-Q125747942	infra	rse		Florian Thiery					
-Q125747942	infra	rse	https://orcid.org/0000-0001-8188-620X	Bernd Flemisch					
-Q141133970	edutrain	target_analysis		Britta Petersen					
-	edutrain	materials		Jonathan D. Geiger					
-	edutrain	modular_concept		Timo Mühlhaus					
+Q141133958	infra	pid	0000-0001-9547-1582	Sven Bingert					
+Q141133958	infra	pid	0000-0002-0474-2410	Stephanie Hagemann-Wilholt					
+Q125747942	infra	rse	0000-0002-3246-3531	Florian Thiery					
+Q125747942	infra	rse	0000-0001-8188-620X	Bernd Flemisch					
+Q141133970	edutrain	target_analysis	0000-0002-0355-2594	Britta Petersen					
+	edutrain	materials	0000-0002-0452-7075	Jonathan D. Geiger					
+	edutrain	modular_concept	0000-0003-3925-6778	Timo Mühlhaus					
 	edutrain	knowledge_base							
-Q141133960	edutrain	training_formats		Konrad Förstner					
-Q141133960	edutrain	training_formats		Birte Lindstädt					
-	edutrain	quality_assurance		Jana Neumann					
+Q141133960	edutrain	training_formats	0000-0002-1481-2996	Konrad Förstner					
+Q141133960	edutrain	training_formats	0000-0002-8251-1597	Birte Lindstädt					
+	edutrain	quality_assurance	0000-0002-0161-1888	Janna Neumann					
 	edutrain	networking							
-Q141133988	edutrain	error_culture		Bernhard Miller					
+Q141133988	edutrain	error_culture	0000-0002-4385-7245	Bernhard Miller					
 Q141133988	edutrain	error_culture	0009-0004-4064-6065	Theo Bender					
-Q141133988	edutrain	error_culture		Maximilian Frank					
+Q141133988	edutrain	error_culture	0000-0002-8140-3519	Maximilian Frank					
 Q141133979	edutrain	rdm_helpdesk	0000-0001-5655-0130	Martha Stellmacher	martha.stellmacher@slub-dresden.de				
 Q141133979	edutrain	rdm_helpdesk	0000-0002-5546-5521	Marcus Schmidt	marcus.schmidt@zalf.de				
 Q141133979	edutrain	rdm_helpdesk	0000-0001-8665-6382	Judith Engel	judith.engel@uni-bremen.de				
 Q141133979	edutrain	rdm_helpdesk	0000-0003-4726-2481	Marina Lemaire	marina.lemaire@uni-trier.de				
 Q141133979	edutrain	rdm_helpdesk	0000-0001-6708-1237	Kilian Hensen	Kilian.Hensen@uni-koeln.de				
-Q141133916	industry	benefits_costs_risks		Chris Eberl					
+Q141133916	industry	benefits_costs_risks	0000-0001-9449-9583	Christoph Eberl	chris.eberl@iwm.fraunhofer.de				
 Q141133922	industry	cooperation_models							
 Q141133920	industry	data_spaces							
 Q141133920	industry	iab		Martina Fiddrich		Cornelsen Verlag GmbH			
@@ -77,6 +77,7 @@ Q141133920	industry	iab		Thomas Dauser		Südwestrundfunk (SWR)
 Q141133920	industry	iab		Sicco Lehmann-Brauns		Siemens AG			
 Q141133928	industry	knowledge_transfer	0000-0002-2846-3424	Florian Stahl	florian.stahl@uni-mannheim.de	University of Mannheim			
 Q140073062	int	landscape_survey	0000-0003-4423-4370	Charles Tapley Hoyt	charles.hoyt@ac.rwth-aachen.de	RWTH Aachen University	lead	2026-03	
-Q141133913	int	wg_eosc_node		Ilona Lang					
-Q141133913	int	wg_eosc_node		Wilma Wolf					
+Q141133913	int	wg_eosc_node	0000-0002-7202-5982	Ilona Lang					
+Q141133913	int	wg_eosc_node	0009-0006-5287-9119	Wilma Wolf					
 	int	wg_outreach							
+									
