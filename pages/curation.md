@@ -104,12 +104,24 @@ permalink: /curation/
     {% endif %}
 </td>
 <td>
+    {% if record.external_link %}
     <a href="{{ record.external_link }}">
-        {% if record.external_short %}{{ record.external_short}}{% else %}{{ record.external }}{% endif %}
+        {% if record.external_short %}
+        {{ record.external_short}}
+        {% else %}{{ record.external_name }}
+        {% endif %}
     </a>
+    {% else %}
+    {% if record.external_short %}
+        {{ record.external_short}}
+        {% else %}{{ record.external_name }}
+        {% endif %}
+    {% endif %}
 </td>
 <td>
-    {% if record.external_wikidata %}<a href="https://wikidata.org/wiki/{{ record.external_wikidata }}">{{ record.external_wikidata }}</a>{% endif %}
+    {% if record.external_wikidata %}
+        <a href="https://wikidata.org/wiki/{{ record.external_wikidata }}">{{ record.external_wikidata }}</a>
+    {% endif %}
 </td>
 <td>{{ record.external_type }}</td>
 </tr>
