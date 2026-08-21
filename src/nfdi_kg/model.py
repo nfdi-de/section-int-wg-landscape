@@ -1,10 +1,11 @@
 import enum
 from collections import defaultdict
-from typing import Annotated, Any, Literal
+from typing import Annotated, Any, Literal, cast
 
 from pydantic import AnyUrl, BaseModel, EmailStr, Field
 from pydantic_extra_types.language_code import LanguageAlpha2
 from pystow.utils import read_pydantic_tsv, safe_open_dict_reader, write_pydantic_json
+from tqdm import tqdm
 
 from nfdi_kg.constants import DATA
 
@@ -20,14 +21,19 @@ type SectionAbbreviation = Literal[
 ]
 
 
-class ExternalType(enum.Enum):
-    project = enum.auto()
-    organization = enum.auto()
-    interest_group = enum.auto()
-    data_resource = enum.auto()
-    funding_body = enum.auto()
-    funding_call = enum.auto()
-    event = enum.auto()
+type ExternalType = Literal[
+    "project",
+    "organization",
+    "interest_group",
+    "working_group",
+    "consortium",
+    "data_resource",
+    "committee",
+    "funding_body",
+    "funding_call",
+    "task_force",
+    "standard",
+]
 
 
 class SourceType(enum.Enum):
@@ -66,6 +72,7 @@ class WorkingGroup(BaseModel):
     mailing_list: EmailStr | None = None
     start: str | None = None
     end: str | None = None
+    interactions: Annotated[list[Interaction], Field(default_factory=list)]
     roles: Annotated[list[Role], Field(default_factory=list)]
 
 
@@ -76,6 +83,7 @@ class Section(BaseModel):
     zenodo: Zenodo
     homepage: AnyUrl
     mailing_list: EmailStr
+    interactions: Annotated[list[Interaction], Field(default_factory=list)]
     roles: Annotated[list[Role], Field(default_factory=list)]
     working_groups: Annotated[list[WorkingGroup], Field(default_factory=list)]
 
@@ -95,8 +103,8 @@ class Interaction(BaseModel):
     """Describes an interaction."""
 
     organization: Organization
-    status: InteractionStatus
-    context: str | None = None
+    status: InteractionStatus | None = None
+    comment: str | None = None
 
 
 class KnowledgeBase(BaseModel):
@@ -104,6 +112,25 @@ class KnowledgeBase(BaseModel):
 
 
 def get_kb() -> KnowledgeBase:
+    wikidata_to_interactions: defaultdict[str, list[Interaction]] = defaultdict(list)
+    with safe_open_dict_reader(INTERACTIONS_PATH) as reader:
+        for row in reader:
+            org_type = row.pop("external_type") or None
+            if not org_type:
+                continue
+            wikidata_to_interactions[row.pop("wikidata")].append(
+                Interaction(
+                    organization=Organization(
+                        type=cast(ExternalType, org_type.replace(" ", "_")),
+                        label=row.pop("external_name"),
+                        wikidata=row.pop("external_wikidata", None) or None,
+                        abbreviation=row.pop("external_short", None) or None,
+                        homepage=row.pop("external_link", None) or None,
+                    ),
+                    comment=row.pop("comment", None) or None,
+                )
+            )
+
     working_group_roles = defaultdict(list)
     with safe_open_dict_reader(WORKING_GROUP_ROLES_PATH) as reader:
         for row in reader:
@@ -126,14 +153,17 @@ def get_kb() -> KnowledgeBase:
     working_groups = defaultdict(list)
     with safe_open_dict_reader(WORKING_GROUPS_PATH) as reader:
         for row in reader:
-            key = row.pop("section_key")
+            label = row.pop("label")
+            wikidata = row.pop("wikidata", None) or None
+            if not wikidata:
+                tqdm.write(f"skipping WG {label}")
+                continue
             if z := row.pop("charter_zenodo", None):
                 zenodo = Zenodo(record=z, language=row.pop("charter_language") or None)
             else:
                 zenodo = None
-            wikidata = row.pop("wikidata", None) or None
             wg = WorkingGroup(
-                label=row.pop("label"),
+                label=label,
                 key=row.pop("key"),
                 wikidata=wikidata,
                 zenodo=zenodo,
@@ -141,8 +171,9 @@ def get_kb() -> KnowledgeBase:
                 start=row.pop("start", None) or None,
                 end=row.pop("end", None) or None,
                 roles=working_group_roles[wikidata],
+                interactions=wikidata_to_interactions[wikidata],
             )
-            working_groups[key].append(wg)
+            working_groups[row["section_key"]].append(wg)
 
     section_roles = defaultdict(list)
     with safe_open_dict_reader(SECTIONS_ROLES_PATH) as reader:
@@ -161,20 +192,17 @@ def get_kb() -> KnowledgeBase:
             section_roles[section_wikidata].append(role)
 
     def _process_section(d: dict[str, Any]) -> dict[str, Any]:
-        if zenodo := d.pop("concept_zenodo", None):
+        if section_concept_zenodo_record := d.pop("concept_zenodo", None):
             d["zenodo"] = {
-                "record": zenodo,
+                "record": section_concept_zenodo_record,
                 "language": d.pop("concept_language", None),
             }
         d["roles"] = section_roles[d["wikidata"]]
         d["working_groups"] = working_groups[d["key"]]
+        d["interactions"] = wikidata_to_interactions[d["wikidata"]]
         return d
 
     sections = read_pydantic_tsv(SECTIONS_PATH, Section, process=_process_section)
-
-    with safe_open_dict_reader(INTERACTIONS_PATH) as reader:
-        for row in reader:
-            row.pop("wikidata")
 
     return KnowledgeBase(sections=sections)
 
