@@ -1,0 +1,82 @@
+wikidata	section_key	key	person_orcid	person_name	person_email	person_affiliation	role	start	end
+Q141133896	meta	search_harvest	0000-0003-1793-9615	Brigitte Mathiak	brigitte.mathiak@gesis.org		coordinator		
+Q141133896	meta	search_harvest	0000-0001-9871-2687	Heinrich Widmann	widmann@dkrz.de		coordinator		
+Q141133885	meta	terminology_services	0000-0001-5246-9351	Roman Baum	baum@zbmed.de		coordinator		
+Q141133885	meta	terminology_services	0000-0002-6762-6417	Naouel Karam	karam@infai.org		coordinator		
+Q141133885	meta	terminology_services	0000-0001-5099-3029	Luca Ghiringhelli	ghiringhelli@fhi-berlin.mpg.de		coordinator		
+Q141133890	meta	knowledgegraphs	0000-0002-0331-2558	Renat Shigapov	renat.shigapov@uni-mannheim.de		coordinator		
+Q141133890	meta	knowledgegraphs	0000-0002-5190-1867	Lozana Rossenova	lozana.rossenova@tib.eu		coordinator		
+Q141133890	meta	knowledgegraphs	0000-0001-7141-4997	Moritz Schubotz	moritz.schubotz@fiz-karlsruhe.de		coordinator		
+Q141133900	meta	tfmeta	0000-0003-3385-4232	Oliver Koepler					
+Q141133900	meta	tfmeta	0000-0002-5181-4368	Christin Henzen					
+Q141133900	meta	tfmeta	0000-0002-7211-7393	Thorsten Trippel					
+Q141133900	meta	tfmeta	0000-0002-7541-115X	Heike Fliegl					
+Q139055838	meta	onto	0000-0002-1595-3213	Philip Strömert	philip.stroemert@tib.eu		coordinator		
+Q139055838	meta	onto	0000-0003-2576-1511	Anja Gerber	Anja.Gerber@klassik-stiftung.de		coordinator		
+Q139055838	meta	onto	0000-0002-2831-8868	Ulrik Stervbo	Ulrik.Stervbo@elisabethgruppe.de		coordinator		
+Q141133894	meta	rs_metadata	0000-0001-9523-7227	Stephan Ferenz	stephan.ferenz@offis.de		coordinator		
+Q141133894	meta	rs_metadata	0000-0003-3986-0510	Leyla Jael Castro	ljgarcia@zbmed.de		coordinator		
+Q141133901	elsa	ethics	0009-0005-7168-7959	Thomas Richter	thomas.richter@hs-fulda.de		coordinator		
+Q141133902	elsa	data_protection	0000-0002-1634-9229	Oliver Watteler	Oliver.Watteler@gesis.org		coordinator		
+Q141133902	elsa	data_protection	0009-0004-2133-8227	Timo Reichert	timo.reichert@lifbi.de		coordinator		
+Q141133904	elsa	lara	0000-0002-2133-1541	Constantin Breß	constantin.bress@fiz-karlsruhe.de		coordinator		
+Q141133933	infra	di	0000-0002-9362-153X	Bernhard Seeger		Uni. Marburg	coordinator		
+Q141133933	infra	di	0000-0002-5074-3254	Andreas Henrich		Uni Bamberg	coordinator		
+Q141133933	infra	di	0000-0002-4019-8221	Thorsten Papenbrock		Marburg	coordinator		
+Q141133933	infra	di	0000-0002-8139-5600	Dirk Riehle		Uni Erlangen-Nürnberg	coordinator		
+Q141133939	infra	dmp	0000-0001-9083-0670	Daniela Hausen			coordinator		
+Q141133939	infra	dmp	0000-0003-1909-4353	Jürgen Windeck			coordinator		
+Q141133941	infra	dsai	0000-0003-2661-7749	Adamantios Koumpis	adamantios.koumpis@dbis.rwth-aachen.de		coordinator		
+Q141133941	infra	dsai	0000-0003-3794-0904	Arnim Bleier	arnim.bleier@gesis.org		coordinator		
+Q141133941	infra	dsai	0000-0002-8786-7250	Sonja Schimmler	sonja.schimmler@fokus.fraunhofer.de		coordinator		
+Q141133943	infra	eln	0000-0001-9513-2468	Nicole Jung			coordinator		
+Q141133943	infra	eln	0000-0003-1078-3304	Christof Wöll			coordinator		
+Q141133943	infra	eln	0000-0002-5035-7978	Felix Bach			coordinator		
+Q141133948	infra	iam	0000-0003-3175-0659	Marius Politze	politze@itc.rwth-aachen.de		coordinator		
+Q141133948	infra	iam	0000-0002-3346-2215	Wolfgang Pempe	pempe@dfn.de		coordinator		
+Q141133951	infra	ids	0000-0002-4643-4782	Petra Ritter	petra.ritter@charite.de		coordinator		
+Q141133954	infra	lta	0009-0006-3122-2951	Svenia Pohlkamp			coordinator		
+Q141133954	infra	lta	0000-0002-3999-1687	Tobias Steinke			coordinator		
+Q141133954	infra	lta	0000-0002-9316-8982	Katharina Markus			coordinator		
+Q141133954	infra	lta	0000-0002-8711-3221	Angela Hammer			coordinator		
+Q141133956	infra	mc	0000-0002-4405-3847	Alexander Sczyrba			coordinator		
+Q141133957	infra	oa	0000-0003-3175-0659	Marius Politze	politze@itc.rwth-aachen.de		coordinator		
+Q141133957	infra	oa	0000-0002-6992-1866	Philipp Wieder			coordinator		
+Q141133958	infra	pid	0000-0001-9547-1582	Sven Bingert			coordinator		
+Q141133958	infra	pid	0000-0002-0474-2410	Stephanie Hagemann-Wilholt			coordinator		
+Q125747942	infra	rse	0000-0002-3246-3531	Florian Thiery			coordinator		
+Q125747942	infra	rse	0000-0001-8188-620X	Bernd Flemisch			coordinator		
+Q141133970	edutrain	target_analysis	0000-0002-0355-2594	Britta Petersen			coordinator		
+	edutrain	materials	0000-0002-0452-7075	Jonathan D. Geiger			coordinator		
+	edutrain	modular_concept	0000-0003-3925-6778	Timo Mühlhaus			coordinator		
+	edutrain	knowledge_base	0000-0002-4354-4353	Sonja Herres-Pawlis			coordinator		
+Q141133960	edutrain	training_formats	0000-0002-1481-2996	Konrad Förstner			coordinator		
+Q141133960	edutrain	training_formats	0000-0002-8251-1597	Birte Lindstädt			coordinator		
+	edutrain	quality_assurance	0000-0002-0161-1888	Janna Neumann			coordinator		
+	edutrain	networking							
+Q141133988	edutrain	error_culture	0000-0002-4385-7245	Bernhard Miller			coordinator		
+Q141133988	edutrain	error_culture	0009-0004-4064-6065	Theo Bender			coordinator		
+Q141133988	edutrain	error_culture	0000-0002-8140-3519	Maximilian Frank			coordinator		
+Q141133979	edutrain	rdm_helpdesk	0000-0001-5655-0130	Martha Stellmacher	martha.stellmacher@slub-dresden.de		coordinator		
+Q141133979	edutrain	rdm_helpdesk	0000-0002-5546-5521	Marcus Schmidt	marcus.schmidt@zalf.de		coordinator		
+Q141133979	edutrain	rdm_helpdesk	0000-0001-8665-6382	Judith Engel	judith.engel@uni-bremen.de		coordinator		
+Q141133979	edutrain	rdm_helpdesk	0000-0003-4726-2481	Marina Lemaire	marina.lemaire@uni-trier.de		coordinator		
+Q141133979	edutrain	rdm_helpdesk	0000-0001-6708-1237	Kilian Hensen	Kilian.Hensen@uni-koeln.de		coordinator		
+Q141133916	industry	benefits_costs_risks	0000-0001-9449-9583	Christoph Eberl	chris.eberl@iwm.fraunhofer.de		coordinator		
+Q141133922	industry	cooperation_models							
+Q141133920	industry	data_spaces							
+Q141133920	industry	iab		Martina Fiddrich		Cornelsen Verlag GmbH	member		
+Q141133920	industry	iab		Michael Dose		Bundesverband der Deutschen Industrie (BDI) e.V.	member		
+Q141133920	industry	iab		Thomas Koenen		Bundesverband der Deutschen Industrie (BDI) e.V.	member		
+Q141133920	industry	iab		Julia Göhringer		Allianz SE	member		
+Q141133920	industry	iab		Ina Sebastian		Infineon Technologies AG	member		
+Q141133920	industry	iab		Corinna Hehlmann		Freudenberg (FTI)	member		
+Q141133920	industry	iab		Saskia Kress		Interactive Media Foundation gGmbH	member		
+Q141133920	industry	iab		Christine Regitz		SAP SE	member		
+Q141133920	industry	iab		Thomas Dauser		Südwestrundfunk (SWR)	member		
+Q141133920	industry	iab		Sicco Lehmann-Brauns		Siemens AG	member		
+Q141133928	industry	knowledge_transfer	0000-0002-2846-3424	Florian Stahl	florian.stahl@uni-mannheim.de	University of Mannheim	coordinator		
+Q140073062	int	landscape_survey	0000-0003-4423-4370	Charles Tapley Hoyt	charles.hoyt@ac.rwth-aachen.de	RWTH Aachen University	coordinator	2026-03	
+Q141133913	int	wg_eosc_node	0000-0002-7202-5982	Ilona Lang			coordinator		
+Q141133913	int	wg_eosc_node	0009-0006-5287-9119	Wilma Wolf			coordinator		
+	int	wg_outreach							

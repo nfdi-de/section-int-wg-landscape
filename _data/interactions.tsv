@@ -1,0 +1,47 @@
+wikidata	wg	external_name	external_short	external_wikidata	external_link	external_type	source	curator	curation_date	comment
+Q141133890	Knowledge Graphs	Open Research Knowledge Graph	ORKG	Q108127463	https://orkg.org	project	charter	orcid:0000-0003-4423-4370	2026-06-05	
+Q141133890	Knowledge Graphs	Wikimedia Germany		Q8288	https://www.wikimedia.de	organization	charter	orcid:0000-0003-4423-4370	2026-06-05	
+Q141133890	Knowledge Graphs	Wikibase Stakeholder Group		Q109375836	https://wbstakeholder.group	organization	charter	orcid:0000-0003-4423-4370	2026-06-05	
+Q141133890	Knowledge Graphs	Research Data Alliance Open Science Graphs for FAIR Data Interest Group			https://www.rd-alliance.org/groups/open-science-graphs-fair-data-ig/activity/	interest group	charter	orcid:0000-0003-4423-4370	2026-06-05	
+Q141133885	Terminology Services	Basic Register of Thesauri, Ontologies, and Classifications	BARTOC	Q22279816	https://bartoc.org/	project	charter	orcid:0000-0003-4423-4370	2026-06-05	
+Q141133885	Terminology Services	Networked Knowledge Organization Systems/Services/Structures	NKOS	Q41070759	https://nkos.dublincore.org/	project	charter	orcid:0000-0003-4423-4370	2026-06-05	
+Q141133885	Terminology Services	Research Data Alliance Vocabulary Services Interest Group	VSSIG		https://www.rd-alliance.org/groups/vocabulary-services-interest-group/activity/	interest group	charter	orcid:0000-0003-4423-4370	2026-06-05	
+Q141133885	Terminology Services	Linked Open Vocabularies	LOV	Q39392701	https://lov.linkeddata.es	data resource	charter	orcid:0000-0003-4423-4370	2026-06-05	
+Q139055838	Ontology Harmonization and Mapping	EOSC Task Force Semantic Interoperability			https://www.eosc.eu/sites/default/files/tfcharters/eosca_tfsemanticinteroperability_draftcharter_20210614.pdf	task force	charter	orcid:0000-0003-4423-4370	2026-06-05	
+Q139055838	Ontology Harmonization and Mapping	RDA Data Granularity WG			https://www.rd-alliance.org/groups/data-granularity-wg	working group	charter	orcid:0000-0003-4423-4370	2026-06-05	
+Q139055838	Ontology Harmonization and Mapping	W3C Web Ontology WG			https://www.w3.org/2002/11/swv2/charters/WebOntologyCharter	working group	charter	orcid:0000-0003-4423-4370	2026-06-05	
+Q139055838	Ontology Harmonization and Mapping	The Ontology Matching Community			http://ontologymatching.org/	organization	charter	orcid:0000-0003-4423-4370	2026-06-05	
+Q139055838	Ontology Harmonization and Mapping	Simple Standard for Sharing Ontological Mappings	SSSOM	Q108394480	https://academic.oup.com/database/article/doi/10.1093/database/baac035/6591806	standard	charter	orcid:0000-0003-4423-4370	2026-06-05	
+Q139055838	Ontology Harmonization and Mapping	Open Biological and Biomedical Ontology Foundry	OBO	Q7072326	https://obofoundry.org	organization	charter	orcid:0000-0003-4423-4370	2026-06-05	
+Q139055838	Ontology Harmonization and Mapping	Data for History Consortium			http://dataforhistory.org/	consortium	charter	orcid:0000-0003-4423-4370	2026-06-05	
+Q139055838	Ontology Harmonization and Mapping	CIDOC Conceptual Reference Model Special Interest Group			https://www.cidoc-crm.org/	interest group	charter	orcid:0000-0003-4423-4370	2026-06-05	
+Q139055838	Ontology Harmonization and Mapping	International Committee on Documentation	CIDOC	Q1666445	https://www.wikidata.org/wiki/Q1666445	committee	manual	orcid:0000-0003-4423-4370	2026-06-05	
+Q139055838	Ontology Harmonization and Mapping	LIDO Working Group		Q132576571	https://cidoc.mini.icom.museum/working-groups/lido/	working group	charter	orcid:0000-0003-4423-4370	2026-06-05	
+Q139055838	Ontology Harmonization and Mapping	Project Anwendung Interoperabler Metadatenstandards	AIMS		https://gepris.dfg.de/gepris/projekt/432233186	funding_call	charter	orcid:0000-0003-4423-4370	2026-06-05	
+Q139055838	Ontology Harmonization and Mapping	The FAIR Digital Objects Forum			https://fairdo.org/	organization	charter	orcid:0000-0003-4423-4370	2026-06-05	
+Q141133894	Research Software Metadata	Schema.org			https://schema.org	standard		orcid:0000-0003-4423-4370	2026-06-05	
+Q141133894	Research Software Metadata	CodeMeta			https://codemeta.github.io	standard		orcid:0000-0003-4423-4370	2026-06-05	
+Q141133894	Research Software Metadata	WG RSE in Common Infrastructure				working group		orcid:0000-0003-4423-4370	2026-06-05	
+Q141133894	Research Software Metadata	nfdi.software			https://base4nfdi.de/projects/nfdi-software	data resource		orcid:0000-0003-4423-4370	2026-06-05	
+Q141133894	Research Software Metadata	DMP4NFDI						orcid:0000-0003-4423-4370	2026-06-05	
+Q141133894	Research Software Metadata	Metadata schema for Software Management Plans			https://doi.org/10.5281/zenodo.8089518			orcid:0000-0003-4423-4370	2026-06-05	
+Q141133894	Research Software Metadata	ELIXIR Software Best Practices Group						orcid:0000-0003-4423-4370	2026-06-05	
+Q141133894	Research Software Metadata	DataDesc			https://arxiv.org/abs/2306.10620			orcid:0000-0003-4423-4370	2026-06-05	
+Q141133894	Research Software Metadata	FAIRCORE4EOSC			https://faircore4eosc.eu	project		orcid:0000-0003-4423-4370	2026-06-05	
+Q141133894	Research Software Metadata	FAIR-IMPACT			http://fair-impact.eu	project		orcid:0000-0003-4423-4370	2026-06-05	
+Q141133894	Research Software Metadata	Software Citation Implementation Working Group			https://force11.org/groups/software-citation-implementation-working-group			orcid:0000-0003-4423-4370	2026-06-05	
+Q141133894	Research Software Metadata	RDA FAIR for Research Software	FAIR4RS		https://www.rd-alliance.org/groups/fair-research-software-fair4rs-wg			orcid:0000-0003-4423-4370	2026-06-05	
+Q141133894	Research Software Metadata	SciCodes			https://scicodes.net			orcid:0000-0003-4423-4370	2026-06-05	
+Q141133894	Research Software Metadata	Software Mentions in Science	SoMeSci		https://data.gesis.org/somesci			orcid:0000-0003-4423-4370	2026-06-05	
+Q141133894	Research Software Metadata	Connected Open Source Software	ConnOSS		https://zenodo.org/records/15616384			orcid:0000-0003-4423-4370	2026-06-05	
+Q141133894	Research Software Metadata	FutuRSI			https://www.futursi.de			orcid:0000-0003-4423-4370	2026-06-05	
+Q141133894	Research Software Metadata	DiscoRSE			https://www.discorse.de			orcid:0000-0003-4423-4370	2026-06-05	
+Q141133939	Data Management Planning	Discipline-specific Guidance for Data Management Plans WG			https://www.rd-alliance.org/groups/discipline-specific-guidance-data-management-plans-wg			orcid:0000-0003-4423-4370	2026-06-05	
+Q141133939	Data Management Planning	DINI/nestor-AG Forschungsdaten UAG DMP			https://www.forschungsdaten.org/index.php/UAG_Datenmanagementpl%C3%A4ne			orcid:0000-0003-4423-4370	2026-06-05	
+Q141133939	Data Management Planning	RDMO Consortium			https://rdmorganiser.github.io/rdmo_arge/			orcid:0000-0003-4423-4370	2026-06-05	
+Q141133941	Data Science and Artificial Intelligence	Consortium of European Social Science Data Archives	CESSDA		https://www.cessda.eu			orcid:0000-0003-4423-4370	2026-06-05
+Q141133941	Data Science and Artificial Intelligence	GWDG						orcid:0000-0003-4423-4370	2026-06-05	
+Q141133941	Data Science and Artificial Intelligence	EG						orcid:0000-0003-4423-4370	2026-06-05	
+Q141133948	Identity and Access Management	EOSC AII			https://op.europa.eu/de/publication-detail/-/publication/d1bc3702-61e5-11eb-aeb5-01aa75ed71a1/language-de			orcid:0000-0003-4423-4370	2026-06-05	
+Q141133948	Identity and Access Management	NHR								
+Q141133948	Identity and Access Management	GAIX-X								
