@@ -54,7 +54,7 @@ international funding. However, it also presents three key challenges:
 3. Navigating the complex landscape of national, and international entities is
    overwhelming, especially when onboarding new individuals to the NFDI
 
-# Goals
+## Goals
 
 The primary goals of NFDI Section Internationalization Working Group for
 Landscaping and Outreach (_WG Landscape_) are to address the previously stated
