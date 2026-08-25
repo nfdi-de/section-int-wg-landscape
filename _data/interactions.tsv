@@ -75,12 +75,12 @@ Q141133957	Overall Architecture	Verbund für Nationales Hochleistungsrechnen	NHR
 Q141133958	Persistent Identifiers	DataCite			https://www.datacite.org/		charter	orcid:0000-0003-4423-4370	2026-08-25		
 Q141133958	Persistent Identifiers	DOI foundation			https://www.doi.org/the-foundation/about-us/		charter	orcid:0000-0003-4423-4370	2026-08-25		
 Q141133958	Persistent Identifiers	ePIC			https://pid4nfdi-training.readthedocs.io/en/latest/epic.html		charter	orcid:0000-0003-4423-4370	2026-08-25		
-Q141133958	Persistent Identifiers	ORCiD			https://orcid.org		charter	orcid:0000-0003-4423-4370	2026-08-25		
-Q141133958	Persistent Identifiers	Research Organization Registry	ROR		https://ror.org		charter	orcid:0000-0003-4423-4370	2026-08-25		
-Q141133958	Persistent Identifiers	Gemeinsame Normdatei	GND		https://lobid.org		charter	orcid:0000-0003-4423-4370	2026-08-25		
-Q141133958	Persistent Identifiers	Virtual International Authority File	VIAF		http://viaf.org		charter	orcid:0000-0003-4423-4370	2026-08-25		
-Q141133958	Persistent Identifiers	PID Graph			https://project-freya.eu/the-pid-graph.html		charter	orcid:0000-0003-4423-4370	2026-08-25	develiped by EU funded project FREYA	
-Q141133958	Persistent Identifiers	EU funded project FREYA			https://project-freya.eu		charter	orcid:0000-0003-4423-4370	2026-08-25		
+Q141133958	Persistent Identifiers	ORCiD			https://orcid.org	data resource	charter	orcid:0000-0003-4423-4370	2026-08-25		
+Q141133958	Persistent Identifiers	Research Organization Registry	ROR		https://ror.org	data resource	charter	orcid:0000-0003-4423-4370	2026-08-25		
+Q141133958	Persistent Identifiers	Gemeinsame Normdatei	GND		https://lobid.org	data resource	charter	orcid:0000-0003-4423-4370	2026-08-25		
+Q141133958	Persistent Identifiers	Virtual International Authority File	VIAF		http://viaf.org	data resource	charter	orcid:0000-0003-4423-4370	2026-08-25		
+Q141133958	Persistent Identifiers	PID Graph			https://project-freya.eu/the-pid-graph.html	data resource	charter	orcid:0000-0003-4423-4370	2026-08-25	develiped by EU funded project FREYA	
+Q141133958	Persistent Identifiers	EU funded project FREYA			https://project-freya.eu	project	charter	orcid:0000-0003-4423-4370	2026-08-25		
 Q141133958	Persistent Identifiers	CAU Kiel			https://www.uni-kiel.de		charter	orcid:0000-0003-4423-4370	2026-08-25		
 Q141133958	Persistent Identifiers	Data Infrastructure Capacity for EOSC	DICE		https://www.dice-eosc.eu/		charter	orcid:0000-0003-4423-4370	2026-08-25		
 Q141133958	Persistent Identifiers	FAIRCORE4EOSC			https://faircore4eosc.eu		charter	orcid:0000-0003-4423-4370	2026-08-25		
@@ -125,9 +125,9 @@ Q125747942	Research Software Engineering	Free Software Foundation Europe e.V.			
 Q125747942	Research Software Engineering	Arbeitsgruppe Research Software Engineering in den Digital Humanities	AG DH-RSE		https://digitalhumanities.de/ag-research-software-engineering-in-den-digital-humanities-dh-rse/	working group	charter	orcid:0000-0003-4423-4370	2026-08-25		Daniel Jettka
 Q140073062	Landscaping and Outreach	Community Research and Development Information Service	CORDIS		https://cordis.europa.eu		charter	orcid:0000-0003-4423-4370	2026-08-25		
 Q140073062	Landscaping and Outreach	European Strategy Forum on Research Infrastructures	ESFRI		https://research-and-innovation.ec.europa.eu/strategy/strategy-research-and-innovation/our-digital-future/european-research-infrastructures/esfri_en		charter	orcid:0000-0003-4423-4370	2026-08-25		
-Q140073062	Landscaping and Outreach	Research Organization Registry	ROR		https://ror.org		charter	orcid:0000-0003-4423-4370	2026-08-25		
-Q140073062	Landscaping and Outreach	Wikidata			https://www.wikidata.org/wiki/Wikidata:Main_Page		charter	orcid:0000-0003-4423-4370	2026-08-25		
-Q140073062	Landscaping and Outreach	European Open Science Cloud	EOSC		https://open-science-cloud.ec.europa.eu		charter	orcid:0000-0003-4423-4370	2026-08-25		
+Q140073062	Landscaping and Outreach	Research Organization Registry	ROR		https://ror.org	data resource	charter	orcid:0000-0003-4423-4370	2026-08-25		
+Q140073062	Landscaping and Outreach	Wikidata		Q2013	https://www.wikidata.org/wiki/Wikidata:Main_Page	data resource	charter	orcid:0000-0003-4423-4370	2026-08-25		
+Q140073062	Landscaping and Outreach	European Open Science Cloud	EOSC	Q29051497	https://open-science-cloud.ec.europa.eu	project	charter	orcid:0000-0003-4423-4370	2026-08-25		
 Q140073062	Landscaping and Outreach	Section Industry WG Cooperation		Q141133922		working group	charter	orcid:0000-0003-4423-4370	2026-08-25		
 Q140073062	Landscaping and Outreach	Section Int WG EOSC		Q141133913		working group	charter	orcid:0000-0003-4423-4370	2026-08-25		
 Q140073062	Landscaping and Outreach	Section EduTrain Networking and Outreach				working group	charter	orcid:0000-0003-4423-4370	2026-08-25		
