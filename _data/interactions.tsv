@@ -43,48 +43,48 @@ Q141133941	Data Science and Artificial Intelligence	Consortium of European Socia
 Q141133941	Data Science and Artificial Intelligence	GWDG						orcid:0000-0003-4423-4370	2026-06-05		
 Q141133941	Data Science and Artificial Intelligence	EG						orcid:0000-0003-4423-4370	2026-06-05		
 Q141133948	Identity and Access Management	EOSC AII			https://op.europa.eu/de/publication-detail/-/publication/d1bc3702-61e5-11eb-aeb5-01aa75ed71a1/language-de			orcid:0000-0003-4423-4370	2026-06-05		
-Q141133948	Identity and Access Management	NHR									
-Q141133948	Identity and Access Management	GAIX-X									
+Q141133948	Identity and Access Management	Verbund für Nationales Hochleistungsrechnen	NHR		https://www.nhr-verein.de
+Q141133948	Identity and Access Management	GAIX-X			https://www.gaia-x.eu
 Q141133896	Search and Harvesting	NFDI Research Software Engineering WG		Q125747942		working group	charter	orcid:0000-0003-4423-4370	2026-08-25		
 Q141133896	Search and Harvesting	NFDI Data Integration WG		Q141133933		working group	charter	orcid:0000-0003-4423-4370	2026-08-25		
 Q141133896	Search and Harvesting	NFDI WG Onto		Q139055838		working group	charter	orcid:0000-0003-4423-4370	2026-08-25		
 Q141133896	Search and Harvesting	NFDI WG Terminology		Q141133885		working group	charter	orcid:0000-0003-4423-4370	2026-08-25		
 Q141133896	Search and Harvesting	NFDI WG KG		Q141133890		working group	charter	orcid:0000-0003-4423-4370	2026-08-25		
-Q141133896	Search and Harvesting	RDA Data Discovery Paradigms IG				interest group	charter	orcid:0000-0003-4423-4370	2026-08-25		B. Mathiak (member), H. Widmann (member)
-Q141133896	Search and Harvesting	RDA Data Granularity WG				working group	charter	orcid:0000-0003-4423-4370	2026-08-25		B. Mathiak (co-chair)
-Q141133896	Search and Harvesting	RDA IG FAIR Digital Object Fabric				working group	charter	orcid:0000-0003-4423-4370	2026-08-25		R. Stotzka (Co-chair)
-Q141133896	Search and Harvesting	GoFAIR Discovery IN					charter	orcid:0000-0003-4423-4370	2026-08-25		B. Mathiak (Co-chair), H. Widmann (member)
-Q141133896	Search and Harvesting	EOSC Taskforce Semantic Interoperability				task force	charter	orcid:0000-0003-4423-4370	2026-08-25		H. Widmann (member)
-Q141133956	Multi-Cloud	BMBF FAIR DS project				project	charter	orcid:0000-0003-4423-4370	2026-08-25	see https://docs.google.com/document/d/1qoViQAJ-RttDDFcqCCvAzXtxlsNwcezldz1ujPxOc2U/edit	
-Q141133956	Multi-Cloud	Worldwide LHC Computing Grid	WLCG			project	charter	orcid:0000-0003-4423-4370	2026-08-25		
-Q141133957	Overall Architecture	European Open Science Cloud	EOSC			project	charter	orcid:0000-0003-4423-4370	2026-08-25	see https://research-and-innovation.ec.europa.eu/strategy/strategy-2020-2024/our-digital-future/open-science/euro	
+Q141133896	Search and Harvesting	RDA Data Discovery Paradigms IG			https://www.rd-alliance.org/groups/data-discovery-paradigms-ig	interest group	charter	orcid:0000-0003-4423-4370	2026-08-25		B. Mathiak (member), H. Widmann (member)
+Q141133896	Search and Harvesting	RDA Data Granularity WG			https://www.rd-alliance.org/groups/data-granularity-wg	working group	charter	orcid:0000-0003-4423-4370	2026-08-25		B. Mathiak (co-chair)
+Q141133896	Search and Harvesting	RDA IG FAIR Digital Object Fabric			www.rd-alliance.org/group/data-fabric-ig	working group	charter	orcid:0000-0003-4423-4370	2026-08-25		R. Stotzka (Co-chair)
+Q141133896	Search and Harvesting	GoFAIR Discovery IN			https://www.go-fair.org/implementation-networks/overview/discovery/		charter	orcid:0000-0003-4423-4370	2026-08-25		B. Mathiak (Co-chair), H. Widmann (member)
+Q141133896	Search and Harvesting	EOSC Taskforce Semantic Interoperability			https://eosc.eu/advisory-groups/technical-and-semantic-interoperability-task-force	task force	charter	orcid:0000-0003-4423-4370	2026-08-25		H. Widmann (member)
+Q141133956	Multi-Cloud	BMBF FAIR DS project			https://www.nfdi.de/fair-data-spaces/?lang=en	project	charter	orcid:0000-0003-4423-4370	2026-08-25	see https://docs.google.com/document/d/1qoViQAJ-RttDDFcqCCvAzXtxlsNwcezldz1ujPxOc2U/edit
+Q141133956	Multi-Cloud	Worldwide LHC Computing Grid	WLCG		https://home.cern/science/computing/grid/	project	charter	orcid:0000-0003-4423-4370	2026-08-25
+Q141133957	Overall Architecture	European Open Science Cloud	EOSC		https://open-science-cloud.ec.europa.eu		project	charter	orcid:0000-0003-4423-4370	2026-08-25	see https://research-and-innovation.ec.europa.eu/strategy/strategy-2020-2024/our-digital-future/open-science/euro
 Q141133957	Overall Architecture	Common European Data Spaces			https://digital-strategy.ec.europa.eu/en/policies/data-spaces	project	charter	orcid:0000-0003-4423-4370	2026-08-25		
 Q141133957	Overall Architecture	Common International Data Spaces			https://internationaldataspaces.org	project	charter	orcid:0000-0003-4423-4370	2026-08-25		
 Q141133957	Overall Architecture	GAIA-X			https://gaia-x.eu		charter	orcid:0000-0003-4423-4370	2026-08-25		
 Q141133957	Overall Architecture	Australian Research Data Commons	ARDC		https://ardc.edu.au		charter	orcid:0000-0003-4423-4370	2026-08-25		
 Q141133957	Overall Architecture	NIH Research Data Commons	NIH-RDC		https://commonfund.nih.gov/commons		charter	orcid:0000-0003-4423-4370	2026-08-25		
 Q141133957	Overall Architecture	RDA Global Open Research Commons			https://www.rd-alliance.org/groups/global-open-research-commons-ig/activity/		charter	orcid:0000-0003-4423-4370	2026-08-25		
-Q141133957	Overall Architecture	Deutsches Netzwerk für Bioinformatik-Infrastruktur	de.NBI				charter	orcid:0000-0003-4423-4370	2026-08-25		
-Q141133957	Overall Architecture	ELIXIR						charter	orcid:0000-0003-4423-4370	2026-08-25	
-Q141133957	Overall Architecture	Deutsches Forschungsnetzwerk	DFN				charter	orcid:0000-0003-4423-4370	2026-08-25		
-Q141133957	Overall Architecture	European Grid Initiative	EGI				charter	orcid:0000-0003-4423-4370	2026-08-25		
+Q141133957	Overall Architecture	Deutsches Netzwerk für Bioinformatik-Infrastruktur	de.NBI		https://www.denbi.de		charter	orcid:0000-0003-4423-4370	2026-08-25
+Q141133957	Overall Architecture	ELIXIR			https://elixir-europe.org			charter	orcid:0000-0003-4423-4370	2026-08-25
+Q141133957	Overall Architecture	Deutsches Forschungsnetzwerk	DFN		https://www.dfn.de/		charter	orcid:0000-0003-4423-4370	2026-08-25
+Q141133957	Overall Architecture	European Grid Initiative	EGI		https://egi.eu		charter	orcid:0000-0003-4423-4370	2026-08-25
 Q141133957	Overall Architecture	Gigabit European Academic Network	GÉANT		https://geant.org/	organization	charter	orcid:0000-0003-4423-4370	2026-08-25		
-Q141133957	Overall Architecture	The Software Heritage					charter	orcid:0000-0003-4423-4370	2026-08-25		
-Q141133957	Overall Architecture	Verbund für Nationales Hochleistungsrechnen	NHR				charter	orcid:0000-0003-4423-4370	2026-08-25		
-Q141133958	Persistent Identifiers	DataCite					charter	orcid:0000-0003-4423-4370	2026-08-25		
-Q141133958	Persistent Identifiers	DOI foundation					charter	orcid:0000-0003-4423-4370	2026-08-25		
-Q141133958	Persistent Identifiers	ePIC					charter	orcid:0000-0003-4423-4370	2026-08-25		
-Q141133958	Persistent Identifiers	ORCiD					charter	orcid:0000-0003-4423-4370	2026-08-25		
-Q141133958	Persistent Identifiers	Research Organization Registry	ROR				charter	orcid:0000-0003-4423-4370	2026-08-25		
-Q141133958	Persistent Identifiers	Gemeinsame Normdatei	GND				charter	orcid:0000-0003-4423-4370	2026-08-25		
-Q141133958	Persistent Identifiers	Virtual International Authority File	VIAF				charter	orcid:0000-0003-4423-4370	2026-08-25		
+Q141133957	Overall Architecture	The Software Heritage			https://www.softwareheritage.org/		charter	orcid:0000-0003-4423-4370	2026-08-25
+Q141133957	Overall Architecture	Verbund für Nationales Hochleistungsrechnen	NHR		https://www.nhr-verein.de/		charter	orcid:0000-0003-4423-4370	2026-08-25
+Q141133958	Persistent Identifiers	DataCite			https://www.datacite.org/		charter	orcid:0000-0003-4423-4370	2026-08-25
+Q141133958	Persistent Identifiers	DOI foundation			https://www.doi.org/the-foundation/about-us/		charter	orcid:0000-0003-4423-4370	2026-08-25
+Q141133958	Persistent Identifiers	ePIC			https://pid4nfdi-training.readthedocs.io/en/latest/epic.html		charter	orcid:0000-0003-4423-4370	2026-08-25
+Q141133958	Persistent Identifiers	ORCiD			https://orcid.org		charter	orcid:0000-0003-4423-4370	2026-08-25
+Q141133958	Persistent Identifiers	Research Organization Registry	ROR		https://ror.org		charter	orcid:0000-0003-4423-4370	2026-08-25
+Q141133958	Persistent Identifiers	Gemeinsame Normdatei	GND		https://lobid.org		charter	orcid:0000-0003-4423-4370	2026-08-25
+Q141133958	Persistent Identifiers	Virtual International Authority File	VIAF		http://viaf.org		charter	orcid:0000-0003-4423-4370	2026-08-25
 Q141133958	Persistent Identifiers	PID Graph					charter	orcid:0000-0003-4423-4370	2026-08-25	develiped by EU funded project FREYA	
-Q141133958	Persistent Identifiers	EU funded project FREYA					charter	orcid:0000-0003-4423-4370	2026-08-25		
-Q141133958	Persistent Identifiers	CAU Kiel					charter	orcid:0000-0003-4423-4370	2026-08-25		
-Q141133958	Persistent Identifiers	DICE (eosc?)					charter	orcid:0000-0003-4423-4370	2026-08-25		
+Q141133958	Persistent Identifiers	EU funded project FREYA			https://project-freya.eu		charter	orcid:0000-0003-4423-4370	2026-08-25
+Q141133958	Persistent Identifiers	CAU Kiel			https://www.uni-kiel.de		charter	orcid:0000-0003-4423-4370	2026-08-25
+Q141133958	Persistent Identifiers	Data Infrastructure Capacity for EOSC	DICE		https://www.dice-eosc.eu/		charter	orcid:0000-0003-4423-4370	2026-08-25
 Q141133958	Persistent Identifiers	FAIRCORE4EOSC			https://faircore4eosc.eu		charter	orcid:0000-0003-4423-4370	2026-08-25		
 Q141133958	Persistent Identifiers	Research Data Alliance	RDA	Q25338539	https://www.rd-alliance.org/	organization	charter	orcid:0000-0003-4423-4370	2026-08-25		
-Q141133988	Error Culture in Science	DINI/Nestor									
+Q141133988	Error Culture in Science	Deustche Initiative für Netzwerkinformation e.V.	DINI/Nestor		https://dini.de
 Q141133988	Error Culture in Science	RDA									
 Q141133988	Error Culture in Science	DFG									
 Q141133988	Error Culture in Science	DataPlant									
@@ -96,7 +96,7 @@ Q141133988	Error Culture in Science	NFDI4Culture
 Q141133988	Error Culture in Science	NFDI4Matwerk									
 Q141133988	Error Culture in Science	PUNCH4NFDI									
 Q141133960	Training Formats and Certificate Courses	University Bremen					charter	orcid:0000-0003-4423-4370	2026-08-25		
-Q141133960	Training Formats and Certificate Courses	Leuphana University DataX Program					charter	orcid:0000-0003-4423-4370	2026-08-25		
+Q141133960	Training Formats and Certificate Courses	Leuphana University DataX Program			https://www.leuphana.de/en/teaching/teaching-development/projects/completed-projects/datax.html		charter	orcid:0000-0003-4423-4370	2026-08-25
 Q141133960	Training Formats and Certificate Courses	University Kiel RDM educational program					charter	orcid:0000-0003-4423-4370	2026-08-25		
 Q141133960	Training Formats and Certificate Courses	The Carpentries					charter	orcid:0000-0003-4423-4370	2026-08-25		
 Q141133970	Target Group and Needs Analysis	SSH Open Marketplace			https://marketplace.sshopencloud.eu/search?categories=training-material&order=label		charter	orcid:0000-0003-4423-4370	2026-08-25		
@@ -108,20 +108,20 @@ Q141133970	Target Group and Needs Analysis	DINI/nestor AG Research Data			https:
 Q141133970	Target Group and Needs Analysis	RDMKit			https://rdmkit.elixir-europe.org/		charter	orcid:0000-0003-4423-4370	2026-08-25		
 Q141133970	Target Group and Needs Analysis	DataOne			https://dataoneorg.github.io/Education/		charter	orcid:0000-0003-4423-4370	2026-08-25		
 Q141133970	Target Group and Needs Analysis	Earth Sciences Information Partnership	ESIP		https://dmtclearinghouse.esipfed.org/home		charter	orcid:0000-0003-4423-4370	2026-08-25		
-Q141133970	Target Group and Needs Analysis	FAIRsFAIR					charter	orcid:0000-0003-4423-4370	2026-08-25		
+Q141133970	Target Group and Needs Analysis	FAIRsFAIR			https://www.fairsfair.eu	project	charter	orcid:0000-0003-4423-4370	2026-08-25
 Q141133970	Target Group and Needs Analysis	School of Data			https://schoolofdata.org		charter	orcid:0000-0003-4423-4370	2026-08-25		
 Q141133970	Target Group and Needs Analysis	FAIRsFAIR Training Library			https://www.fairsfair.eu/competence-centre/training-library		charter	orcid:0000-0003-4423-4370	2026-08-25		
 Q141133970	Target Group and Needs Analysis	Training eSupport System	TeSS		https://tess.elixir-europe.org		charter	orcid:0000-0003-4423-4370	2026-08-25		
 Q141133970	Target Group and Needs Analysis	Programming Historian			https://programminghistorian.org	data resource	charter	orcid:0000-0003-4423-4370	2026-08-25		
-Q141133970	Target Group and Needs Analysis	de.NBI			https://www.denbi.de/training	data resource	charter	orcid:0000-0003-4423-4370	2026-08-25		
+Q141133970	Target Group and Needs Analysis	Deutsches Netzwerk für Bioinformatik-Infrastruktur	de.NBI		https://www.denbi.de	data resource	charter	orcid:0000-0003-4423-4370	2026-08-25
 Q125747942	Research Software Engineering	EOSC Task Force Infrastructure for Quality Research Software				task force	charter	orcid:0000-0003-4423-4370	2026-08-25		Bernd Flemisch, Leyla Jael Castro
-Q125747942	Research Software Engineering	RDA FAIR for Research Software (FAIR4RS) WG				working group	charter	orcid:0000-0003-4423-4370	2026-08-25		Leyla Jael Castro, Tibor Kalman
-Q125747942	Research Software Engineering	EURISE Network					charter	orcid:0000-0003-4423-4370	2026-08-25		Tibor Kalman
+Q125747942	Research Software Engineering	RDA FAIR for Research Software (FAIR4RS) WG			https://www.rd-alliance.org/groups/fair-research-software-fair4rs-wg/members/all-members/	working group	charter	orcid:0000-0003-4423-4370	2026-08-25		Leyla Jael Castro, Tibor Kalman
+Q125747942	Research Software Engineering	EURISE Network			https://eurise-network.github.io		charter	orcid:0000-0003-4423-4370	2026-08-25		Tibor Kalman
 Q125747942	Research Software Engineering	Allianz Initiative					charter	orcid:0000-0003-4423-4370	2026-08-25		Konrad Förstner
-Q125747942	Research Software Engineering	deRSE e.V.					charter	orcid:0000-0003-4423-4370	2026-08-25		Frank Löffler
-Q125747942	Research Software Engineering	International Council of RSE associations					charter	orcid:0000-0003-4423-4370	2026-08-25		Frank Löffler
-Q125747942	Research Software Engineering	Free Software Foundation Europe e.V.					charter	orcid:0000-0003-4423-4370	2026-08-25		Christian Busse
-Q125747942	Research Software Engineering	AG DH-RSE					charter	orcid:0000-0003-4423-4370	2026-08-25		Daniel Jettka
+Q125747942	Research Software Engineering	deRSE e.V.			https://de-rse.org/en/		charter	orcid:0000-0003-4423-4370	2026-08-25		Frank Löffler
+Q125747942	Research Software Engineering	International Council of RSE associations			https://researchsoftware.org/council.html		charter	orcid:0000-0003-4423-4370	2026-08-25		Frank Löffler
+Q125747942	Research Software Engineering	Free Software Foundation Europe e.V.			https://fsfe.org	organization	charter	orcid:0000-0003-4423-4370	2026-08-25		Christian Busse
+Q125747942	Research Software Engineering	Arbeitsgruppe Research Software Engineering in den Digital Humanities	AG DH-RSE		https://digitalhumanities.de/ag-research-software-engineering-in-den-digital-humanities-dh-rse/	working group	charter	orcid:0000-0003-4423-4370	2026-08-25		Daniel Jettka
 Q140073062	Landscaping and Outreach	Community Research and Development Information Service	CORDIS		https://cordis.europa.eu		charter	orcid:0000-0003-4423-4370	2026-08-25		
 Q140073062	Landscaping and Outreach	European Strategy Forum on Research Infrastructures	ESFRI		https://research-and-innovation.ec.europa.eu/strategy/strategy-research-and-innovation/our-digital-future/european-research-infrastructures/esfri_en		charter	orcid:0000-0003-4423-4370	2026-08-25		
 Q140073062	Landscaping and Outreach	Research Organization Registry	ROR		https://ror.org		charter	orcid:0000-0003-4423-4370	2026-08-25		
