@@ -91,6 +91,7 @@ permalink: /curation/
 <th>External</th>
 <th>External Wikidata</th>
 <th>External Type</th>
+<th>External Locale</th>
 </tr>
 </thead>
 <tbody>
@@ -124,6 +125,7 @@ permalink: /curation/
     {% endif %}
 </td>
 <td>{{ record.external_type }}</td>
+<td>{% if record.external_locale %}{{ record.external_locale }}{% endif %}</td>
 </tr>
 {% endfor %}
 </tbody>
