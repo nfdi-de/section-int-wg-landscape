@@ -24,7 +24,7 @@ Q141133894	Research Software Metadata	Schema.org	SDO	Q3475322		https://schema.or
 Q141133894	Research Software Metadata	CodeMeta				https://codemeta.github.io	standard	charter	orcid:0000-0003-4423-4370	2026-06-05		
 Q141133894	Research Software Metadata	WG RSE in Common Infrastructure					working group	charter	orcid:0000-0003-4423-4370	2026-06-05		
 Q141133894	Research Software Metadata	nfdi.software			NFDI	https://base4nfdi.de/projects/nfdi-software	data resource	charter	orcid:0000-0003-4423-4370	2026-06-05		
-Q141133894	Research Software Metadata	DMP4NFDI			NFDI			charter	orcid:0000-0003-4423-4370	2026-06-05		
+Q141133894	Research Software Metadata	DMP4NFDI			NFDI		nfdi section	charter	orcid:0000-0003-4423-4370	2026-06-05
 Q141133894	Research Software Metadata	Metadata schema for Software Management Plans				https://doi.org/10.5281/zenodo.8089518		charter	orcid:0000-0003-4423-4370	2026-06-05		
 Q141133894	Research Software Metadata	ELIXIR Software Best Practices Group			Europe	https://elixir-europe.org/internal-projects/commissioned-services/software-best-practices		charter	orcid:0000-0003-4423-4370	2026-06-05		
 Q141133894	Research Software Metadata	DataDesc				https://arxiv.org/abs/2306.10620		charter	orcid:0000-0003-4423-4370	2026-06-05		
@@ -66,10 +66,10 @@ Q141133957	Overall Architecture	Australian Research Data Commons	ARDC	Q4824459	A
 Q141133957	Overall Architecture	NIH Research Data Commons	NIH-RDC		USA	https://commonfund.nih.gov/commons		charter	orcid:0000-0003-4423-4370	2026-08-25		
 Q141133957	Overall Architecture	RDA Global Open Research Commons			International	https://www.rd-alliance.org/groups/global-open-research-commons-ig/activity/		charter	orcid:0000-0003-4423-4370	2026-08-25		
 Q141133957	Overall Architecture	Deutsches Netzwerk für Bioinformatik-Infrastruktur	de.NBI	Q61705390	DE	https://www.denbi.de		charter	orcid:0000-0003-4423-4370	2026-08-25		
-Q141133957	Overall Architecture	ELIXIR		Q12269561	Europe	https://elixir-europe.org		charter	orcid:0000-0003-4423-4370	2026-08-25		
-Q141133957	Overall Architecture	Deutsches Forschungsnetzwerk	DFN		DE	https://www.dfn.de/		charter	orcid:0000-0003-4423-4370	2026-08-25		
-Q141133957	Overall Architecture	European Grid Initiative	EGI		Eurioe	https://egi.eu		charter	orcid:0000-0003-4423-4370	2026-08-25		
-Q141133957	Overall Architecture	Gigabit European Academic Network	GÉANT			https://geant.org/	organization	charter	orcid:0000-0003-4423-4370	2026-08-25		
+Q141133957	Overall Architecture	ELIXIR		Q12269561	Europe	https://elixir-europe.org	organization	charter	orcid:0000-0003-4423-4370	2026-08-25
+Q141133957	Overall Architecture	Deutsches Forschungsnetzwerk	DFN		DE	https://www.dfn.de/	organization	charter	orcid:0000-0003-4423-4370	2026-08-25
+Q141133957	Overall Architecture	European Grid Initiative	EGI		Europe	https://egi.eu		charter	orcid:0000-0003-4423-4370	2026-08-25
+Q141133957	Overall Architecture	Gigabit European Academic Network	GÉANT		Europe	https://geant.org/	organization	charter	orcid:0000-0003-4423-4370	2026-08-25
 Q141133957	Overall Architecture	The Software Heritage				https://www.softwareheritage.org/		charter	orcid:0000-0003-4423-4370	2026-08-25		
 Q141133957	Overall Architecture	Verbund für Nationales Hochleistungsrechnen	NHR		DE	https://www.nhr-verein.de/		charter	orcid:0000-0003-4423-4370	2026-08-25		
 Q141133958	Persistent Identifiers	DataCite		Q821542		https://www.datacite.org/		charter	orcid:0000-0003-4423-4370	2026-08-25		
@@ -101,10 +101,10 @@ Q141133960	Training Formats and Certificate Courses	Leuphana University DataX Pr
 Q141133960	Training Formats and Certificate Courses	University Kiel RDM educational program			DE			charter	orcid:0000-0003-4423-4370	2026-08-25		
 Q141133960	Training Formats and Certificate Courses	The Carpentries		Q74245723	US	https://carpentries.org		charter	orcid:0000-0003-4423-4370	2026-08-25		
 Q141133970	Target Group and Needs Analysis	Social Sciences and Humanities Open Marketplace	SSH Open Marketplace	Q131847864	Europe	https://marketplace.sshopencloud.eu/search?categories=training-material&order=label		charter	orcid:0000-0003-4423-4370	2026-08-25		
-Q141133970	Target Group and Needs Analysis	The Carpentries		Q74245723		https://carpentries.org		charter	orcid:0000-0003-4423-4370	2026-08-25		
-Q141133970	Target Group and Needs Analysis	Data Carpentry				https://datacarpentry.org		charter	orcid:0000-0003-4423-4370	2026-08-25		
-Q141133970	Target Group and Needs Analysis	Software Carpentry				https://software-carpentry.org		charter	orcid:0000-0003-4423-4370	2026-08-25		
-Q141133970	Target Group and Needs Analysis	Library Carpentry				https://librarycarpentry.org		charter	orcid:0000-0003-4423-4370	2026-08-25		
+Q141133970	Target Group and Needs Analysis	The Carpentries		Q74245723	US	https://carpentries.org	organization	charter	orcid:0000-0003-4423-4370	2026-08-25
+Q141133970	Target Group and Needs Analysis	Data Carpentry			US	https://datacarpentry.org	organization	charter	orcid:0000-0003-4423-4370	2026-08-25
+Q141133970	Target Group and Needs Analysis	Software Carpentry			US	https://software-carpentry.org	organization	charter	orcid:0000-0003-4423-4370	2026-08-25
+Q141133970	Target Group and Needs Analysis	Library Carpentry			US	https://librarycarpentry.org	organization	charter	orcid:0000-0003-4423-4370	2026-08-25
 Q141133970	Target Group and Needs Analysis	DINI/nestor AG Research Data			DE	https://dini.de/ag/dininestor-ag-forschungsdaten	working group	charter	orcid:0000-0003-4423-4370	2026-08-25		
 Q141133970	Target Group and Needs Analysis	RDMKit			Europe	https://rdmkit.elixir-europe.org/		charter	orcid:0000-0003-4423-4370	2026-08-25		
 Q141133970	Target Group and Needs Analysis	DataOne		Q5227120		https://dataoneorg.github.io/Education/		charter	orcid:0000-0003-4423-4370	2026-08-25		
