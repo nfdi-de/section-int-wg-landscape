@@ -3,8 +3,8 @@
 2			Ana EE	-
 3			BBMRI	member	Biobank
 4			CERIC	-
-5			CESSDA	member	GESIS, Leibniz-Inst.
-6			CLARIN	member	CLARIN-D -> DARIAH-DE
+5	Q19372318	02wg9xc72	CESSDA	member	GESIS, Leibniz-Inst. (Q1485220)
+6			CLARIN	member	CLARIN-D (Q15790749) -> DARIAH-DE (Q55520740)
 7			DARIAH	member	-> Göttingen, Staats- u. Uni-BIB; Text+, NFDI4Culture, NFDI4Memory, NFDI4Objects
 8			EATRIS	-
 9			ECCSEL	-
