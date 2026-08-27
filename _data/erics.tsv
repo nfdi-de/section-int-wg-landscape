@@ -1,28 +1,28 @@
-	wikidata	ror	ERIC	Status Germany	Connection to NFDI Community
-1			Actris	member
-2			Ana EE	-
-3			BBMRI	member	Biobank
-4			CERIC	-
-5	Q19372318	02wg9xc72	CESSDA	member	GESIS, Leibniz-Inst. (Q1485220)
-6			CLARIN	member	CLARIN-D (Q15790749) -> DARIAH-DE (Q55520740)
-7			DARIAH	member	-> Göttingen, Staats- u. Uni-BIB; Text+, NFDI4Culture, NFDI4Memory, NFDI4Objects
-8			EATRIS	-
-9			ECCSEL	-
-10			ECRIN	member	clinical research
-11			ELI	-
-12			EMBRC	-	Marine biology (EuBI partner!)
-13			EMSO	-	Sea and climate change
-14			EPOS	- (last year of observer)	GfZ (Helmholtz), NFDI4Earth
-15			ESS	member	European Social Survey -> GESIS, Christof Wolf
-16			EU-OPENSCREEN	member	Hosted in Germany -> Phil Gribbon (NFDI consortium DeBioData, not funded), coop. w/ NFDI4BIOIMAGE
-17			EU-SOLARIS	member
-18			Euro-Argo	member
-19			Euro-BioImaging	-	Hosted at EMBL in Heidelberg, coop. w/ NFDI4BIOIMAGE, e.g., Galaxy -> EOSC
-20			European Spallation Source	member
-21			ICOS	member	Carbon observation
-22			INFRAFRONTIER	member	Phenotyping model systems
-23			INSTRUCT	member	Harald Schwalbe, Uni Frankfurt; FZJ Carsten Sachse (Helmholtz)
-24			JIV	-	Germany supports as partner
-25			LifeWatch	-	Biodiversity -> NFDI4Biodiversity?
-26			Lofar	member	Low frequency astronomy
-27			MIRRI	-	microbiology
+wikidata	ror	ERIC	Status Germany	Connection to NFDI Community
+		Actris	member
+		Ana EE	-
+		BBMRI	member	Biobank
+		CERIC	-
+Q19372318	02wg9xc72	CESSDA	member	GESIS, Leibniz-Inst. (Q1485220)
+		CLARIN	member	CLARIN-D (Q15790749) -> DARIAH-DE (Q55520740)
+		DARIAH	member	-> Göttingen, Staats- u. Uni-BIB; Text+, NFDI4Culture, NFDI4Memory, NFDI4Objects
+		EATRIS	-
+		ECCSEL	-
+		ECRIN	member	clinical research
+		ELI	-
+		EMBRC	-	Marine biology (EuBI partner!)
+		EMSO	-	Sea and climate change
+		EPOS	- (last year of observer)	GfZ (Helmholtz), NFDI4Earth
+		ESS	member	European Social Survey -> GESIS, Christof Wolf
+		EU-OPENSCREEN	member	Hosted in Germany -> Phil Gribbon (NFDI consortium DeBioData, not funded), coop. w/ NFDI4BIOIMAGE
+		EU-SOLARIS	member
+		Euro-Argo	member
+		Euro-BioImaging	-	Hosted at EMBL in Heidelberg, coop. w/ NFDI4BIOIMAGE, e.g., Galaxy -> EOSC
+		European Spallation Source	member
+		ICOS	member	Carbon observation
+		INFRAFRONTIER	member	Phenotyping model systems
+		INSTRUCT	member	Harald Schwalbe, Uni Frankfurt; FZJ Carsten Sachse (Helmholtz)
+		JIV	-	Germany supports as partner
+		LifeWatch	-	Biodiversity -> NFDI4Biodiversity?
+		Lofar	member	Low frequency astronomy
+		MIRRI	-	microbiology
