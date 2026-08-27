@@ -3,7 +3,7 @@
 Links:
 
 - [Rolling Agenda](https://docs.google.com/document/d/1kvNkhYTdnMuBjMOZS5RcwXZa1xCi57heHeRf9VbQIbw/edit?usp=sharing)
-- [RocketChat](https://go.rocket.chat/invite?host=all-chat.nfdi.de&path=invite%2FsJ8Gdy)
+- [RocketChat](https://go.rocket.chat/invite?host=all-chat.nfdi.de&path=invite%2FxCPL47)
 - [Mailing List](https://lists.nfdi.de/postorius/lists/section-int-wg-landscape.lists.nfdi.de)
 - Charter
   - [source code](charter/)
