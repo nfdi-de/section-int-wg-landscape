@@ -1,34 +1,33 @@
 wikidata	ror	ERIC	Name	website	Status Germany	Connection to NFDI Community
-Q133811902		Actris	Aerosol, Clouds and Trace Gases Research Infrastructure	https://www.actris.eu/	member	
-Q140879720		Ana EE	Analysis and Experimentation on Ecosystems	https://www.anaee.eu/	-	
-		BBMRI	pan-European Biobanking and Biomolecular Resources Research Infrastructure	https://www.bbmri-eric.eu/	member	Biobank
-		CERIC	Central European Research Infrastructure Consortium	http://www.ceric-eric.eu/	-	
-Q19372318	02wg9xc72	CESSDA	Consortium of European Social Science data Archives	https://www.cessda.eu/	member	GESIS, Leibniz-Inst. (Q1485220)
-		CLARIN	pan-European Common Language Resources and Technology Infrastructure	https://www.clarin.eu/	member	CLARIN-D (Q15790749) -> DARIAH-DE (Q55520740)
-		CTAO	Cherenkov Telescope Array Observatory	https://www.ctao.org/		
+Q133811902	https://ror.org/024zy9450	Actris	Aerosol, Clouds and Trace Gases Research Infrastructure	https://www.actris.eu/	member
+Q140879720	https://ror.org/013cta085	Ana EE	Analysis and Experimentation on Ecosystems	https://www.anaee.eu/	-
+	https://ror.org/00pwncn89	BBMRI	pan-European Biobanking and Biomolecular Resources Research Infrastructure	https://www.bbmri-eric.eu/	member	Biobank
+	https://ror.org/01h2v3d55	CERIC	Central European Research Infrastructure Consortium	http://www.ceric-eric.eu/	-
+Q19372318	https://ror.org/02wg9xc72	CESSDA	Consortium of European Social Science data Archives	https://www.cessda.eu/	member	GESIS, Leibniz-Inst. (Q1485220)
+	https://ror.org/03wp25384	CLARIN	pan-European Common Language Resources and Technology Infrastructure	https://www.clarin.eu/	member	CLARIN-D (Q15790749) -> DARIAH-DE (Q55520740)
+	https://ror.org/05fb7v315	CTAO	Cherenkov Telescope Array Observatory	https://www.ctao.org/
 		DANUBIS	International Centre for Advanced Science on River-Sea Systems	https://danubius-ri.eu/		
-		DARIAH	Digital Research Infrastructure for the Arts and Humanities	http://www.dariah.eu/	member	-> Göttingen, Staats- u. Uni-BIB; Text+, NFDI4Culture, NFDI4Memory, NFDI4Objects
-		EATRIS	European Advanced Translational Research Infrastructure in medicine	http://www.eatris.eu/	-	
+	https://ror.org/05n09v162	DARIAH	Digital Research Infrastructure for the Arts and Humanities	http://www.dariah.eu/	member	-> Göttingen, Staats- u. Uni-BIB; Text+, NFDI4Culture, NFDI4Memory, NFDI4Objects
+	https://ror.org/00hjz5209	EATRIS	European Advanced Translational Research Infrastructure in medicine	http://www.eatris.eu/	-
 		ECCSEL	European Carbon Dioxide Capture and Storage Laboratory Infrastructure	http://www.eccsel.org/	-	
 		ECRIN	European Clinical Research Infrastructure Network	https://ecrin.org/	member	clinical research
-		EHRI	European Holocaust Research Infrastructure	https://www.ehri-project.eu/		
-		ELI	Extreme Light Infrastructure	https://eli-laser.eu/	-	
-		EMBRC	European Marine Biology Resource Center	http://www.embrc.eu/	-	Marine biology (EuBI partner!)
-		EMSO	European Multidisciplinary Seafloor and Water Column Observatory	http://www.emso-eu.org/	-	Sea and climate change
+	https://ror.org/00zsk2t64	EHRI	European Holocaust Research Infrastructure	https://www.ehri-project.eu/
+	https://ror.org/03ct7hs15	ELI	Extreme Light Infrastructure	https://eli-laser.eu/	-
+	https://ror.org/0038zss60	EMBRC	European Marine Biology Resource Center	http://www.embrc.eu/	-	Marine biology (EuBI partner!)
+	https://ror.org/04xkqms46	EMSO	European Multidisciplinary Seafloor and Water Column Observatory	http://www.emso-eu.org/	-	Sea and climate change
 		EPOS	European Plate Observing System	https://www.epos-ip.org/	- (last year of observer)	GfZ (Helmholtz), NFDI4Earth
 		E-RHIS	European Research Infrastructure for Heritage Science	https://www.e-rihs.eu/		
 		ESS	European Social Survey	http://www.europeansocialsurvey.org/	member	European Social Survey -> GESIS, Christof Wolf
-		EU-OPENSCREEN	Open Screening Platforms for Chemical Biology	http://www.eu-openscreen.eu/	member	Hosted in Germany -> Phil Gribbon (NFDI consortium DeBioData, not funded), coop. w/ NFDI4BIOIMAGE
+	https://ror.org/055zp1089	EU-OPENSCREEN	Open Screening Platforms for Chemical Biology	http://www.eu-openscreen.eu/	member	Hosted in Germany -> Phil Gribbon (NFDI consortium DeBioData, not funded), coop. w/ NFDI4BIOIMAGE
 		EU-SOLARIS		https://eu-solaris.eu/	member	
-		Euro-Argo		http://www.euro-argo.eu/	member	
-		Euro-BioImaging		https://www.eurobioimaging.eu/	-	Hosted at EMBL in Heidelberg, coop. w/ NFDI4BIOIMAGE, e.g., Galaxy -> EOSC
-		European Spallation Source		https://europeanspallationsource.se/	member	
-		ICOS	Integrated Carbon Observation System	https://www.icos-ri.eu/	member	Carbon observation
-		INFRAFRONTIER		https://infrafrontier.eu/	member	Phenotyping model systems
-		INSTRUCT	Integrated Structural Biology	https://instruct-eric.org/	member	Harald Schwalbe, Uni Frankfurt; FZJ Carsten Sachse (Helmholtz)
-		JIV	Joint Institute for VLBI	http://www.jive.nl/	-	Germany supports as partner
-		LifeWatch		http://www.lifewatch.eu/	-	Biodiversity -> NFDI4Biodiversity?
+	https://ror.org/05bz2z050	Euro-Argo		http://www.euro-argo.eu/	member
+	https://ror.org/05d78xc36	Euro-BioImaging		https://www.eurobioimaging.eu/	-	Hosted at EMBL in Heidelberg, coop. w/ NFDI4BIOIMAGE, e.g., Galaxy -> EOSC
+	https://ror.org/01wv9cn34	European Spallation Source		https://europeanspallationsource.se/	member
+	https://ror.org/01d0fc168	ICOS	Integrated Carbon Observation System	https://www.icos-ri.eu/	member	Carbon observation
+	https://ror.org/00vawn972	INFRAFRONTIER		https://infrafrontier.eu/	member	Phenotyping model systems
+	https://ror.org/05528ey35	INSTRUCT	Integrated Structural Biology	https://instruct-eric.org/	member	Harald Schwalbe, Uni Frankfurt; FZJ Carsten Sachse (Helmholtz)
+	https://ror.org/006dmc180	JIV	Joint Institute for VLBI	http://www.jive.nl/	-	Germany supports as partner
+	https://ror.org/04c04g438	LifeWatch		http://www.lifewatch.eu/	-	Biodiversity -> NFDI4Biodiversity?
 		Lofar	LOw Frequency ARray	https://www.astron.nl/telescopes/lofar/	member	Low frequency astronomy
 		MIRRI	Microbial Resource Research Infrastructure	https://www.mirri.org/	-	microbiology
 		SHARE	Survey of Health, Ageing and Retirement in Europe	https://share-eric.eu/		
-						
