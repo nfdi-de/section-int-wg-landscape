@@ -1,26 +1,58 @@
-eric_wikidata	eric_name	interaction_type	wikidata	ror	name	website	people
-Q49103279	DARIAH	representing entity	Q492234	04pz7b180	Federal Ministry of Research Technology and Space		Maria Böhme
-Q49103279	DARIAH	coordinating institution		05745n787	University of Göttingen – Göttingen State and University Library (SUB)	https://www.sub.uni-goettingen.de/en/	Daniel Kurzawe (https://www.daniel-kurzawe.de/), Nanette Rißler-Pipka (https://orcid.org/0000-0002-0719-9003)
-Q49103279	DARIAH	partner institution		01kdxra28	Academy of Sciences and Literature Mainz	https://www.adwmainz.de/en	
-Q49103279	DARIAH	partner institution		05jgq9443	Berlin-Brandenburg Academy of Sciences and Humanities	https://www.bbaw.de/en/	
-Q49103279	DARIAH	partner institution		048yzb176	DAASI International	https://daasi.de/en/	
-Q49103279	DARIAH	partner institution		041qv0h25	German Archaeological Institute	https://www.dainst.org	
-Q49103279	DARIAH	partner institution		04cvxnb49	Goethe Universität Frankfurt am Main	https://www.goethe-university-frankfurt.de/en?locale=en	
-Q49103279	DARIAH	partner institution		00sngv739	Herder-Institut	https://www.herder-institut.de/en/home.html	
-Q49103279	DARIAH	partner institution		02y5mkh60	Herzog August Library Wolfenbüttel	https://www.hab.de/en	
-Q49103279	DARIAH	partner institution		047wbd030	Hochschule Darmstadt		
-Q49103279	DARIAH	partner institution		059dyrr28	Leibniz Institute of European History Mainz	https://www.ieg-mainz.de/en/	
-Q49103279	DARIAH	partner institution		02esxtn62	Max Weber Foundation	https://www.maxweberstiftung.de/en	
-Q49103279	DARIAH	partner institution		0492sjc74	Max-Planck-Institut für Wissenschaftsgeschichte		
-Q49103279	DARIAH	partner institution		01c1w6d29	Otto-Friedrich-University Bamberg (UBa)	https://www.uni-bamberg.de/en/	
-Q49103279	DARIAH	partner institution		00cd95c65	Society for Scientific Data Processing (GWDG)	https://www.gwdg.de	
-Q49103279	DARIAH	partner institution		04mz5ra38	University of Duisburg-Essen (Steinheim Institute for German-Jewish Studies)	http://steinheim-institut.de	
-Q49103279	DARIAH	partner institution		05n911h24	TU Darmstadt (Digital Humanities Team)	https://www.digitalhumanities.tu-darmstadt.de	
-Q49103279	DARIAH	partner institution		014nnvj65	TH Köln		
-Q49103279	DARIAH	partner institution		042aqky30	TU Dresden (Zentrum für Informationsdienste und Hochleistungsrechnen)		
-Q49103279	DARIAH	partner institution		00g30e956	University of Hamburg (Universitätsarchiv)		
-Q49103279	DARIAH	partner institution		058kzsd48	University of Paderborn (Musikwissenschaftliches Seminar Detmold)		
-Q49103279	DARIAH	partner institution		02778hg05	University of Trier	https://kompetenzzentrum.uni-trier.de/en/	
-Q49103279	DARIAH	partner institution		00fbnyb24	University of Würzburg	https://www.uni-wuerzburg.de/en/university/	
-Q19372318	CESSDA	member		018afyw53	Leibniz Institute for the Social Sciences - GESIS		
-Q19372318	CESSDA	member		04pz7b180	Federal Ministry of Education and Research		
+eric_wikidata	eric_name	interaction_type	country	wikidata	ror	name	abbr	website	people
+Q49103279	DARIAH	representing entity	DE	Q492234	04pz7b180	Federal Ministry of Research Technology and Space			Maria Böhme
+Q49103279	DARIAH	coordinating institution	DE		05745n787	University of Göttingen – Göttingen State and University Library (SUB)		https://www.sub.uni-goettingen.de/en/	Daniel Kurzawe (https://www.daniel-kurzawe.de/), Nanette Rißler-Pipka (https://orcid.org/0000-0002-0719-9003)
+Q49103279	DARIAH	partner institution	DE		01kdxra28	Academy of Sciences and Literature Mainz		https://www.adwmainz.de/en	
+Q49103279	DARIAH	partner institution	DE		05jgq9443	Berlin-Brandenburg Academy of Sciences and Humanities		https://www.bbaw.de/en/	
+Q49103279	DARIAH	partner institution	DE		048yzb176	DAASI International		https://daasi.de/en/	
+Q49103279	DARIAH	partner institution	DE		041qv0h25	German Archaeological Institute		https://www.dainst.org	
+Q49103279	DARIAH	partner institution	DE		04cvxnb49	Goethe Universität Frankfurt am Main		https://www.goethe-university-frankfurt.de/en?locale=en	
+Q49103279	DARIAH	partner institution	DE		00sngv739	Herder-Institut		https://www.herder-institut.de/en/home.html	
+Q49103279	DARIAH	partner institution	DE		02y5mkh60	Herzog August Library Wolfenbüttel		https://www.hab.de/en	
+Q49103279	DARIAH	partner institution	DE		047wbd030	Hochschule Darmstadt			
+Q49103279	DARIAH	partner institution	DE		059dyrr28	Leibniz Institute of European History Mainz		https://www.ieg-mainz.de/en/	
+Q49103279	DARIAH	partner institution	DE		02esxtn62	Max Weber Foundation		https://www.maxweberstiftung.de/en	
+Q49103279	DARIAH	partner institution	DE		0492sjc74	Max-Planck-Institut für Wissenschaftsgeschichte			
+Q49103279	DARIAH	partner institution	DE		01c1w6d29	Otto-Friedrich-University Bamberg	UBa	https://www.uni-bamberg.de/en/	
+Q49103279	DARIAH	partner institution	DE		00cd95c65	Society for Scientific Data Processing	GWDG	https://www.gwdg.de	
+Q49103279	DARIAH	partner institution	DE		04mz5ra38	University of Duisburg-Essen (Steinheim Institute for German-Jewish Studies)		http://steinheim-institut.de	
+Q49103279	DARIAH	partner institution	DE		05n911h24	TU Darmstadt (Digital Humanities Team)		https://www.digitalhumanities.tu-darmstadt.de	
+Q49103279	DARIAH	partner institution	DE		014nnvj65	TH Köln			
+Q49103279	DARIAH	partner institution	DE		042aqky30	TU Dresden (Zentrum für Informationsdienste und Hochleistungsrechnen)			
+Q49103279	DARIAH	partner institution	DE		00g30e956	University of Hamburg (Universitätsarchiv)			
+Q49103279	DARIAH	partner institution	DE		058kzsd48	University of Paderborn (Musikwissenschaftliches Seminar Detmold)			
+Q49103279	DARIAH	partner institution	DE		02778hg05	University of Trier		https://kompetenzzentrum.uni-trier.de/en/	
+Q49103279	DARIAH	partner institution	DE		00fbnyb24	University of Würzburg		https://www.uni-wuerzburg.de/en/university/	
+Q19372318	CESSDA	member	DE		018afyw53	Leibniz Institute for the Social Sciences - GESIS			
+Q19372318	CESSDA	member	AT			The Austrian Social Science Data Archive	AUSSDA	https://aussda.at/en/	
+Q19372318	CESSDA	member	BE			Social Sciences and Digital Humanities Archive	SODHA	https://www.sodha.be/	
+Q19372318	CESSDA	member	HR			Croatian Social Science Data Archive	CROSSDA	https://www.crossda.hr/	
+Q19372318	CESSDA	member	CZ			Czech Social Science Data Archive	CSDA	http://archiv.soc.cas.cz/	
+Q19372318	CESSDA	member	FI			Finnish Social Science Data Archive	FSD	http://www.fsd.uta.fi/	
+Q19372318	CESSDA	member	FR			PROGEDO Research Infrastructure		http://www.progedo.fr/	
+Q19372318	CESSDA	member	GR			Greek research infrastructure for the social sciences	So.Da.Net	http://sodanet.gr/	
+Q19372318	CESSDA	member	HU			Tárki Social Science Data Archive		http://www.tarki.hu/eng	
+Q19372318	CESSDA	member	IS			The Icelandic Social Science Data Service	DATICE	https://datice.is/is	
+Q19372318	CESSDA	member	IE			Irish Social Science Data Archive	ISSDA	http://www.ucd.ie/issda/	
+Q19372318	CESSDA	member	IT			Data Archive for Social Sciences in Italy	DASSI	https://www.dassi-archive.it/	
+Q19372318	CESSDA	member	LT			Lithuanian Data Archive for Humanities and Social Sciences	LiDA	http://www.lidata.eu/	
+Q19372318	CESSDA	member	NL			Data Archiving and Networked Services	DANS	https://dans.knaw.nl/en	
+Q19372318	CESSDA	member	MK			Social Science Data Archive of North Macedonia	MK DASS		
+Q19372318	CESSDA	member	NO			Norwegian Agency for Shared Services in Education and Research	Sikt	https://sikt.no/about-sikt	
+Q19372318	CESSDA	member	PT			Portuguese Social Information Archive	APIS	http://www.apis.ics.ulisboa.pt/	
+Q19372318	CESSDA	member	SK			Slovak Archive of Social Data	SASD	http://sasd.sav.sk/sk/	
+Q19372318	CESSDA	member	SI			Social Science Data Archives	ADP	http://www.adp.fdv.uni-lj.si/	
+Q19372318	CESSDA	member	SE			Swedish National Data Service	SND	http://snd.gu.se/en	
+Q19372318	CESSDA	member	CH			Swiss Centre of Expertise in the Social Sciences	FORS	http://forscenter.ch/en/	
+Q19372318	CESSDA	member	GB		0468x4e75	UK Data Service	UKDS	http://ukdataservice.ac.uk/	
+Q19372318	CESSDA	partner	AL			Albanian Data Archive for Social Science	ADAS		
+Q19372318	CESSDA	partner	BA			Data Archive for Social Sciences - Bosnia and Herzegovina			
+Q19372318	CESSDA	partner	BG			Bulgarian national data service			
+Q19372318	CESSDA	partner	EE		/03z77qz90	University of Tartu (Library)		http://esta.ut.ee/	
+Q19372318	CESSDA	partner	XK			The Kosovo Social Sciences Data Centre	KSSDC		
+Q19372318	CESSDA	partner	LV	Q2007643	03nadks56	Rīga Stradiņš University	RSU	https://www.rsu.lv/en	
+Q19372318	CESSDA	partner	LU		040jf9322	Luxembourg Institute of Socio-Economic Research	LISER	https://www.liser.lu/	
+Q19372318	CESSDA	partner	ME			The Montenegrin Social Science Data Archive	MSSDA		
+Q19372318	CESSDA	partner	PL			Polish Social Data Archive	PADS	https://pads.org.pl/	
+Q19372318	CESSDA	partner	RO			Romanian Social Data Archive	RODA		
+Q19372318	CESSDA	partner	RS			Data Centre Serbia for Social Sciences	DCS	https://datacentarserbia.com/	
+Q19372318	CESSDA	partner	UA			The Ukraine National Data Bank of Sociological Data “Kyiv archive”			
