@@ -1,33 +1,33 @@
 wikidata	ror	abbreviation	name	website	Status Germany	Status Reference	Connection to NFDI Community
 Q133811902	https://ror.org/024zy9450	Actris	Aerosol, Clouds and Trace Gases Research Infrastructure	https://www.actris.eu	member	https://www.actris.eu/about/who-we-are/actris-countries	.
 Q140879720	https://ror.org/013cta085	Ana EE	Analysis and Experimentation on Ecosystems	https://www.anaee.eu	not member	https://www.anaee.eu/our-network/	
-Q30294972	https://ror.org/00pwncn89	BBMRI	pan-European Biobanking and Biomolecular Resources Research Infrastructure	https://www.bbmri-eric.eu	member		Biobank
+Q30294972	https://ror.org/00pwncn89	BBMRI	pan-European Biobanking and Biomolecular Resources Research Infrastructure	https://www.bbmri-eric.eu	member	https://www.bbmri-eric.eu/national-nodes/	Biobank
 Q47519380	https://ror.org/01h2v3d55	CERIC	Central European Research Infrastructure Consortium	http://www.ceric-eric.eu	not member	https://www.ceric-eric.eu/about-us/governance/	
-Q19372318	https://ror.org/02wg9xc72	CESSDA	Consortium of European Social Science data Archives	https://www.cessda.eu	member		GESIS, Leibniz-Inst. (Q1485220)
-Q2986825	https://ror.org/03wp25384	CLARIN	pan-European Common Language Resources and Technology Infrastructure	https://www.clarin.eu	member		CLARIN-D (Q15790749) -> DARIAH-DE (Q55520740)
+Q19372318	https://ror.org/02wg9xc72	CESSDA	Consortium of European Social Science data Archives	https://www.cessda.eu	member	https://www.cessda.eu/About/Consortium	GESIS, Leibniz-Inst. (Q1485220)
+Q2986825	https://ror.org/03wp25384	CLARIN	pan-European Common Language Resources and Technology Infrastructure	https://www.clarin.eu	member	https://www.clarin.eu/content/national-consortia	CLARIN-D (Q15790749) -> DARIAH-DE (Q55520740)
 Q1070229	https://ror.org/05fb7v315	CTAO	Cherenkov Telescope Array Observatory	https://www.ctao.org	member	https://www.ctao.org/partners/ctao-consortium/	
 Q141247130		DANUBIUS	International Centre for Advanced Science on River-Sea Systems	https://danubius-ri.eu	unknown		
-Q49103279	https://ror.org/05n09v162	DARIAH	Digital Research Infrastructure for the Arts and Humanities	http://www.dariah.eu	member		-> Göttingen, Staats- u. Uni-BIB; Text+, NFDI4Culture, NFDI4Memory, NFDI4Objects
-Q81805283	https://ror.org/00hjz5209	EATRIS	European Advanced Translational Research Infrastructure in medicine	http://www.eatris.eu	not member		
-Q141247125		ECCSEL	European Carbon Dioxide Capture and Storage Laboratory Infrastructure	https://www.eccsel.org	not member		
-Q59536568	https://ror.org/051ycea61	ECRIN	European Clinical Research Infrastructure Network	https://ecrin.org	member		clinical research
+Q49103279	https://ror.org/05n09v162	DARIAH	Digital Research Infrastructure for the Arts and Humanities	http://www.dariah.eu	member	https://www.dariah.eu/network/members-and-partners/	-> Göttingen, Staats- u. Uni-BIB; Text+, NFDI4Culture, NFDI4Memory, NFDI4Objects
+Q81805283	https://ror.org/00hjz5209	EATRIS	European Advanced Translational Research Infrastructure in medicine	http://www.eatris.eu	not member	https://eatris.eu/countries/	
+Q141247125		ECCSEL	European Carbon Dioxide Capture and Storage Laboratory Infrastructure	https://www.eccsel.org	not member	https://eccsel.eu/navroot/about/eccsel-eric-members/current-member-countries/	
+Q59536568	https://ror.org/051ycea61	ECRIN	European Clinical Research Infrastructure Network	https://ecrin.org	member	https://ecrin.org/members-observers	clinical research
 Q21755493	https://ror.org/00zsk2t64	EHRI	European Holocaust Research Infrastructure	https://www.ehri-project.eu	member	https://www.ehri-project.eu/membership/	
-Q753269	https://ror.org/03ct7hs15	ELI	Extreme Light Infrastructure	https://eli-laser.eu	not member		
-Q113551509	https://ror.org/0038zss60	EMBRC	European Marine Biology Resource Center	http://www.embrc.eu	not member		Marine biology (EuBI partner!)
-Q17075202	https://ror.org/04xkqms46	EMSO	European Multidisciplinary Seafloor and Water Column Observatory	http://www.emso-eu.org	not member		Sea and climate change
+Q753269	https://ror.org/03ct7hs15	ELI	Extreme Light Infrastructure	https://eli-laser.eu	observer	https://www.eli-laser.eu/organisation/eli-eric/	
+Q113551509	https://ror.org/0038zss60	EMBRC	European Marine Biology Resource Center	http://www.embrc.eu	not member	https://www.embrc.eu/our-network/	Marine biology (EuBI partner!)
+Q17075202	https://ror.org/04xkqms46	EMSO	European Multidisciplinary Seafloor and Water Column Observatory	http://www.emso-eu.org	not member	https://emso.eu/organization/	Sea and climate change
 Q111431904	https://ror.org/00qxqkw78	EPOS	European Plate Observing System	https://www.epos-eu.org	- (last year of observer)	https://www.epos-eu.org/epos-national-clusters	GfZ (Helmholtz), NFDI4Earth
 Q141247133		E-RHIS	European Research Infrastructure for Heritage Science	https://www.e-rihs.eu	not member	https://www.e-rihs.eu/national-nodes/	
-Q141247145		ESS	European Social Survey	https://www.europeansocialsurvey.org	member		European Social Survey -> GESIS, Christof Wolf
-Q127415594	https://ror.org/055zp1089	EU-OPENSCREEN	Open Screening Platforms for Chemical Biology	http://www.eu-openscreen.eu	member		Hosted in Germany -> Phil Gribbon (NFDI consortium DeBioData, not funded), coop. w/ NFDI4BIOIMAGE
-Q141247123		EU-SOLARIS	European Research Infrastructure for Concentrated Solar Power /Solar Thermal Energy	https://eu-solaris.eu	member		
+Q141247145		ESS	European Social Survey	https://www.europeansocialsurvey.org	member	https://www.europeansocialsurvey.org/about/participating-countries	European Social Survey -> GESIS, Christof Wolf
+Q127415594	https://ror.org/055zp1089	EU-OPENSCREEN	Open Screening Platforms for Chemical Biology	http://www.eu-openscreen.eu	member	https://www.eu-openscreen.eu/about/member-countries.html	Hosted in Germany -> Phil Gribbon (NFDI consortium DeBioData, not funded), coop. w/ NFDI4BIOIMAGE
+Q141247123		EU-SOLARIS	European Research Infrastructure for Concentrated Solar Power /Solar Thermal Energy	https://eu-solaris.eu	member	https://eu-solaris.eu/member-countries/	
 Q83006305	https://ror.org/05bz2z050	Euro-Argo		http://www.euro-argo.eu	member		
 Q113551491	https://ror.org/05d78xc36	Euro-BioImaging		https://www.eurobioimaging.eu	not member		Hosted at EMBL in Heidelberg, coop. w/ NFDI4BIOIMAGE, e.g., Galaxy -> EOSC
-Q839231	https://ror.org/01wv9cn34	European Spallation Source		https://europeanspallationsource.se	member		
+Q839231	https://ror.org/01wv9cn34	ESS	European Spallation Source	https://europeanspallationsource.se	member		
 Q3147739	https://ror.org/01d0fc168	ICOS	Integrated Carbon Observation System	https://www.icos-ri.eu	member		Carbon observation
 Q30267344	https://ror.org/00vawn972	INFRAFRONTIER		https://infrafrontier.eu	member		Phenotyping model systems
 Q104481183	https://ror.org/05528ey35	INSTRUCT	Integrated Structural Biology	https://instruct-eric.org	member		Harald Schwalbe, Uni Frankfurt; FZJ Carsten Sachse (Helmholtz)
 Q17088342	https://ror.org/006dmc180	JIV	Joint Institute for VLBI	http://www.jive.nl	not member		Germany supports as partner
 Q116991385	https://ror.org/04c04g438	LifeWatch		http://www.lifewatch.eu	not member		Biodiversity -> NFDI4Biodiversity?
-Q1192324		Lofar	LOw Frequency ARray	https://www.astron.nl/telescopes/lofar/	member		Low frequency astronomy
+Q1192324		LOFAR	LOw Frequency ARray	https://www.astron.nl/telescopes/lofar/	member		Low frequency astronomy
 Q141247116		MIRRI	Microbial Resource Research Infrastructure	https://www.mirri.org	not member		microbiology
 Q122873030		SHARE	Survey of Health, Ageing and Retirement in Europe	https://share-eric.eu	member	https://share-eric.eu/infrastructure/country-teams	
