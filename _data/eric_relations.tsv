@@ -1,5 +1,19 @@
 eric_wikidata	eric_name	interaction_type	country	wikidata	ror	name	abbr	website	people
-Q49103279	DARIAH	representing entity	DE	Q492234	04pz7b180	Federal Ministry of Research Technology and Space			Maria Böhme
+Q133811902	Actris	research performing organizations	DE	Q1607075	03a5xsc56	Leibniz Institute for Tropospheric Research	TROPOS	https://www.tropos.de/en/	Ulla Wandinger
+Q133811902	Actris	research performing organizations	DE			Alfred Wegener Institute, Helmholtz Centerfor Polar and Marine Research	AWI	https://www.awi.de/en/	
+Q133811902	Actris	research performing organizations	DE			Bergische Universität Wuppertal	BUW	https://www.uni-wuppertal.de/de/	
+Q133811902	Actris	research performing organizations	DE			Deutscher Wetterdienst	DWD	https://www.dwd.de/DE/Home/home_node.html	
+Q133811902	Actris	research performing organizations	DE			Forschungszentrum Jülich GmbH	FZJ	https://www.fz-juelich.de/en	
+Q133811902	Actris	research performing organizations	DE			Goethe-Universität Frankfurt am Main	GUF	https://www.goethe-university-frankfurt.de/en?locale=en	
+Q133811902	Actris	research performing organizations	DE			Karlsruhe Institute of Technology	KIT	https://www.kit.edu/english/	
+Q133811902	Actris	research performing organizations	DE			Ludwig-Maximilians-Universität München	LMU	https://www.lmu.de/en/	
+Q133811902	Actris	research performing organizations	DE			German Environment Agency	UBA	https://www.umweltbundesamt.de/en	
+Q133811902	Actris	research performing organizations	DE			Universität Bremen	UBRE	https://www.uni-bremen.de/	
+Q133811902	Actris	research performing organizations	DE			University of Cologne	UoC	https://www.uni-koeln.de/en/	
+Q133811902	Actris	funding	DE			Federal Ministry of Education and Research	BMBF	https://www.bmbf.de/EN/Home/home_node.html	
+Q133811902	Actris	funding	DE			Federal Ministry for the Environment, Nature Conservation, Nuclear Safety and Consumer Protection		https://www.bundesregierung.de/breg-en/federal-government/ministries/federal-ministry-of-education	
+Q133811902	Actris	funding	DE			Federal Ministry for Digital and Transport		https://bmdv.bund.de/EN/Home/home.html	
+Q49103279	DARIAH	representing entity	DE	Q492234	04pz7b180	Federal Ministry of Research Technology and Space	BMFTR		Maria Böhme
 Q49103279	DARIAH	coordinating institution	DE		05745n787	University of Göttingen – Göttingen State and University Library (SUB)		https://www.sub.uni-goettingen.de/en/	Daniel Kurzawe (https://www.daniel-kurzawe.de/), Nanette Rißler-Pipka (https://orcid.org/0000-0002-0719-9003)
 Q49103279	DARIAH	partner institution	DE		01kdxra28	Academy of Sciences and Literature Mainz		https://www.adwmainz.de/en	
 Q49103279	DARIAH	partner institution	DE		05jgq9443	Berlin-Brandenburg Academy of Sciences and Humanities		https://www.bbaw.de/en/	
