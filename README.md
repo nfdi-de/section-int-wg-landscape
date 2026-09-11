@@ -10,8 +10,9 @@ Important links:
   - [source code](charter/)
   - [Zenodo publication](https://doi.org/10.5281/zenodo.21420211)
 
-If you're interested to join, either open an issue (https://github.com/nfdi-de/section-int-wg-landscape/issues/new)
-or join our RocketChat channel to say hello and we will forward the agenda and Zoom link.
+If you're interested to join, either open an issue
+(https://github.com/nfdi-de/section-int-wg-landscape/issues/new) or join our
+RocketChat channel to say hello and we will forward the agenda and Zoom link.
 
 ## Diagram
 
