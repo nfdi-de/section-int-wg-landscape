@@ -28,6 +28,7 @@ graph TB
     internalConsortium[NFDI Consortium] -.-> external
     internalSection[NFDI Section] -.-> external
     internalWG[Section Working Group] -.-> external
+    internalTF[NFDI Task Force] -.-> external
 
     subgraph external [External]
         funder[Funder]
@@ -44,6 +45,7 @@ graph TB
     subgraph internal [NFDI]
         internalPerson -- member of --> internalInstitution -- member of --> internalConsortium
         internalPerson -- member of --> internalWG -- member of --> internalSection
+        internalPerson -- member of --> internalTF
     end
 ```
 
