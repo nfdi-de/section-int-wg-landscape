@@ -21,14 +21,14 @@ RocketChat channel to say hello and we will forward the agenda and Zoom link.
 config:
       theme: redux
 ---
-graph TB
+graph LR
 
     internalPerson[Person] -.-> external
     internalInstitution[Institution] -.->  external
-    internalConsortium[NFDI Consortium] -.-> external
-    internalSection[NFDI Section] -.-> external
+    internalConsortium[Consortium] -.-> external
+    internalSection[Section] -.-> external
     internalWG[Section Working Group] -.-> external
-    internalTF[NFDI Task Force] -.-> external
+    internalTF[Task Force] -.-> external
 
     subgraph external [External]
         funder[Funder]
@@ -38,7 +38,7 @@ graph TB
         externalPerson[Person]
         externalOther[Other Stakeholder]
 
-        funder ~~~ project ~~~ workingGroup ~~~ organization ~~~ externalPerson~~~ externalOther
+        funder ~~~ project ~~~ workingGroup ~~~ organization ~~~ externalPerson ~~~ externalOther
 
     end
 
