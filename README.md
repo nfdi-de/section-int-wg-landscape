@@ -45,7 +45,7 @@ graph LR
 
     subgraph internal [NFDI]
         internalPerson -- member of --> internalInstitution -- member of --> internalConsortium
-        internalPerson -- member of --> internalWG -- member of --> internalSection
+        internalPerson -- member of --> internalWG -- part of --> internalSection
         internalPerson -- member of --> internalTF
     end
 ```
