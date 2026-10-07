@@ -38,7 +38,8 @@ graph LR
         externalPerson[Person]
         externalOther[Other Stakeholder]
 
-        funder ~~~ project ~~~ workingGroup ~~~ organization ~~~ externalPerson ~~~ externalOther
+        funder ~~~ project ~~~ workingGroup
+        organization ~~~ externalPerson ~~~ externalOther
 
     end
 
