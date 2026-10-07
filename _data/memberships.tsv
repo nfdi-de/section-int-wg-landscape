@@ -1,4 +1,4 @@
-organization_wikidata	organization_name	person_orcid	person_wikidata	person_name	role	start	end
-Q140073062	NFDI Section Int WG Landscape	0000-0003-4423-4370	Q47475003	Charles Tapley Hoyt	coordinator	2026-03
-Q141663980	RDA FAIR Mappings Working Group	0000-0003-4423-4370	Q47475003	Charles Tapley Hoyt	participant	2026
-Q139055838	NFDI Section Meta WG Onto	0000-0003-4423-4370	Q47475003	Charles Tapley Hoyt	participant	2025-06
+organization_wikidata	organization_name	person_orcid	person_wikidata	person_name	role	start	end	organization	consortia
+Q140073062	NFDI Section Int WG Landscape	0000-0003-4423-4370	Q47475003	Charles Tapley Hoyt	coordinator	2026-03		RWTH Aachen University	NFDI4Chem
+Q141663980	RDA FAIR Mappings Working Group	0000-0003-4423-4370	Q47475003	Charles Tapley Hoyt	participant	2026		RWTH Aachen University	NFDI4Chem
+Q139055838	NFDI Section Meta WG Onto	0000-0003-4423-4370	Q47475003	Charles Tapley Hoyt	participant	2025-06		RWTH Aachen University	NFDI4Chem
