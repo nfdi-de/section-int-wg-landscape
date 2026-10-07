@@ -1,4 +1,4 @@
-wikidata	wg	external_name	external_short	external_wikidata	external_locale	external_link	external_type	source	curator	curation_date	comment	mediator(s)
+internal_wikidata	internal_name	external_name	external_abbr	external_wikidata	external_locale	external_homepage	external_type	source	curator	curation_date	comment	mediator(s)
 Q141133890	Knowledge Graphs	Open Research Knowledge Graph	ORKG	Q108127463	DE	https://orkg.org	project	charter	orcid:0000-0003-4423-4370	2026-06-05		
 Q141133890	Knowledge Graphs	Wikimedia Germany		Q8288	DE	https://www.wikimedia.de	organization	charter	orcid:0000-0003-4423-4370	2026-06-05		
 Q141133890	Knowledge Graphs	Wikibase Stakeholder Group		Q109375836		https://wbstakeholder.group	organization	charter	orcid:0000-0003-4423-4370	2026-06-05		
@@ -20,7 +20,8 @@ Q139055838	Ontology Harmonization and Mapping	LIDO Working Group		Q132576571		ht
 Q139055838	Ontology Harmonization and Mapping	Project Anwendung Interoperabler Metadatenstandards	AIMS			https://gepris.dfg.de/gepris/projekt/432233186	funding_call	charter	orcid:0000-0003-4423-4370	2026-06-05		
 Q139055838	Ontology Harmonization and Mapping	The FAIR Digital Objects Forum				https://fairdo.org/	organization	charter	orcid:0000-0003-4423-4370	2026-06-05		
 Q139055838	Ontology Harmonization and Mapping	ENERO Foundry				https://enerofoundry.github.io/ENEROFoundry/	organization	manual	orcid:0000-0003-4423-4370	2026-06-05		Mirjam Stappe, Amanda Wein
-Q141133894	Research Software Metadata	Schema.org	SDO	Q3475322		https://schema.org	standard	charter	orcid:0000-0003-4423-4370	2026-06-05		
+Q139055838	Ontology Harmonization and Mapping	RDA FAIR Mappings Working Group		Q141663980	International	https://www.rd-alliance.org/groups/fair-mappings-wg	organization	manual	orcid:0000-0003-4423-4370	2026-10-07		Charles Hoyt, Damien GG
+Q141133894	Research Software Metadata	Schema.org	SDO	Q3475322		https://schema.org	standard	charter	orcid:0000-0003-4423-4370	2026-06-05
 Q141133894	Research Software Metadata	CodeMeta				https://codemeta.github.io	standard	charter	orcid:0000-0003-4423-4370	2026-06-05		
 Q141133894	Research Software Metadata	WG RSE in Common Infrastructure					working group	charter	orcid:0000-0003-4423-4370	2026-06-05		
 Q141133894	Research Software Metadata	nfdi.software			NFDI	https://base4nfdi.de/projects/nfdi-software	data resource	charter	orcid:0000-0003-4423-4370	2026-06-05		
