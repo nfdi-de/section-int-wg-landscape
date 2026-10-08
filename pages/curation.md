@@ -82,7 +82,7 @@ permalink: /curation/
 </tbody>
 </table>
 
-## Working Group External Connections (Curated)
+## Interactions with External Organizations (Curated)
 
 <table>
 <thead>
@@ -98,23 +98,23 @@ permalink: /curation/
 {% for record in site.data.interactions %}
 <tr>
 <td>
-    {% if record.wikidata %}
-        <a href="https://wikidata.org/wiki/{{ record.wikidata }}">{{ record.wg }}</a>
+    {% if record.internal_wikidata %}
+        <a href="https://wikidata.org/wiki/{{ record.internal_wikidata }}">{{ record.internal_name }}</a>
     {% else %}
-        {{ record.wg }}
+        {{ record.internal_name }}
     {% endif %}
 </td>
 <td>
     {% if record.external_link %}
     <a href="{{ record.external_link }}">
-        {% if record.external_short %}
-        {{ record.external_short}}
+        {% if record.external_abbr %}
+        {{ record.external_abbr}}
         {% else %}{{ record.external_name }}
         {% endif %}
     </a>
     {% else %}
-    {% if record.external_short %}
-        {{ record.external_short}}
+    {% if record.external_abbr %}
+        {{ record.external_abbr}}
         {% else %}{{ record.external_name }}
         {% endif %}
     {% endif %}
