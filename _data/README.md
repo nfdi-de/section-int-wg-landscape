@@ -3,6 +3,11 @@
 This folder contains curated information about organizations and their
 relationships
 
+## NFDI Parts
+
+- `task_forces.tsv` puts information from
+  https://www.nfdi.de/community-meetings/?lang=en on task forces and jours fixes
+
 ## Consortium Membership
 
 The `consortium_member_institutions.tsv` connects NFDI consortia to the
