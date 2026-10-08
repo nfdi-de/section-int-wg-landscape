@@ -1,0 +1,14 @@
+wikidata	type	name	abbreviation	active	meetings	start	end
+Q141672092	task force	Task Force Evaluation and Reporting	TEFR	true	every three wednesdays	start	end
+	task force	Task Force User Research		true	third tuesday of the month		
+	task force	Task Force Tools		true	second wednesday of the month		
+	task force	Task Force Tools Subgroup Authentication and Authorisation Infrastructure		true	every fourth Monday of the month		
+	task force	Task Force Tools Subgroup Helpdesk		true	every second Wednesday of the month		
+	task force	Task Force Tools Subgroup project management		true			
+	task force	Task Force Tools Subgroup Rocket.Chat		true			
+	task force	Task Force Tools Subgroup Data Management Planning		true			
+	task force	Task Force Tools Subgroup File Sharing Cloud		false			
+	jour fixe	Jour fixe speakers		true	first Friday of the month		
+	jour fixe	Jour fixe communication		true	last Wednesday of the month		
+	jour fixe	Jour fixe finance		true	ad-hoc		
+	jour fixe	Jour fixe management		true	second Friday of the month		
