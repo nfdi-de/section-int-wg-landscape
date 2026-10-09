@@ -70,3 +70,47 @@ Q55520740	DARIAH-DE	partner institution	DE		058kzsd48	University of Paderborn (M
 Q55520740	DARIAH-DE	partner institution	DE		02778hg05	University of Trier		https://kompetenzzentrum.uni-trier.de/en/	
 Q55520740	DARIAH-DE	partner institution	DE		00fbnyb24	University of Würzburg		https://www.uni-wuerzburg.de/en/university/	
 Q55520740	DARIAH-DE	representing entity	DE	Q492234	04pz7b180	Federal Ministry of Research Technology and Space	BMFTR		Maria Böhme
+Q104481183	INSTRUCT	linked	HU			Budapest University			Beata Vertessy
+Q104481183	INSTRUCT	linked	AT			Medical University of Vienna			Kristina Djinovic-Carugo
+Q104481183	INSTRUCT	linked	DK			Ministry of Higher Education and Science, Danish Agency for Science, Technology and Innovation			
+Q104481183	INSTRUCT	linked	DK			University of Aarhus			Thomas Vosegaard
+Q104481183	INSTRUCT	linked	PL						Milosz Ruszkowski
+Q104481183	INSTRUCT	linked	SE						Gunter Schneider
+Q104481183	INSTRUCT	member	International		01zjc6908	EMBL Grenoble			
+Q104481183	INSTRUCT	member	International			EMBL Hamburg			
+Q104481183	INSTRUCT	member	International			EMBL Heidelberg			
+Q104481183	INSTRUCT	member	DE		04cvxnb49	Goethe University Frankfurt			Harald Schwalbe
+Q104481183	INSTRUCT	member	GR	Q1248816	033m02g29	National Hellenic Research Foundation	NHRF	http://www.eie.gr/index-en.html	Evangelia Chrysina
+Q104481183	INSTRUCT	member	BE						
+Q104481183	INSTRUCT	member	CZ						
+Q104481183	INSTRUCT	member	FI						
+Q104481183	INSTRUCT	member	FR						
+Q104481183	INSTRUCT	member	IL						
+Q104481183	INSTRUCT	member	IT						
+Q104481183	INSTRUCT	member	LV						
+Q104481183	INSTRUCT	member	LT						
+Q104481183	INSTRUCT	member	NL						
+Q104481183	INSTRUCT	member	PT						
+Q104481183	INSTRUCT	member	SK						
+Q104481183	INSTRUCT	member	SI						
+Q104481183	INSTRUCT	member	ES						
+Q104481183	INSTRUCT	member	GB						
+Q104481183	INSTRUCT	partner	BR			Universidade de Sao Paulo			Shaker Chuck Farah
+Q104481183	INSTRUCT	partner	ZA			University of Cape Town			Bryan Trevor Sewell
+Q104481183	INSTRUCT	partner	CL			University of Concepción			Maximiliano Figueroa
+Q104481183	INSTRUCT	partner	AR						María-Natalia Lisa
+Q104481183	INSTRUCT	partner	JO						Areej Abuhammad
+Q104481183	INSTRUCT	partner	UY						Alejandro Buschiazzo
+Q104481183	INSTRUCT	partner	VE						Alberto Podjarny
+Q17088342	JIV	member	NL			Dutch Research Council	NWO	https://www.nwo.nl/en	
+Q17088342	JIV	member	FR			French National Centre for Scientific Research	CNRS	https://www.cnrs.fr/en	
+Q17088342	JIV	member	ES			Instituto Geográfico Nacional	IGN-MITMA	https://www.ign.es/web/ign/portal	
+Q17088342	JIV	member	IT			Italian National Institute of Astrophysics	INAF	http://www.inaf.it/en	
+Q17088342	JIV	member	LV			Latvia Ministry of Education and Science		http://venta.lv	
+Q17088342	JIV	member	GB			Science and Technology Facilities Council	STFC	http://www.scitech.ac.uk	
+Q17088342	JIV	member	SE			Swedish Research Council		https://www.vr.se/inenglish	
+Q17088342	JIV	member	NL				ASTRON	http://www.astron.nl	
+Q17088342	JIV	partner	DE			Max Plank Institute for Radioastronomy	MPIfR	https://www.mpifr-bonn.mpg.de	
+Q17088342	JIV	partner	CN			National Astronomical Observatories of the Chinese Academy of Sciences	NAOC	http://www.bao.ac.cn/english/home.asp	
+Q17088342	JIV	partner	ZA			South Africa National Research Foundation	NRF-SARAO	http://www.nrf.ac.za	
+Q122873030	SHARE		DE	Q122873350		SHARE BERLIN Institute GmbH	SBI	http://www.share-umfrage.de	Arne Bethmann (abethmann@share-berlin.eu), Alexander Schumacher (aschumacher@share-berlin.eu)
