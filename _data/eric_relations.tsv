@@ -1,133 +1,133 @@
 eric_wikidata	eric_name	interaction_type	country	wikidata	ror	name	abbr	website	people	comment
-Q133811902	Actris	funding	DE			Federal Ministry for Digital and Transport		https://bmdv.bund.de/EN/Home/home.html
-Q133811902	Actris	funding	DE			Federal Ministry for the Environment, Nature Conservation, Nuclear Safety and Consumer Protection		https://www.bundesregierung.de/breg-en/federal-government/ministries/federal-ministry-of-education
-Q133811902	Actris	funding	DE			Federal Ministry of Education and Research	BMBF	https://www.bmbf.de/EN/Home/home_node.html
-Q133811902	Actris	research performing organizations	DE			Alfred Wegener Institute, Helmholtz Centerfor Polar and Marine Research	AWI	https://www.awi.de/en
-Q133811902	Actris	research performing organizations	DE			Bergische Universität Wuppertal	BUW	https://www.uni-wuppertal.de/de
-Q133811902	Actris	research performing organizations	DE			Deutscher Wetterdienst	DWD	https://www.dwd.de/DE/Home/home_node.html
-Q133811902	Actris	research performing organizations	DE			Forschungszentrum Jülich GmbH	FZJ	https://www.fz-juelich.de/en
-Q133811902	Actris	research performing organizations	DE			German Environment Agency	UBA	https://www.umweltbundesamt.de/en
-Q133811902	Actris	research performing organizations	DE			Goethe-Universität Frankfurt am Main	GUF	https://www.goethe-university-frankfurt.de/en?locale=en
-Q133811902	Actris	research performing organizations	DE			Karlsruhe Institute of Technology	KIT	https://www.kit.edu/english
-Q133811902	Actris	research performing organizations	DE	Q1607075	03a5xsc56	Leibniz Institute for Tropospheric Research	TROPOS	https://www.tropos.de/en	Ulla Wandinger
-Q133811902	Actris	research performing organizations	DE			Ludwig-Maximilians-Universität München	LMU	https://www.lmu.de/en
-Q133811902	Actris	research performing organizations	DE			University of Cologne	UoC	https://www.uni-koeln.de/en
-Q133811902	Actris	research performing organizations	DE			Universität Bremen	UBRE	https://www.uni-bremen.de
-Q19372318	CESSDA	member	AT			The Austrian Social Science Data Archive	AUSSDA	https://aussda.at/en
-Q19372318	CESSDA	member	BE			Social Sciences and Digital Humanities Archive	SODHA	https://www.sodha.be
-Q19372318	CESSDA	member	CH			Swiss Centre of Expertise in the Social Sciences	FORS	http://forscenter.ch/en
-Q19372318	CESSDA	member	CZ			Czech Social Science Data Archive	CSDA	http://archiv.soc.cas.cz
-Q19372318	CESSDA	member	DE		018afyw53	Leibniz Institute for the Social Sciences - GESIS
-Q19372318	CESSDA	member	FI			Finnish Social Science Data Archive	FSD	http://www.fsd.uta.fi
-Q19372318	CESSDA	member	FR			PROGEDO Research Infrastructure		http://www.progedo.fr
-Q19372318	CESSDA	member	GB		0468x4e75	UK Data Service	UKDS	http://ukdataservice.ac.uk
-Q19372318	CESSDA	member	GR			Greek research infrastructure for the social sciences	So.Da.Net	http://sodanet.gr
-Q19372318	CESSDA	member	HR			Croatian Social Science Data Archive	CROSSDA	https://www.crossda.hr
-Q19372318	CESSDA	member	HU			Tárki Social Science Data Archive		http://www.tarki.hu/eng
-Q19372318	CESSDA	member	IE			Irish Social Science Data Archive	ISSDA	http://www.ucd.ie/issda
-Q19372318	CESSDA	member	IS			The Icelandic Social Science Data Service	DATICE	https://datice.is/is
-Q19372318	CESSDA	member	IT			Data Archive for Social Sciences in Italy	DASSI	https://www.dassi-archive.it
-Q19372318	CESSDA	member	LT			Lithuanian Data Archive for Humanities and Social Sciences	LiDA	http://www.lidata.eu
-Q19372318	CESSDA	member	MK			Social Science Data Archive of North Macedonia	MK DASS
-Q19372318	CESSDA	member	NL			Data Archiving and Networked Services	DANS	https://dans.knaw.nl/en
-Q19372318	CESSDA	member	NO			Norwegian Agency for Shared Services in Education and Research	Sikt	https://sikt.no/about-sikt
-Q19372318	CESSDA	member	PT			Portuguese Social Information Archive	APIS	http://www.apis.ics.ulisboa.pt
-Q19372318	CESSDA	member	SE			Swedish National Data Service	SND	http://snd.gu.se/en
-Q19372318	CESSDA	member	SI			Social Science Data Archives	ADP	http://www.adp.fdv.uni-lj.si
-Q19372318	CESSDA	member	SK			Slovak Archive of Social Data	SASD	http://sasd.sav.sk/sk
-Q19372318	CESSDA	partner	AL			Albanian Data Archive for Social Science	ADAS
-Q19372318	CESSDA	partner	BA			Data Archive for Social Sciences - Bosnia and Herzegovina
-Q19372318	CESSDA	partner	BG			Bulgarian national data service
-Q19372318	CESSDA	partner	EE		03z77qz90	University of Tartu (Library)		http://esta.ut.ee
-Q19372318	CESSDA	partner	LU		040jf9322	Luxembourg Institute of Socio-Economic Research	LISER	https://www.liser.lu
-Q19372318	CESSDA	partner	LV	Q2007643	03nadks56	Rīga Stradiņš University	RSU	https://www.rsu.lv/en
-Q19372318	CESSDA	partner	ME			The Montenegrin Social Science Data Archive	MSSDA
-Q19372318	CESSDA	partner	PL			Polish Social Data Archive	PADS	https://pads.org.pl
-Q19372318	CESSDA	partner	RO			Romanian Social Data Archive	RODA
-Q19372318	CESSDA	partner	RS			Data Centre Serbia for Social Sciences	DCS	https://datacentarserbia.com
-Q19372318	CESSDA	partner	UA			The Ukraine National Data Bank of Sociological Data “Kyiv archive”
-Q19372318	CESSDA	partner	XK			The Kosovo Social Sciences Data Centre	KSSDC
-Q55520740	DARIAH-DE	coordinating institution	DE		05745n787	University of Göttingen – Göttingen State and University Library (SUB)		https://www.sub.uni-goettingen.de/en	Daniel Kurzawe (https://www.daniel-kurzawe.de/), Nanette Rißler-Pipka (https://orcid.org/0000-0002-0719-9003)
-Q55520740	DARIAH-DE	partner institution	DE		01kdxra28	Academy of Sciences and Literature Mainz		https://www.adwmainz.de/en
-Q55520740	DARIAH-DE	partner institution	DE		05jgq9443	Berlin-Brandenburg Academy of Sciences and Humanities		https://www.bbaw.de/en
-Q55520740	DARIAH-DE	partner institution	DE		048yzb176	DAASI International		https://daasi.de/en
-Q55520740	DARIAH-DE	partner institution	DE		041qv0h25	German Archaeological Institute		https://www.dainst.org
-Q55520740	DARIAH-DE	partner institution	DE		04cvxnb49	Goethe Universität Frankfurt am Main		https://www.goethe-university-frankfurt.de/en?locale=en
-Q55520740	DARIAH-DE	partner institution	DE		00sngv739	Herder-Institut		https://www.herder-institut.de/en/home.html
-Q55520740	DARIAH-DE	partner institution	DE		02y5mkh60	Herzog August Library Wolfenbüttel		https://www.hab.de/en
-Q55520740	DARIAH-DE	partner institution	DE		047wbd030	Hochschule Darmstadt
-Q55520740	DARIAH-DE	partner institution	DE		059dyrr28	Leibniz Institute of European History Mainz		https://www.ieg-mainz.de/en
-Q55520740	DARIAH-DE	partner institution	DE		02esxtn62	Max Weber Foundation		https://www.maxweberstiftung.de/en
-Q55520740	DARIAH-DE	partner institution	DE		0492sjc74	Max-Planck-Institut für Wissenschaftsgeschichte
-Q55520740	DARIAH-DE	partner institution	DE		01c1w6d29	Otto-Friedrich-University Bamberg	UBa	https://www.uni-bamberg.de/en
-Q55520740	DARIAH-DE	partner institution	DE		00cd95c65	Society for Scientific Data Processing	GWDG	https://www.gwdg.de
-Q55520740	DARIAH-DE	partner institution	DE		014nnvj65	TH Köln
-Q55520740	DARIAH-DE	partner institution	DE		05n911h24	TU Darmstadt (Digital Humanities Team)		https://www.digitalhumanities.tu-darmstadt.de
-Q55520740	DARIAH-DE	partner institution	DE		042aqky30	TU Dresden (Zentrum für Informationsdienste und Hochleistungsrechnen)
-Q55520740	DARIAH-DE	partner institution	DE		04mz5ra38	University of Duisburg-Essen (Steinheim Institute for German-Jewish Studies)		http://steinheim-institut.de
-Q55520740	DARIAH-DE	partner institution	DE		00g30e956	University of Hamburg (Universitätsarchiv)
-Q55520740	DARIAH-DE	partner institution	DE		058kzsd48	University of Paderborn (Musikwissenschaftliches Seminar Detmold)
-Q55520740	DARIAH-DE	partner institution	DE		02778hg05	University of Trier		https://kompetenzzentrum.uni-trier.de/en
-Q55520740	DARIAH-DE	partner institution	DE		00fbnyb24	University of Würzburg		https://www.uni-wuerzburg.de/en/university
-Q55520740	DARIAH-DE	representing entity	DE	Q492234	04pz7b180	Federal Ministry of Research Technology and Space	BMFTR		Maria Böhme
-Q104481183	INSTRUCT	linked	HU			Budapest University			Beata Vertessy
-Q104481183	INSTRUCT	linked	AT			Medical University of Vienna			Kristina Djinovic-Carugo
-Q104481183	INSTRUCT	linked	DK			Ministry of Higher Education and Science, Danish Agency for Science, Technology and Innovation
-Q104481183	INSTRUCT	linked	DK			University of Aarhus			Thomas Vosegaard
-Q104481183	INSTRUCT	linked	PL						Milosz Ruszkowski
-Q104481183	INSTRUCT	linked	SE						Gunter Schneider
-Q104481183	INSTRUCT	member	International		01zjc6908	EMBL Grenoble
-Q104481183	INSTRUCT	member	International			EMBL Hamburg
-Q104481183	INSTRUCT	member	International			EMBL Heidelberg
-Q104481183	INSTRUCT	member	DE		04cvxnb49	Goethe University Frankfurt			Harald Schwalbe
-Q104481183	INSTRUCT	member	GR	Q1248816	033m02g29	National Hellenic Research Foundation	NHRF	http://www.eie.gr/index-en.html	Evangelia Chrysina
-Q104481183	INSTRUCT	member	BE
-Q104481183	INSTRUCT	member	CZ
-Q104481183	INSTRUCT	member	ES
-Q104481183	INSTRUCT	member	FI
-Q104481183	INSTRUCT	member	FR
-Q104481183	INSTRUCT	member	GB
-Q104481183	INSTRUCT	member	IL
-Q104481183	INSTRUCT	member	IT
-Q104481183	INSTRUCT	member	LT
-Q104481183	INSTRUCT	member	LV
-Q104481183	INSTRUCT	member	NL
-Q104481183	INSTRUCT	member	PT
-Q104481183	INSTRUCT	member	SI
-Q104481183	INSTRUCT	member	SK
-Q104481183	INSTRUCT	partner	BR			Universidade de Sao Paulo			Shaker Chuck Farah
-Q104481183	INSTRUCT	partner	ZA			University of Cape Town			Bryan Trevor Sewell
-Q104481183	INSTRUCT	partner	CL			University of Concepción			Maximiliano Figueroa
-Q104481183	INSTRUCT	partner	AR						María-Natalia Lisa
-Q104481183	INSTRUCT	partner	JO						Areej Abuhammad
-Q104481183	INSTRUCT	partner	UY						Alejandro Buschiazzo
-Q104481183	INSTRUCT	partner	VE						Alberto Podjarny
-Q122873030	SHARE		AT		052r2xn60	Johannes Kepler Universität Linz Department of Economics		https://www.share-austria.at/index.php?id=share	Rudolf Winter-Ebmer (rudolf.winterebmer@jku.at), Michael Radhuber (michael.radhuber@jku.at), Nicole Halmdienst (nicole.halmdienst@jku.at)
-Q122873030	SHARE		BE		008x57b05	Universiteit Antwerpen Centre for Social Policy Herman Deleeck		https://www.share-project.be	Koen Decancq (koen.decancq@uantwerpen.be), Daniela Skugor (daniela.skugor@uantwerpen.be)
-Q122873030	SHARE		BG		01x8hew03	Institute of Philosophy and Sociology at the Bulgarian Academy of Sciences	IPS-BAS	https://share-eric-bulgaria.bg/en	Ekaterina Markova (emarkova@ips.bas.bg), Gabriela Yordanova (gabriela.m.yordanova@ips.bas.bg)
-Q122873030	SHARE		CH		019whta54	University of Lausanne Faculty of Business and Economics		https://www.unil.ch/share/de/home.html	Jürgen Maurer, (Jurgen.Maurer@unil.ch), Olivier Mucchiut (Olivier.Mucchiut@unil.ch)
-Q122873030	SHARE		CY		02qjrjx09	University of Cyprus Department of Economics and Management			Nikolaos Theodoropoulos (n.theodoropoulos@ucy.ac.cy), George Voucharas (gvouch01@ucy.ac.cy)
-Q122873030	SHARE		CZ		0362ttz08	Center for Economic Research and Graduate Education – Economics Institute	CERGE-EI	http://share.cerge-ei.cz	Radim Bohacek (radim.bohacek@gmail.com), Jan Kroupa
-Q122873030	SHARE		DE	Q122873350		SHARE BERLIN Institute GmbH	SBI	http://www.share-umfrage.de	Arne Bethmann (abethmann@share-berlin.eu), Alexander Schumacher (aschumacher@share-berlin.eu)
-Q122873030	SHARE		DK		03yrrjy16	University of Southern Denmark		https://www.sdu.dk/en/forskning/forskningsenheder/samf/share	Jørgen T. Lauridsen (jtl@sam.sdu.dk), Hans Christian B. Lauridsen (hcbl@sam.sdu.dk)
-Q122873030	SHARE		EE		05mey9k78	Estonian Institute for Population Studies Tallinn University		http://share-estonia.ee	Luule Sakkeus (luule.sakkeus@tlu.ee), Tiina Tambaum (tiina.tambaum@tlu.ee), Liili Abduladze (liili@tlu.ee)
-Q122873030	SHARE		ES		035h6g182	Centro de Estudios Monetarios y Financieros	CEMFI	https://www.share.cemfi.es	Pedro Mira (mira@cemfi.es), Yarine Fawaz (fawaz@cemfi.es)
-Q122873030	SHARE		FI		01pndf691	Väestöliitto		https://www.vaestoliitto.fi/en/research/ageing-and-generations/survey-of-health-ageing-and-retirement-in-europe	Anna Rotkirch (Anna.Rotkirch@vaestoliitto.fi), Johanna Lahtela (johanna.lahtela@vaestoliitto.fi)
-Q122873030	SHARE		FR		052bz7812	Université Paris-Dauphine		https://share.dauphine.fr	Florence Jusot (florence.jusot@dauphine.psl.eu), Justine Bondoux, Thomas Renaud, Pierre Depardieu
-Q122873030	SHARE		GR		056ddyv20	Panteion University of Social and Political Sciences			Antigone Lyberaki (antiglib@gmail.com), Platon Tinios (ptinios@otenet.gr), Michail Chouzouris (mchouzouris@hotmail.com), Thomas Georgiadis (th.georgiadis@gmail.com)
-Q122873030	SHARE		HR		00mv6sv71	University of Zagreb Faculty of Economics and Business		https://www.share-project.hr	Šime Smolić, Ivan Čipin
-Q122873030	SHARE		HU		02ks8qq67	Institute of Economics Centre for Economic and Regional Studies of the Hungarian Academy of Sciences			Aniko Biro (biro.aniko@krtk.mta.hu), Maria Volkov (volkov_maria@alumni.ceu.edu)
-Q122873030	SHARE		IL		03qxff017	The Hebrew University Israel Gerontological Data Center		http://igdc.huji.ac.il/home/share/introduction.aspx	Sharon Shiovitz-Ezra (sharon.shiovitz@mail.huji.ac.il), Avi Cohen (avi.cohen2@mail.huji.ac.il)
-Q122873030	SHARE		IT		00240q980	Universita’ degli Studi di Padova Dipartimento di Scienze Economiche			Guglielmo Weber (guglielmo.weber@unipd.it), Nancy Zambon (nancy.zambon@unipd.it)
-Q122873030	SHARE		IT		04yzxz566	Università Ca’ Foscari di Venezia Department of Economics			Agar Brugiavini (brugiavi@unive.it)
-Q122873030	SHARE		LT		03nadee84	Vilnius University Faculty of Philosophy			Antanas Kairys (antanas.kairys@fsf.vu.lt), Olga Zamalijeva (olga.zamalijeva@fsf.vu.lt), Raimonda Sadauskaitė (raimonda.sadauskaite@fsf.vu.lt)
-Q122873030	SHARE		LU		040jf9322	Luxembourg Institute of Socio-Economics Research	LISER	http://share.liser.lu	Maria Noel Pi Alperin (MariaNoel.PiAlperin@liser.lu), Gaetan de Lanchy (gaetan.delanchy@liser.lu)
-Q122873030	SHARE		LV		03nadks56	Institute of Public Health, Rīga Stradiņš University		https://www.rsu.lv/en/institute-public-health	Aija Bukova-Žideļūna (Aija.Bukova@rsu.lv), Diāna Baltmane (Diana.Baltmane@rsu.lv)
-Q122873030	SHARE		NL		04pp8hn57	Utrecht University - Faculty of Social Sciences		https://www.share-project.nl	Bella Struminskaya (b.struminskaya@uu.nl), Kasia Karpinska (kasia@odissei-data.nl)
-Q122873030	SHARE		PL		032cph770	Warsaw School of Economics		https://share50plus.pl Agnieszka Chłoń-Domińczak (achlon@sgh.waw.pl), Monika Oczkowska (moczko@sgh.waw.pl)
-Q122873030	SHARE		PT		03nr2fs68	Nova University of Lisbon, Nova School of Business and Economics			Pedro Pita Barros (ppbarros@novasbe.pt)
-Q122873030	SHARE		PT		043pwc612	University of Porto			Patrício Costa (pcosta@fpce.up.pt), Raquel Barbosa raquel@fpce.up.pt), Gina Voss (gvoss16@gmail.com), Beatriz David (beatrizdavid.psi@gmail.com)
-Q122873030	SHARE		RO		022kvet57	Alexandru Ioan Cuza University of Iasi Faculty of Economics and Business Administration			Alin Marius Andries (alin.andries@uaic.ro), Mircea Asandului (mircea.asandului@uaic.ro)
-Q122873030	SHARE		SE		05kb8h459	Umeå universitet		https://cors.se/share-survey-of-health-ageing-and-retirement-in-europe	Gunnar Malmberg (gunnar.malmberg@geography.umu.se), Mikael Stattin (mikael.stattin@soc.umu.se), Jenny Olofsson (jenny.olofsson@umu.se)
-Q122873030	SHARE		SI		014z5x149	Institute for Economic Research	IER	http://www.share-slovenija.si	Valentina Prevolnik Rupel (valentina.rupel@ier.si), Boris Majcen (majcenb@ier.si), Sonja Uršič (ursics@ier.si)
-Q122873030	SHARE		SK		0310h1546	University of Economics in Bratislava			Eva Pongrácz (eva.pongracz@euba.sk), Silvia Šipikalová (silvia.sipikalova@euba.sk)
+Q133811902	Actris	funding	DE			Federal Ministry for Digital and Transport		https://bmdv.bund.de/EN/Home/home.html		
+Q133811902	Actris	funding	DE			Federal Ministry for the Environment, Nature Conservation, Nuclear Safety and Consumer Protection		https://www.bundesregierung.de/breg-en/federal-government/ministries/federal-ministry-of-education		
+Q133811902	Actris	funding	DE			Federal Ministry of Education and Research	BMBF	https://www.bmbf.de/EN/Home/home_node.html		
+Q133811902	Actris	research performing organizations	DE			Alfred Wegener Institute, Helmholtz Centerfor Polar and Marine Research	AWI	https://www.awi.de/en		
+Q133811902	Actris	research performing organizations	DE			Bergische Universität Wuppertal	BUW	https://www.uni-wuppertal.de/de		
+Q133811902	Actris	research performing organizations	DE			Deutscher Wetterdienst	DWD	https://www.dwd.de/DE/Home/home_node.html		
+Q133811902	Actris	research performing organizations	DE			Forschungszentrum Jülich GmbH	FZJ	https://www.fz-juelich.de/en		
+Q133811902	Actris	research performing organizations	DE			German Environment Agency	UBA	https://www.umweltbundesamt.de/en		
+Q133811902	Actris	research performing organizations	DE			Goethe-Universität Frankfurt am Main	GUF	https://www.goethe-university-frankfurt.de/en?locale=en		
+Q133811902	Actris	research performing organizations	DE			Karlsruhe Institute of Technology	KIT	https://www.kit.edu/english		
+Q133811902	Actris	research performing organizations	DE	Q1607075	03a5xsc56	Leibniz Institute for Tropospheric Research	TROPOS	https://www.tropos.de/en	Ulla Wandinger	
+Q133811902	Actris	research performing organizations	DE			Ludwig-Maximilians-Universität München	LMU	https://www.lmu.de/en		
+Q133811902	Actris	research performing organizations	DE			University of Cologne	UoC	https://www.uni-koeln.de/en		
+Q133811902	Actris	research performing organizations	DE			Universität Bremen	UBRE	https://www.uni-bremen.de		
+Q19372318	CESSDA	member	AT			The Austrian Social Science Data Archive	AUSSDA	https://aussda.at/en		
+Q19372318	CESSDA	member	BE			Social Sciences and Digital Humanities Archive	SODHA	https://www.sodha.be		
+Q19372318	CESSDA	member	CH			Swiss Centre of Expertise in the Social Sciences	FORS	http://forscenter.ch/en		
+Q19372318	CESSDA	member	CZ			Czech Social Science Data Archive	CSDA	http://archiv.soc.cas.cz		
+Q19372318	CESSDA	member	DE		018afyw53	Leibniz Institute for the Social Sciences - GESIS				
+Q19372318	CESSDA	member	FI			Finnish Social Science Data Archive	FSD	http://www.fsd.uta.fi		
+Q19372318	CESSDA	member	FR			PROGEDO Research Infrastructure		http://www.progedo.fr		
+Q19372318	CESSDA	member	GB		0468x4e75	UK Data Service	UKDS	http://ukdataservice.ac.uk		
+Q19372318	CESSDA	member	GR			Greek research infrastructure for the social sciences	So.Da.Net	http://sodanet.gr		
+Q19372318	CESSDA	member	HR			Croatian Social Science Data Archive	CROSSDA	https://www.crossda.hr		
+Q19372318	CESSDA	member	HU			Tárki Social Science Data Archive		http://www.tarki.hu/eng		
+Q19372318	CESSDA	member	IE			Irish Social Science Data Archive	ISSDA	http://www.ucd.ie/issda		
+Q19372318	CESSDA	member	IS			The Icelandic Social Science Data Service	DATICE	https://datice.is/is		
+Q19372318	CESSDA	member	IT			Data Archive for Social Sciences in Italy	DASSI	https://www.dassi-archive.it		
+Q19372318	CESSDA	member	LT			Lithuanian Data Archive for Humanities and Social Sciences	LiDA	http://www.lidata.eu		
+Q19372318	CESSDA	member	MK			Social Science Data Archive of North Macedonia	MK DASS			
+Q19372318	CESSDA	member	NL			Data Archiving and Networked Services	DANS	https://dans.knaw.nl/en		
+Q19372318	CESSDA	member	NO			Norwegian Agency for Shared Services in Education and Research	Sikt	https://sikt.no/about-sikt		
+Q19372318	CESSDA	member	PT			Portuguese Social Information Archive	APIS	http://www.apis.ics.ulisboa.pt		
+Q19372318	CESSDA	member	SE			Swedish National Data Service	SND	http://snd.gu.se/en		
+Q19372318	CESSDA	member	SI			Social Science Data Archives	ADP	http://www.adp.fdv.uni-lj.si		
+Q19372318	CESSDA	member	SK			Slovak Archive of Social Data	SASD	http://sasd.sav.sk/sk		
+Q19372318	CESSDA	partner	AL			Albanian Data Archive for Social Science	ADAS			
+Q19372318	CESSDA	partner	BA			Data Archive for Social Sciences - Bosnia and Herzegovina				
+Q19372318	CESSDA	partner	BG			Bulgarian national data service				
+Q19372318	CESSDA	partner	EE		03z77qz90	University of Tartu (Library)		http://esta.ut.ee		
+Q19372318	CESSDA	partner	LU		040jf9322	Luxembourg Institute of Socio-Economic Research	LISER	https://www.liser.lu		
+Q19372318	CESSDA	partner	LV	Q2007643	03nadks56	Rīga Stradiņš University	RSU	https://www.rsu.lv/en		
+Q19372318	CESSDA	partner	ME			The Montenegrin Social Science Data Archive	MSSDA			
+Q19372318	CESSDA	partner	PL			Polish Social Data Archive	PADS	https://pads.org.pl		
+Q19372318	CESSDA	partner	RO			Romanian Social Data Archive	RODA			
+Q19372318	CESSDA	partner	RS			Data Centre Serbia for Social Sciences	DCS	https://datacentarserbia.com		
+Q19372318	CESSDA	partner	UA			The Ukraine National Data Bank of Sociological Data “Kyiv archive”				
+Q19372318	CESSDA	partner	XK			The Kosovo Social Sciences Data Centre	KSSDC			
+Q55520740	DARIAH-DE	coordinating institution	DE		05745n787	University of Göttingen – Göttingen State and University Library (SUB)		https://www.sub.uni-goettingen.de/en	Daniel Kurzawe (https://www.daniel-kurzawe.de/), Nanette Rißler-Pipka (https://orcid.org/0000-0002-0719-9003)	
+Q55520740	DARIAH-DE	partner institution	DE		01kdxra28	Academy of Sciences and Literature Mainz		https://www.adwmainz.de/en		
+Q55520740	DARIAH-DE	partner institution	DE		05jgq9443	Berlin-Brandenburg Academy of Sciences and Humanities		https://www.bbaw.de/en		
+Q55520740	DARIAH-DE	partner institution	DE		048yzb176	DAASI International		https://daasi.de/en		
+Q55520740	DARIAH-DE	partner institution	DE		041qv0h25	German Archaeological Institute		https://www.dainst.org		
+Q55520740	DARIAH-DE	partner institution	DE		04cvxnb49	Goethe Universität Frankfurt am Main		https://www.goethe-university-frankfurt.de/en?locale=en		
+Q55520740	DARIAH-DE	partner institution	DE		00sngv739	Herder-Institut		https://www.herder-institut.de/en/home.html		
+Q55520740	DARIAH-DE	partner institution	DE		02y5mkh60	Herzog August Library Wolfenbüttel		https://www.hab.de/en		
+Q55520740	DARIAH-DE	partner institution	DE		047wbd030	Hochschule Darmstadt				
+Q55520740	DARIAH-DE	partner institution	DE		059dyrr28	Leibniz Institute of European History Mainz		https://www.ieg-mainz.de/en		
+Q55520740	DARIAH-DE	partner institution	DE		02esxtn62	Max Weber Foundation		https://www.maxweberstiftung.de/en		
+Q55520740	DARIAH-DE	partner institution	DE		0492sjc74	Max-Planck-Institut für Wissenschaftsgeschichte				
+Q55520740	DARIAH-DE	partner institution	DE		01c1w6d29	Otto-Friedrich-University Bamberg	UBa	https://www.uni-bamberg.de/en		
+Q55520740	DARIAH-DE	partner institution	DE		00cd95c65	Society for Scientific Data Processing	GWDG	https://www.gwdg.de		
+Q55520740	DARIAH-DE	partner institution	DE		014nnvj65	TH Köln				
+Q55520740	DARIAH-DE	partner institution	DE		05n911h24	TU Darmstadt (Digital Humanities Team)		https://www.digitalhumanities.tu-darmstadt.de		
+Q55520740	DARIAH-DE	partner institution	DE		042aqky30	TU Dresden (Zentrum für Informationsdienste und Hochleistungsrechnen)				
+Q55520740	DARIAH-DE	partner institution	DE		04mz5ra38	University of Duisburg-Essen (Steinheim Institute for German-Jewish Studies)		http://steinheim-institut.de		
+Q55520740	DARIAH-DE	partner institution	DE		00g30e956	University of Hamburg (Universitätsarchiv)				
+Q55520740	DARIAH-DE	partner institution	DE		058kzsd48	University of Paderborn (Musikwissenschaftliches Seminar Detmold)				
+Q55520740	DARIAH-DE	partner institution	DE		02778hg05	University of Trier		https://kompetenzzentrum.uni-trier.de/en		
+Q55520740	DARIAH-DE	partner institution	DE		00fbnyb24	University of Würzburg		https://www.uni-wuerzburg.de/en/university		
+Q55520740	DARIAH-DE	representing entity	DE	Q492234	04pz7b180	Federal Ministry of Research Technology and Space	BMFTR		Maria Böhme	
+Q104481183	INSTRUCT	linked	AT			Medical University of Vienna			Kristina Djinovic-Carugo	
+Q104481183	INSTRUCT	linked	DK			Ministry of Higher Education and Science, Danish Agency for Science, Technology and Innovation				
+Q104481183	INSTRUCT	linked	DK			University of Aarhus			Thomas Vosegaard	
+Q104481183	INSTRUCT	linked	HU			Budapest University			Beata Vertessy	
+Q104481183	INSTRUCT	linked	PL						Milosz Ruszkowski	
+Q104481183	INSTRUCT	linked	SE						Gunter Schneider	
+Q104481183	INSTRUCT	member	BE							
+Q104481183	INSTRUCT	member	CZ							
+Q104481183	INSTRUCT	member	DE		04cvxnb49	Goethe University Frankfurt			Harald Schwalbe	
+Q104481183	INSTRUCT	member	ES							
+Q104481183	INSTRUCT	member	FI							
+Q104481183	INSTRUCT	member	FR							
+Q104481183	INSTRUCT	member	GB							
+Q104481183	INSTRUCT	member	GR	Q1248816	033m02g29	National Hellenic Research Foundation	NHRF	http://www.eie.gr/index-en.html	Evangelia Chrysina	
+Q104481183	INSTRUCT	member	IL							
+Q104481183	INSTRUCT	member	IT							
+Q104481183	INSTRUCT	member	International		01zjc6908	EMBL Grenoble				
+Q104481183	INSTRUCT	member	International			EMBL Hamburg				
+Q104481183	INSTRUCT	member	International			EMBL Heidelberg				
+Q104481183	INSTRUCT	member	LT							
+Q104481183	INSTRUCT	member	LV							
+Q104481183	INSTRUCT	member	NL							
+Q104481183	INSTRUCT	member	PT							
+Q104481183	INSTRUCT	member	SI							
+Q104481183	INSTRUCT	member	SK							
+Q104481183	INSTRUCT	partner	AR						María-Natalia Lisa	
+Q104481183	INSTRUCT	partner	BR			Universidade de Sao Paulo			Shaker Chuck Farah	
+Q104481183	INSTRUCT	partner	CL			University of Concepción			Maximiliano Figueroa	
+Q104481183	INSTRUCT	partner	JO						Areej Abuhammad	
+Q104481183	INSTRUCT	partner	UY						Alejandro Buschiazzo	
+Q104481183	INSTRUCT	partner	VE						Alberto Podjarny	
+Q104481183	INSTRUCT	partner	ZA			University of Cape Town			Bryan Trevor Sewell	
+Q122873030	SHARE		AT		052r2xn60	Johannes Kepler Universität Linz Department of Economics		https://www.share-austria.at/index.php?id=share	Rudolf Winter-Ebmer (rudolf.winterebmer@jku.at), Michael Radhuber (michael.radhuber@jku.at), Nicole Halmdienst (nicole.halmdienst@jku.at)	
+Q122873030	SHARE		BE		008x57b05	Universiteit Antwerpen Centre for Social Policy Herman Deleeck		https://www.share-project.be	Koen Decancq (koen.decancq@uantwerpen.be), Daniela Skugor (daniela.skugor@uantwerpen.be)	
+Q122873030	SHARE		BG		01x8hew03	Institute of Philosophy and Sociology at the Bulgarian Academy of Sciences	IPS-BAS	https://share-eric-bulgaria.bg/en	Ekaterina Markova (emarkova@ips.bas.bg), Gabriela Yordanova (gabriela.m.yordanova@ips.bas.bg)	
+Q122873030	SHARE		CH		019whta54	University of Lausanne Faculty of Business and Economics		https://www.unil.ch/share/de/home.html	Jürgen Maurer, (Jurgen.Maurer@unil.ch), Olivier Mucchiut (Olivier.Mucchiut@unil.ch)	
+Q122873030	SHARE		CY		02qjrjx09	University of Cyprus Department of Economics and Management			Nikolaos Theodoropoulos (n.theodoropoulos@ucy.ac.cy), George Voucharas (gvouch01@ucy.ac.cy)	
+Q122873030	SHARE		CZ		0362ttz08	Center for Economic Research and Graduate Education – Economics Institute	CERGE-EI	http://share.cerge-ei.cz	Radim Bohacek (radim.bohacek@gmail.com), Jan Kroupa	
+Q122873030	SHARE		DE	Q122873350		SHARE BERLIN Institute GmbH	SBI	http://www.share-umfrage.de	Arne Bethmann (abethmann@share-berlin.eu), Alexander Schumacher (aschumacher@share-berlin.eu)	
+Q122873030	SHARE		DK		03yrrjy16	University of Southern Denmark		https://www.sdu.dk/en/forskning/forskningsenheder/samf/share	Jørgen T. Lauridsen (jtl@sam.sdu.dk), Hans Christian B. Lauridsen (hcbl@sam.sdu.dk)	
+Q122873030	SHARE		EE		05mey9k78	Estonian Institute for Population Studies Tallinn University		http://share-estonia.ee	Luule Sakkeus (luule.sakkeus@tlu.ee), Tiina Tambaum (tiina.tambaum@tlu.ee), Liili Abduladze (liili@tlu.ee)	
+Q122873030	SHARE		ES		035h6g182	Centro de Estudios Monetarios y Financieros	CEMFI	https://www.share.cemfi.es	Pedro Mira (mira@cemfi.es), Yarine Fawaz (fawaz@cemfi.es)	
+Q122873030	SHARE		FI		01pndf691	Väestöliitto		https://www.vaestoliitto.fi/en/research/ageing-and-generations/survey-of-health-ageing-and-retirement-in-europe	Anna Rotkirch (Anna.Rotkirch@vaestoliitto.fi), Johanna Lahtela (johanna.lahtela@vaestoliitto.fi)	
+Q122873030	SHARE		FR		052bz7812	Université Paris-Dauphine		https://share.dauphine.fr	Florence Jusot (florence.jusot@dauphine.psl.eu), Justine Bondoux, Thomas Renaud, Pierre Depardieu	
+Q122873030	SHARE		GR		056ddyv20	Panteion University of Social and Political Sciences			Antigone Lyberaki (antiglib@gmail.com), Platon Tinios (ptinios@otenet.gr), Michail Chouzouris (mchouzouris@hotmail.com), Thomas Georgiadis (th.georgiadis@gmail.com)	
+Q122873030	SHARE		HR		00mv6sv71	University of Zagreb Faculty of Economics and Business		https://www.share-project.hr	Šime Smolić, Ivan Čipin	
+Q122873030	SHARE		HU		02ks8qq67	Institute of Economics Centre for Economic and Regional Studies of the Hungarian Academy of Sciences			Aniko Biro (biro.aniko@krtk.mta.hu), Maria Volkov (volkov_maria@alumni.ceu.edu)	
+Q122873030	SHARE		IL		03qxff017	The Hebrew University Israel Gerontological Data Center		http://igdc.huji.ac.il/home/share/introduction.aspx	Sharon Shiovitz-Ezra (sharon.shiovitz@mail.huji.ac.il), Avi Cohen (avi.cohen2@mail.huji.ac.il)	
+Q122873030	SHARE		IT		00240q980	Universita’ degli Studi di Padova Dipartimento di Scienze Economiche			Guglielmo Weber (guglielmo.weber@unipd.it), Nancy Zambon (nancy.zambon@unipd.it)	
+Q122873030	SHARE		IT		04yzxz566	Università Ca’ Foscari di Venezia Department of Economics			Agar Brugiavini (brugiavi@unive.it)	
+Q122873030	SHARE		LT		03nadee84	Vilnius University Faculty of Philosophy			Antanas Kairys (antanas.kairys@fsf.vu.lt), Olga Zamalijeva (olga.zamalijeva@fsf.vu.lt), Raimonda Sadauskaitė (raimonda.sadauskaite@fsf.vu.lt)	
+Q122873030	SHARE		LU		040jf9322	Luxembourg Institute of Socio-Economics Research	LISER	http://share.liser.lu	Maria Noel Pi Alperin (MariaNoel.PiAlperin@liser.lu), Gaetan de Lanchy (gaetan.delanchy@liser.lu)	
+Q122873030	SHARE		LV		03nadks56	Institute of Public Health, Rīga Stradiņš University		https://www.rsu.lv/en/institute-public-health	Aija Bukova-Žideļūna (Aija.Bukova@rsu.lv), Diāna Baltmane (Diana.Baltmane@rsu.lv)	
+Q122873030	SHARE		NL		04pp8hn57	Utrecht University - Faculty of Social Sciences		https://www.share-project.nl	Bella Struminskaya (b.struminskaya@uu.nl), Kasia Karpinska (kasia@odissei-data.nl)	
+Q122873030	SHARE		PL		032cph770	Warsaw School of Economics		https://share50plus.pl Agnieszka Chłoń-Domińczak (achlon@sgh.waw.pl), Monika Oczkowska (moczko@sgh.waw.pl)		
+Q122873030	SHARE		PT		03nr2fs68	Nova University of Lisbon, Nova School of Business and Economics			Pedro Pita Barros (ppbarros@novasbe.pt)	
+Q122873030	SHARE		PT		043pwc612	University of Porto			Patrício Costa (pcosta@fpce.up.pt), Raquel Barbosa raquel@fpce.up.pt), Gina Voss (gvoss16@gmail.com), Beatriz David (beatrizdavid.psi@gmail.com)	
+Q122873030	SHARE		RO		022kvet57	Alexandru Ioan Cuza University of Iasi Faculty of Economics and Business Administration			Alin Marius Andries (alin.andries@uaic.ro), Mircea Asandului (mircea.asandului@uaic.ro)	
+Q122873030	SHARE		SE		05kb8h459	Umeå universitet		https://cors.se/share-survey-of-health-ageing-and-retirement-in-europe	Gunnar Malmberg (gunnar.malmberg@geography.umu.se), Mikael Stattin (mikael.stattin@soc.umu.se), Jenny Olofsson (jenny.olofsson@umu.se)	
+Q122873030	SHARE		SI		014z5x149	Institute for Economic Research	IER	http://www.share-slovenija.si	Valentina Prevolnik Rupel (valentina.rupel@ier.si), Boris Majcen (majcenb@ier.si), Sonja Uršič (ursics@ier.si)	
+Q122873030	SHARE		SK		0310h1546	University of Economics in Bratislava			Eva Pongrácz (eva.pongracz@euba.sk), Silvia Šipikalová (silvia.sipikalova@euba.sk)	
