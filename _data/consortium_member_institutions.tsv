@@ -1,10 +1,10 @@
-consortia	consortiaLabel	consortiaROR	institution	institutionLabel	institutionROR	role	roleLabel	start	end
+consortium_wikidata	consortium_label	consortiaROR	institution	institution_label	institutionROR	role	roleLabel	start	end
 Q108542181	BERD@NFDI	02cxb1m07	Q684415	Bavarian Academy of Sciences and Humanities	001rdaz60	Q105906860	participant		
 Q108542181	BERD@NFDI	02cxb1m07	Q1485220	GESIS – Leibniz Institute for the Social Sciences	018afyw53	Q105906738	co-applicant		
 Q108542181	BERD@NFDI	02cxb1m07	Q992671	German Academic Association of Business Research (VHB)		Q105906860	participant		
 Q108542181	BERD@NFDI	02cxb1m07	Q1518536	Gesellschaft für Unternehmensgeschichte		Q105906860	participant		
-Q108542181	BERD@NFDI	02cxb1m07	Q1664805	Institut für Arbeitsmarkt- und Berufsforschung	02qcqwf93	Q105906738	co-applicant		
 Q108542181	BERD@NFDI	02cxb1m07	Q1664805	Institut für Arbeitsmarkt- und Berufsforschung	02qcqwf93	Q105906860	participant		
+Q108542181	BERD@NFDI	02cxb1m07	Q1664805	Institut für Arbeitsmarkt- und Berufsforschung	02qcqwf93	Q105906738	co-applicant		
 Q108542181	BERD@NFDI	02cxb1m07	Q107619247	Institute for Banking and Financial History		Q105906860	participant		
 Q108542181	BERD@NFDI	02cxb1m07	Q191206	Leibniz Centre for European Economic Research	02qnsw591	Q105906860	participant		
 Q108542181	BERD@NFDI	02cxb1m07	Q85559999	Leibniz Institute for Financial Research SAFE	05wxywg93	Q105906860	participant		
@@ -93,14 +93,14 @@ Q98380336	DataPLANT	01v7r4v08	Q55044	Ludwig-Maximilians-Universität München	05
 Q98380336	DataPLANT	01v7r4v08	Q910825	Max Planck Institute for Molecular Plant Physiology	01fbde567	Q105906860	participant		
 Q98380336	DataPLANT	01v7r4v08	Q309948	Ruhr University Bochum	04tsk2644	Q105906860	participant		
 Q98380336	DataPLANT	01v7r4v08	Q317032	University of Düsseldorf	024z2rq82	Q105906860	participant		
-Q98380336	DataPLANT	01v7r4v08	Q153987	University of Freiburg	0245cg223	Q105906860	participant		
 Q98380336	DataPLANT	01v7r4v08	Q153987	University of Freiburg	0245cg223	Q54875338	applicant		
+Q98380336	DataPLANT	01v7r4v08	Q153987	University of Freiburg	0245cg223	Q105906860	participant		
 Q98380336	DataPLANT	01v7r4v08	Q690912	University of Hohenheim	00b1c9541	Q105906860	participant		
-Q98380336	DataPLANT	01v7r4v08	Q678965	University of Kaiserslautern	04zrf7b53	Q105906860	participant		
 Q98380336	DataPLANT	01v7r4v08	Q678965	University of Kaiserslautern	04zrf7b53	Q105906738	co-applicant		
+Q98380336	DataPLANT	01v7r4v08	Q678965	University of Kaiserslautern	04zrf7b53	Q105906860	participant		
 Q98380336	DataPLANT	01v7r4v08	Q835440	University of Konstanz	0546hnb39	Q105906860	participant		
-Q98380336	DataPLANT	01v7r4v08	Q153978	University of Tübingen	03a1kwz48	Q105906738	co-applicant		
 Q98380336	DataPLANT	01v7r4v08	Q153978	University of Tübingen	03a1kwz48	Q105906860	participant		
+Q98380336	DataPLANT	01v7r4v08	Q153978	University of Tübingen	03a1kwz48	Q105906738	co-applicant		
 Q113486316	FAIRagro	00r0qs524	Q1792955	Association for Technology and Construction in Agriculture	00e2z2v91	Q105906738	co-applicant		
 Q113486316	FAIRagro	00r0qs524	Q2324301	Bavarian State Archives	01hq2jk95	Q105906860	participant		
 Q113486316	FAIRagro	00r0qs524	Q812239	Bavarian State Research Center for Agriculture	01grm4y17	Q105906860	participant		
@@ -143,8 +143,8 @@ Q108542373	FAIRmat	034pbpe12	Q2399120	TIB – Leibniz Information Centre for Sci
 Q108542373	FAIRmat	034pbpe12	Q157808	Technical University of Munich	02kkvpp62	Q105906738	co-applicant		
 Q98380337	GHGA	05nfk7108	Q55436361	CISPA – Helmholtz Center for Information Security	02njgxr09	Q105906860	participant		
 Q98380337	GHGA	05nfk7108	Q162684	Charité	001w7jn25	Q105906738	co-applicant		
-Q98380337	GHGA	05nfk7108	Q695267	European Molecular Biology Laboratory	03mstc592	Q105906860	participant		
 Q98380337	GHGA	05nfk7108	Q695267	European Molecular Biology Laboratory	03mstc592	Q105906738	co-applicant		
+Q98380337	GHGA	05nfk7108	Q695267	European Molecular Biology Laboratory	03mstc592	Q105906860	participant		
 Q98380337	GHGA	05nfk7108	Q449325	German Cancer Research Center	04cdgtt98	Q54875338	applicant		
 Q98380337	GHGA	05nfk7108	Q1206136	German Center for Neurodegenerative Diseases	043j0f473	Q105906738	co-applicant		
 Q98380337	GHGA	05nfk7108	Q833738	Heidelberg Academy of Sciences and Humanities	02dvf9b44	Q105906738	co-applicant		
@@ -331,8 +331,8 @@ Q98380341	NFDI4Biodiversity	03fqpzb44	Q155354	University of Marburg	01rdrb571	Q1
 Q98380341	NFDI4Biodiversity	03fqpzb44	Q168426	University of Münster	00pd74e08	Q105906860	participant		
 Q98380341	NFDI4Biodiversity	03fqpzb44	Q704468	University of Passau	05ydjnb78	Q105906860	participant		
 Q98380342	NFDI4Cat	01k9z4a50	Q896265	DECHEMA	01hsw0492	Q54875338	applicant		
-Q98380342	NFDI4Cat	01k9z4a50	Q11942	ETH Zurich	05a28rw58	Q105906738	co-applicant	2021-10-01T00:00:00Z	
 Q98380342	NFDI4Cat	01k9z4a50	Q11942	ETH Zurich	05a28rw58	Q105906860	participant	2021-10-01T00:00:00Z	
+Q98380342	NFDI4Cat	01k9z4a50	Q11942	ETH Zurich	05a28rw58	Q105906738	co-applicant	2021-10-01T00:00:00Z	
 Q98380342	NFDI4Cat	01k9z4a50	Q1452018	Fraunhofer Institute for Open Communication Systems	00px80p03	Q105906738	co-applicant		
 Q98380342	NFDI4Cat	01k9z4a50	Q309988	Karlsruhe Institute of Technology	04t3en479	Q105906738	co-applicant		
 Q98380342	NFDI4Cat	01k9z4a50	Q1813734	Leibniz Institute for Catalysis	029hg0311	Q105906738	co-applicant		
@@ -448,8 +448,8 @@ Q98276929	NFDI4Culture	001jhv750	Q118145155	Institut für Theaterwissenschaft �
 Q98276929	NFDI4Culture	001jhv750	Q125922	Institute for Museum Research	00w176w85	Q131426715	subsidiary participant	2020-10-01T00:00:00Z	
 Q98276929	NFDI4Culture	001jhv750	Q107176841	Interdisciplinary Centre for Digital Humanities and Social Sciences		Q131426715	subsidiary participant		
 Q98276929	NFDI4Culture	001jhv750	Q117184516	Interessengemeinschaft für semantische Datenverarbeitung e.V. (IGSD)		Q105906860	participant	2023-03-01T00:00:00Z	
-Q98276929	NFDI4Culture	001jhv750	Q1667506	International Association of Music Libraries, Archives and Documentation Centres		Q120073991	supporting partner	2020-10-01T00:00:00Z	
 Q98276929	NFDI4Culture	001jhv750	Q1667506	International Association of Music Libraries, Archives and Documentation Centres		Q105906860	participant	2020-10-01T00:00:00Z	
+Q98276929	NFDI4Culture	001jhv750	Q1667506	International Association of Music Libraries, Archives and Documentation Centres		Q120073991	supporting partner	2020-10-01T00:00:00Z	
 Q98276929	NFDI4Culture	001jhv750	Q97040206	International Audio Laboratories Erlangen	02mkz3e80	Q120073991	supporting partner	2020-10-01T00:00:00Z	
 Q98276929	NFDI4Culture	001jhv750	Q1666780	International Musicological Society		Q120073991	supporting partner	2020-10-01T00:00:00Z	
 Q98276929	NFDI4Culture	001jhv750	Q4288286	International Society for Music Information Retrieval		Q120073991	supporting partner	2020-10-01T00:00:00Z	
@@ -467,6 +467,7 @@ Q98276929	NFDI4Culture	001jhv750	Q32120	Martin Luther University Halle-Wittenber
 Q98276929	NFDI4Culture	001jhv750	Q15834499	Max Planck Institute for Empirical Aesthetics	000rdbk18	Q120073991	supporting partner	2020-10-01T00:00:00Z	
 Q98276929	NFDI4Culture	001jhv750	Q1913589	Max Weber Foundation	02esxtn62	Q105906860	participant	2022-12-01T00:00:00Z	
 Q98276929	NFDI4Culture	001jhv750	Q1600968	Max-Reger-Institute	024fb7528	Q120073991	supporting partner	2020-10-01T00:00:00Z	
+Q98276929	NFDI4Culture	001jhv750	Q1670663	Mediävistikverband		Q120073991	supporting partner	2020-10-01T00:00:00Z	
 Q98276929	NFDI4Culture	001jhv750	Q233098	Museum für Naturkunde - Leibniz Institute for Evolution and Biodiversity Science	052d1a351	Q105906860	participant	2020-10-01T00:00:00Z	
 Q98276929	NFDI4Culture	001jhv750	Q1954665	Museum of Musical Instruments of the University of Leipzig		Q131426715	subsidiary participant	2020-10-01T00:00:00Z	
 Q98276929	NFDI4Culture	001jhv750	Q19750499	Museumsdienst Köln		Q1145523	collaboration		
@@ -507,6 +508,8 @@ Q98276929	NFDI4Culture	001jhv750	Q152838	University of Göttingen	01y9bpm73	Q105
 Q98276929	NFDI4Culture	001jhv750	Q319333	University of Hildesheim	02f9det96	Q105906860	participant	2020-10-01T00:00:00Z	
 Q98276929	NFDI4Culture	001jhv750	Q155354	University of Marburg	01rdrb571	Q105906738	co-applicant	2020-10-01T00:00:00Z	
 Q98276929	NFDI4Culture	001jhv750	Q679134	University of Paderborn	058kzsd48	Q105906738	co-applicant	2020-10-01T00:00:00Z	
+Q98276929	NFDI4Culture	001jhv750	Q2513808	Verband der Historiker und Historikerinnen Deutschlands		Q120073991	supporting partner	2020-10-01T00:00:00Z	
+Q98276929	NFDI4Culture	001jhv750	Q15852621	Vereinigung der Landesdenkmalpfleger	00c47tk97	Q105906860	participant	2020-10-01T00:00:00Z	
 Q98276929	NFDI4Culture	001jhv750	Q8288	Wikimedia Germany	03e9gte70	Q120073991	supporting partner	2020-10-01T00:00:00Z	
 Q98276929	NFDI4Culture	001jhv750	Q42738658	Working Group Digital Art History		Q131426715	subsidiary participant	2020-10-01T00:00:00Z	
 Q98276929	NFDI4Culture	001jhv750	Q118237052	Working Group for Digital 3D Reconstruction		Q131426715	subsidiary participant	2020-10-01T00:00:00Z	
@@ -520,9 +523,6 @@ Q98276929	NFDI4Culture	001jhv750	Q47213994	mainzed	02fm9ey65	Q131426715	subsidia
 Q98276929	NFDI4Culture	001jhv750	Q80820455	musiconn - Für vernetzte Musikwissenschaft		Q1145523	collaboration		
 Q98276929	NFDI4Culture	001jhv750	Q108805657	prometheus – Das verteilte digitale Bildarchiv für Forschung und Lehre e. V.		Q105906860	participant	2020-10-01T00:00:00Z	
 Q98276929	NFDI4Culture	001jhv750	Q116770859	specialized information service BAUdigital		Q1145523	collaboration	2020-10-01T00:00:00Z	2024-03-31T00:00:00Z
-Q98276929	NFDI4Culture	001jhv750	Q1670663	Mediävistikverband		Q120073991	supporting partner	2020-10-01T00:00:00Z	
-Q98276929	NFDI4Culture	001jhv750	Q2513808	Verband der Historiker und Historikerinnen Deutschlands		Q120073991	supporting partner	2020-10-01T00:00:00Z	
-Q98276929	NFDI4Culture	001jhv750	Q15852621	Vereinigung der Landesdenkmalpfleger	00c47tk97	Q105906860	participant	2020-10-01T00:00:00Z	
 Q108542422	NFDI4DataScience	00bb4nn95	Q536656	Alfred Wegener Institute for Polar and Marine Research	032e6b942	Q105906860	participant		
 Q108542422	NFDI4DataScience	00bb4nn95	Q1388737	FIZ Karlsruhe	0387prb75	Q105906738	co-applicant		
 Q108542422	NFDI4DataScience	00bb4nn95	Q1451984	Fraunhofer Institute for Applied Information Technology	01ak24c12	Q105906738	co-applicant		
@@ -550,8 +550,8 @@ Q108542504	NFDI4Earth	01f5dqg10	Q24382	Bielefeld University	02hpadn98	Q105906860
 Q108542504	NFDI4Earth	01f5dqg10	Q1622078	Bochum University of Applied Sciences	04x02q560	Q105906738	co-applicant	2021-10-01T00:00:00Z	
 Q108542504	NFDI4Earth	01f5dqg10	Q149433	Brandenburg University of Technology Cottbus-Senftenberg	02wxx3e24	Q105906860	participant	2021-10-01T00:00:00Z	
 Q108542504	NFDI4Earth	01f5dqg10	Q132853201	Constructor University	02yrs2n53	Q105906860	participant	2021-10-01T00:00:00Z	2026-09-01T00:00:00Z
-Q108542504	NFDI4Earth	01f5dqg10	Q325859	Deutscher Wetterdienst	02nrqs528	Q105906860	participant	2021-10-01T00:00:00Z	2026-09-01T00:00:00Z
 Q108542504	NFDI4Earth	01f5dqg10	Q325859	Deutscher Wetterdienst	02nrqs528	Q105906738	co-applicant	2026-10-01T00:00:00Z	
+Q108542504	NFDI4Earth	01f5dqg10	Q325859	Deutscher Wetterdienst	02nrqs528	Q105906860	participant	2021-10-01T00:00:00Z	2026-09-01T00:00:00Z
 Q108542504	NFDI4Earth	01f5dqg10	Q1205569	Deutsches Biomasseforschungszentrum	008qpg558	Q105906860	participant	2024-08-01T00:00:00Z	
 Q108542504	NFDI4Earth	01f5dqg10	Q1005454	Federal Agency for Cartography and Geodesy	01q6zce06	Q105906860	participant	2021-10-01T00:00:00Z	
 Q108542504	NFDI4Earth	01f5dqg10	Q2491722	Federal Environment Agency	0329ynx05	Q105906860	participant	2026-10-01T00:00:00Z	
@@ -694,6 +694,7 @@ Q98380343	NFDI4Health	0305k8y39	Q1204536	ZB MED - Information Centre for Life Sc
 Q98380343	NFDI4Health	0305k8y39	Q112116870	mediStatistica		Q105906860	participant		
 Q98380344	NFDI4ING	00enhv193	Q141265712	Access e.V.		Q105906860	participant		
 Q98380344	NFDI4ING	00enhv193	Q684415	Bavarian Academy of Sciences and Humanities	001rdaz60	Q105906860	participant		
+Q98380344	NFDI4ING	00enhv193	Q141265726	Bremer Institut für Produktion und Logistik GmbH		Q4686866	advisory board		
 Q98380344	NFDI4ING	00enhv193	Q159630	Chemnitz University of Technology	00a208s56	Q105906860	participant		
 Q98380344	NFDI4ING	00enhv193	Q447354	Clausthal University of Technology	04qb8nc58	Q4686866	advisory board		
 Q98380344	NFDI4ING	00enhv193	Q447354	Clausthal University of Technology	04qb8nc58	Q105906738	co-applicant		
@@ -724,8 +725,8 @@ Q98380344	NFDI4ING	00enhv193	Q314684	Mittelhessen University of Applied Sciences
 Q98380344	NFDI4ING	00enhv193	Q176691	National Institute of Standards and Technology	05xpvk416	Q4686866	advisory board		
 Q98380344	NFDI4ING	00enhv193	Q2035460	Ostfalia University of Applied Sciences	01bk10867	Q105906860	participant		
 Q98380344	NFDI4ING	00enhv193	Q470438	Physikalisch-Technische Bundesanstalt	05r3f7h03	Q105906860	participant		
-Q98380344	NFDI4ING	00enhv193	Q273263	RWTH Aachen University	04xfq0f34	Q54875338	applicant		
 Q98380344	NFDI4ING	00enhv193	Q273263	RWTH Aachen University	04xfq0f34	Q105906738	co-applicant		
+Q98380344	NFDI4ING	00enhv193	Q273263	RWTH Aachen University	04xfq0f34	Q54875338	applicant		
 Q98380344	NFDI4ING	00enhv193	Q542415	RheinMain University of Applied Sciences	0378gm372	Q105906860	participant		
 Q98380344	NFDI4ING	00enhv193	Q309948	Ruhr University Bochum	04tsk2644	Q105906860	participant		
 Q98380344	NFDI4ING	00enhv193	Q700758	Saarland University	01jdpyv68	Q105906860	participant		
@@ -733,11 +734,11 @@ Q98380344	NFDI4ING	00enhv193	Q323270	Saxon State and University Library, Dresden
 Q98380344	NFDI4ING	00enhv193	Q54166	TH Köln – University of Applied Sciences	014nnvj65	Q105906860	participant		
 Q98380344	NFDI4ING	00enhv193	Q2399120	TIB – Leibniz Information Centre for Science and Technology and University Library	04aj4c181	Q105906738	co-applicant		
 Q98380344	NFDI4ING	00enhv193	Q734324	TU Braunschweig	010nsgg66	Q105906738	co-applicant		
-Q98380344	NFDI4ING	00enhv193	Q158158	TU Dresden	042aqky30	Q4686866	advisory board		
 Q98380344	NFDI4ING	00enhv193	Q158158	TU Dresden	042aqky30	Q105906738	co-applicant		
+Q98380344	NFDI4ING	00enhv193	Q158158	TU Dresden	042aqky30	Q4686866	advisory board		
 Q98380344	NFDI4ING	00enhv193	Q686171	Technical University of Applied Sciences Wildau	00k62pe27	Q105906860	participant		
-Q98380344	NFDI4ING	00enhv193	Q310695	Technical University of Darmstadt	05n911h24	Q54875338	applicant		
 Q98380344	NFDI4ING	00enhv193	Q310695	Technical University of Darmstadt	05n911h24	Q105906738	co-applicant		
+Q98380344	NFDI4ING	00enhv193	Q310695	Technical University of Darmstadt	05n911h24	Q54875338	applicant		
 Q98380344	NFDI4ING	00enhv193	Q685557	Technical University of Dortmund	01k97gp34	Q105906860	participant		
 Q98380344	NFDI4ING	00enhv193	Q157808	Technical University of Munich	02kkvpp62	Q105906738	co-applicant		
 Q98380344	NFDI4ING	00enhv193	Q51985	Technische Universität Berlin	03v4gjf40	Q105906860	participant		
@@ -752,9 +753,8 @@ Q98380344	NFDI4ING	00enhv193	Q690639	University of Klagenfurt	05q9m0937	Q4686866
 Q98380344	NFDI4ING	00enhv193	Q679134	University of Paderborn	058kzsd48	Q105906860	participant		
 Q98380344	NFDI4ING	00enhv193	Q122453	University of Stuttgart	04vnq7t77	Q105906738	co-applicant		
 Q98380344	NFDI4ING	00enhv193	Q2514863	Verein zur Förderung eines Deutschen Forschungsnetzes	038t94116	Q105906860	participant		
-Q98380344	NFDI4ING	00enhv193	Q111528835	Wissenschaftliche Gesellschaft für Produktentwicklung - WiGeP		Q105906860	participant		
-Q98380344	NFDI4ING	00enhv193	Q141265726	Bremer Institut für Produktion und Logistik GmbH		Q4686866	advisory board		
 Q98380344	NFDI4ING	00enhv193	Q15852621	Vereinigung der Landesdenkmalpfleger	00c47tk97	Q105906860	participant		
+Q98380344	NFDI4ING	00enhv193	Q111528835	Wissenschaftliche Gesellschaft für Produktentwicklung - WiGeP		Q105906860	participant		
 Q113543313	NFDI4Immuno	01k8bwd50	Q162684	Charité	001w7jn25	Q105906738	co-applicant		
 Q113543313	NFDI4Immuno	01k8bwd50	Q996269	DKMS Group	05fyj0w30	Q105906738	co-applicant		
 Q113543313	NFDI4Immuno	01k8bwd50	Q2496379	Essen University Hospital	02na8dn90	Q105906738	co-applicant		
@@ -821,6 +821,7 @@ Q98231721	NFDI4Memory	0310v3480	Q32120	Martin Luther University Halle-Wittenberg
 Q98231721	NFDI4Memory	0310v3480	Q318118	Max Planck Institute for the History of Science	0492sjc74	Q105906860	participant		
 Q98231721	NFDI4Memory	0310v3480	Q158085	Max Planck Society	01hhn8329	Q105906860	participant		
 Q98231721	NFDI4Memory	0310v3480	Q112752072	Max Weber Forum für Südasienstudien Delhi	03pe74b89	Q105906860	participant		
+Q98231721	NFDI4Memory	0310v3480	Q1670663	Mediävistikverband		Q105906860	participant		
 Q98231721	NFDI4Memory	0310v3480	Q1583587	Mommsen Society		Q105906860	participant		
 Q98231721	NFDI4Memory	0310v3480	Q316880	Monumenta Germaniae Historica	05cm0ff89	Q105906860	participant		
 Q98231721	NFDI4Memory	0310v3480	Q1537723	Moses Mendelssohn Center for European Jewish Studies	04vj48162	Q105906860	participant		
@@ -849,12 +850,11 @@ Q98231721	NFDI4Memory	0310v3480	Q574571	University of Regensburg	01eezs655	Q1059
 Q98231721	NFDI4Memory	0310v3480	Q159895	University of Rostock	03zdwsf69	Q105906860	participant		
 Q98231721	NFDI4Memory	0310v3480	Q153978	University of Tübingen	03a1kwz48	Q105906860	participant		
 Q98231721	NFDI4Memory	0310v3480	Q447953	University of Wuppertal	00613ak93	Q105906860	participant		
+Q98231721	NFDI4Memory	0310v3480	Q2513896	Verband Deutscher Archivarinnen und Archivare e. V.		Q105906860	participant		
 Q98231721	NFDI4Memory	0310v3480	Q27863572	Verbundzentrale des GBV	048vdhs48	Q105906860	participant		
 Q98231721	NFDI4Memory	0310v3480	Q1753819	Verein für Socialpolitik		Q105906860	participant		
 Q98231721	NFDI4Memory	0310v3480	Q317179	ZBW - Leibniz Information Centre for Economics	03a96gc12	Q105906860	participant		
 Q98231721	NFDI4Memory	0310v3480	Q107168891	berlinHistory		Q105906860	participant		
-Q98231721	NFDI4Memory	0310v3480	Q1670663	Mediävistikverband		Q105906860	participant		
-Q98231721	NFDI4Memory	0310v3480	Q2513896	Verband Deutscher Archivarinnen und Archivare e. V.		Q105906860	participant		
 Q99534506	NFDI4Microbiota	03a4sp974	Q24382	Bielefeld University	02hpadn98	Q105906738	co-applicant		
 Q99534506	NFDI4Microbiota	03a4sp974	Q695267	European Molecular Biology Laboratory	03mstc592	Q105906738	co-applicant		
 Q99534506	NFDI4Microbiota	03a4sp974	Q697111	Forschungszentrum Jülich	02nv7yv05	Q105906860	participant		
