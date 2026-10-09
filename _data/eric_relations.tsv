@@ -70,7 +70,7 @@ Q55520740	DARIAH-DE	partner institution	DE		058kzsd48	University of Paderborn (M
 Q55520740	DARIAH-DE	partner institution	DE		02778hg05	University of Trier		https://kompetenzzentrum.uni-trier.de/en		
 Q55520740	DARIAH-DE	partner institution	DE		00fbnyb24	University of Würzburg		https://www.uni-wuerzburg.de/en/university		
 Q55520740	DARIAH-DE	representing entity	DE	Q492234	04pz7b180	Federal Ministry of Research Technology and Space	BMFTR		Maria Böhme	
-Q104481183	INSTRUCT	linked	AT			Medical University of Vienna			Kristina Djinovic-Carugo	
+Q104481183	INSTRUCT	linked	AT			Medical University of Vienna			Kristina Djinovic-Carugo
 Q104481183	INSTRUCT	linked	DK			Ministry of Higher Education and Science, Danish Agency for Science, Technology and Innovation				
 Q104481183	INSTRUCT	linked	DK			University of Aarhus			Thomas Vosegaard	
 Q104481183	INSTRUCT	linked	HU			Budapest University			Beata Vertessy	
@@ -102,7 +102,19 @@ Q104481183	INSTRUCT	partner	JO						Areej Abuhammad
 Q104481183	INSTRUCT	partner	UY						Alejandro Buschiazzo	
 Q104481183	INSTRUCT	partner	VE						Alberto Podjarny	
 Q104481183	INSTRUCT	partner	ZA			University of Cape Town			Bryan Trevor Sewell	
-Q122873030	SHARE		AT		052r2xn60	Johannes Kepler Universität Linz Department of Economics		https://www.share-austria.at/index.php?id=share	Rudolf Winter-Ebmer (rudolf.winterebmer@jku.at), Michael Radhuber (michael.radhuber@jku.at), Nicole Halmdienst (nicole.halmdienst@jku.at)	
+Q17088342	JIV	member	ES		03yycdv57	Instituto Geográfico Nacional	IGN-MITMA	https://www.ign.es/web/ign/portal
+Q17088342	JIV	member	FR		02feahw73	French National Centre for Scientific Research	CNRS	https://www.cnrs.fr/en		
+Q17088342	JIV	member	GB		001aqnf71	UK Research and Innovation	UKRI	https://www.ukri.org/councils/stfc		originally referenced as Science & Technology Facilities Council (STFC) and pointed to http://www.scitech.ac.uk/, but this is now part of UKRI
+Q17088342	JIV	member	IT		02gh4kt33	National Institute for Astrophysics	INAF	http://www.inaf.it/en		
+Q17088342	JIV	member	LV		02hcxaq60	Ministry of Education and Science		http://www.izm.gov.lv/en		
+Q17088342	JIV	member	LV		03sc6wx59	Ventspils University of Applied Sciences		http://venta.lv		
+Q17088342	JIV	member	NL		04jsz6e67	Dutch Research Council	NWO	https://www.nwo.nl/en		
+Q17088342	JIV	member	NL		000k1q888	Netherlands Institute for Radio Astronomy	ASTRON	http://www.astron.nl		
+Q17088342	JIV	member	SE		03zttf063	Swedish Research Council		https://www.vr.se/inenglish		
+Q17088342	JIV	partner	CN		058pyyv44	National Astronomical Observatories of the Chinese Academy of Sciences	NAOC	http://www.bao.ac.cn/english/home.asp		
+Q17088342	JIV	partner	DE			Max Plank Institute for Radioastronomy	MPIfR	https://www.mpifr-bonn.mpg.de		
+Q17088342	JIV	partner	ZA		05s0g1g46	South Africa National Research Foundation	NRF-SARAO	http://www.nrf.ac.za		
+Q122873030	SHARE		AT		052r2xn60	Johannes Kepler Universität Linz Department of Economics		https://www.share-austria.at/index.php?id=share	Rudolf Winter-Ebmer (rudolf.winterebmer@jku.at), Michael Radhuber (michael.radhuber@jku.at), Nicole Halmdienst (nicole.halmdienst@jku.at)
 Q122873030	SHARE		BE		008x57b05	Universiteit Antwerpen Centre for Social Policy Herman Deleeck		https://www.share-project.be	Koen Decancq (koen.decancq@uantwerpen.be), Daniela Skugor (daniela.skugor@uantwerpen.be)	
 Q122873030	SHARE		BG		01x8hew03	Institute of Philosophy and Sociology at the Bulgarian Academy of Sciences	IPS-BAS	https://share-eric-bulgaria.bg/en	Ekaterina Markova (emarkova@ips.bas.bg), Gabriela Yordanova (gabriela.m.yordanova@ips.bas.bg)	
 Q122873030	SHARE		CH		019whta54	University of Lausanne Faculty of Business and Economics		https://www.unil.ch/share/de/home.html	Jürgen Maurer, (Jurgen.Maurer@unil.ch), Olivier Mucchiut (Olivier.Mucchiut@unil.ch)	
@@ -124,8 +136,8 @@ Q122873030	SHARE		LT		03nadee84	Vilnius University Faculty of Philosophy			Antan
 Q122873030	SHARE		LU		040jf9322	Luxembourg Institute of Socio-Economics Research	LISER	http://share.liser.lu	Maria Noel Pi Alperin (MariaNoel.PiAlperin@liser.lu), Gaetan de Lanchy (gaetan.delanchy@liser.lu)	
 Q122873030	SHARE		LV		03nadks56	Institute of Public Health, Rīga Stradiņš University		https://www.rsu.lv/en/institute-public-health	Aija Bukova-Žideļūna (Aija.Bukova@rsu.lv), Diāna Baltmane (Diana.Baltmane@rsu.lv)	
 Q122873030	SHARE		NL		04pp8hn57	Utrecht University - Faculty of Social Sciences		https://www.share-project.nl	Bella Struminskaya (b.struminskaya@uu.nl), Kasia Karpinska (kasia@odissei-data.nl)	
-Q122873030	SHARE		PL		032cph770	Warsaw School of Economics		https://share50plus.pl Agnieszka Chłoń-Domińczak (achlon@sgh.waw.pl), Monika Oczkowska (moczko@sgh.waw.pl)		
-Q122873030	SHARE		PT		03nr2fs68	Nova University of Lisbon, Nova School of Business and Economics			Pedro Pita Barros (ppbarros@novasbe.pt)	
+Q122873030	SHARE		PL		032cph770	Warsaw School of Economics		https://share50plus.pl	Agnieszka Chłoń-Domińczak (achlon@sgh.waw.pl), Monika Oczkowska (moczko@sgh.waw.pl)
+Q122873030	SHARE		PT		03nr2fs68	Nova University of Lisbon, Nova School of Business and Economics			Pedro Pita Barros (ppbarros@novasbe.pt)
 Q122873030	SHARE		PT		043pwc612	University of Porto			Patrício Costa (pcosta@fpce.up.pt), Raquel Barbosa raquel@fpce.up.pt), Gina Voss (gvoss16@gmail.com), Beatriz David (beatrizdavid.psi@gmail.com)	
 Q122873030	SHARE		RO		022kvet57	Alexandru Ioan Cuza University of Iasi Faculty of Economics and Business Administration			Alin Marius Andries (alin.andries@uaic.ro), Mircea Asandului (mircea.asandului@uaic.ro)	
 Q122873030	SHARE		SE		05kb8h459	Umeå universitet		https://cors.se/share-survey-of-health-ageing-and-retirement-in-europe	Gunnar Malmberg (gunnar.malmberg@geography.umu.se), Mikael Stattin (mikael.stattin@soc.umu.se), Jenny Olofsson (jenny.olofsson@umu.se)	
