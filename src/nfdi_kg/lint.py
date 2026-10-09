@@ -5,7 +5,7 @@ from nfdi_kg.constants import DATA
 SORT_COLUMNS: dict[str, str | list[str]] = {
     "consortium_member_institutions": ["consortium_label", "institution_label"],
     "eric_hierarchy": ["child name", "parent name"],
-    "eric_relations": ["eric_name", "interaction_type", "name"],
+    "eric_relations": ["eric_name", "interaction_type", "name", "country"],
     "erics": "name",
     "interactions": ["internal_name", "external_name"],
     "memberships": ["organization_name", "person_name"],
@@ -21,7 +21,7 @@ def main():
     for path in DATA.glob("*.tsv"):
         df = pd.read_csv(path, sep="\t", dtype=str)
         for column in df.columns:
-            df[column] = df[column].map(lambda s: s.strip(), na_action="ignore")
+            df[column] = df[column].map(lambda s: s.strip().rstrip("/"), na_action="ignore")
         if sort_column := SORT_COLUMNS.get(path.stem):
             df = df.sort_values(sort_column)
         df.to_csv(path, sep="\t", index=False)
