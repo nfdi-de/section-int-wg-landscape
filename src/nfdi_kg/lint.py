@@ -9,7 +9,7 @@ from nfdi_kg.constants import DATA
 SORT_COLUMNS: dict[str, str | list[str]] = {
     "consortium_member_institutions": ["consortium_label", "institution_label"],
     "eric_hierarchy": ["child name", "parent name"],
-    "eric_relations": ["eric_name", "interaction_type", "name", "country"],
+    "eric_relations": ["eric_name", "interaction_type", "country", "name"],
     "erics": "name",
     "interactions": ["internal_name", "external_name"],
     "memberships": ["organization_name", "person_name"],
@@ -37,13 +37,17 @@ def _norm_locale(locale: str) -> str:
     raise ValueError(f"unknown country {locale}")
 
 
+def _clean(s: str) -> str:
+    s = s.strip().rstrip("/")
+    s = s.removeprefix("https://ror.org/")
+    return s
+
+
 def main():
     for path in DATA.glob("*.tsv"):
         df = pd.read_csv(path, sep="\t", dtype=str)
         for column in df.columns:
-            df[column] = df[column].map(
-                lambda s: s.strip().rstrip("/"), na_action="ignore"
-            )
+            df[column] = df[column].map(_clean, na_action="ignore")
         for column in ["country", "external_locale"]:
             if column in df.columns:
                 df[column] = df[column].map(_norm_locale, na_action="ignore")
