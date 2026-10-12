@@ -14,6 +14,14 @@ SECTIONS_PATH = DATA / "sections.tsv"
 WORKING_GROUP_ROLES_PATH = DATA / "working_group_roles.tsv"
 WORKING_GROUPS_PATH = DATA / "working_groups.tsv"
 
+ERICS_PATH = DATA / "erics.tsv"
+ERICS_RELATIONS_PATH = DATA / "eric_relations.tsv"
+
+EXPORT = ROOT.joinpath("export")
+EXPORT.mkdir(parents=True, exist_ok=True)
+
+RDF_PATH = EXPORT / "nfdi-bkg.ttl"
+
 
 def get_working_groups_df() -> pd.DataFrame:
     """Get working groups dataframe."""
