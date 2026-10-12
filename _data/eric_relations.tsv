@@ -170,8 +170,8 @@ Q1070229	CTAO	member	IT		05eva6s33	INFN – Sezione di Roma La Sapienza			https:
 Q1070229	CTAO	member	IT		025rrx658	INFN – Sezione di Roma Tor Vergata			https://www.roma2.infn.it		
 Q1070229	CTAO	member	IT		01vj6ck58	INFN – Sezione di Torino			http://www.to.infn.it		
 Q1070229	CTAO	member	IT		0290wsh42	Istituto Universitario di Studi Superiori di Pavia		IUSS	http://www.iusspavia.it		
+Q1070229	CTAO	member	IT			Istituto di Astrofisica Spaziale e Fisica Cosmica - Bologna			http://www.iasfbo.inaf.it		
 Q1070229	CTAO	member	IT		01jgp6d54	Istituto di Astrofisica Spaziale e Fisica Cosmica – Milano			http://www.iasf-milano.inaf.it		
-Q1070229	CTAO	member	IT			Istituto di Astrofisica Spaziale e Fisica Cosmica - Bologna			http://www.iasfbo.inaf.it
 Q1070229	CTAO	member	IT		027ynra39	Università degli Studi di Bari and INFN Sezione di Bari			http://www.ba.infn.it		
 Q1070229	CTAO	member	IT		01tevnk56	Università degli Studi di Siena			https://www.dsfta.unisi.it/it		
 Q1070229	CTAO	member	IT		048tbm396	Università degli Studi di Torino			https://www.df.unito.it/do/home.pl		
@@ -207,8 +207,8 @@ Q1070229	CTAO	member	JP		00ntfnx83	Waseda University	Faculty of Science and Engi
 Q1070229	CTAO	member	JP		00xy44n04	Yamagata University	Department of Physics		http://xpolar.kj.yamagata-u.ac.jp		
 Q1070229	CTAO	member	JP		02n5c8f58	Yamanashi-Gakuin University	Faculty of Management Information		http://www.ygu.ac.jp		
 Q1070229	CTAO	member	MX		01tmp8f25	Universidad Nacional Autónoma de México, México			http://www.astroscu.unam.mx		
-Q1070229	CTAO	member	NL		https://ror.org/04dkp9463	University of Amsterdam	Gravitation and Astroparticle Physics in Amsterdam	UVA	https://iop.fnwi.uva.nl/grappa
 Q1070229	CTAO	member	NL		016xsfp80	Radboud University Nijmegen			http://www.ru.nl/english		
+Q1070229	CTAO	member	NL		04dkp9463	University of Amsterdam	Gravitation and Astroparticle Physics in Amsterdam	UVA	https://iop.fnwi.uva.nl/grappa		
 Q1070229	CTAO	member	NL		012p63287	University of Groningen	KVI – Center for Advanced Radiation Technology		http://www.rug.nl/kvi-cart/?lang=en		
 Q1070229	CTAO	member	PL		00bas1c41	AGH University of Science and Technology, Kraków	Faculty of Computer Science, Electronics and Telecommunications		http://www.agh.edu.pl/en		
 Q1070229	CTAO	member	PL		0575jwx13	Academic Computer Centre CYFRONET AGH			http://www.cyfronet.pl/en		
@@ -223,20 +223,20 @@ Q1070229	CTAO	member	PL		05cq64r17	University of Lódź	Faculty of Physics and A
 Q1070229	CTAO	member	PL		039bjqg32	University of Warsaw	Faculty of Physics		http://www.uw.edu.pl/en		
 Q1070229	CTAO	member	PL		04fzm7v55	University of Zielona Góra	Faculty of Physics and Astronomy		http://www.uz.zgora.pl/index.php?en-fpa		
 Q1070229	CTAO	member	PL		00y0xnp53	Warsaw University of Technology			https://www.pw.edu.pl/engpw		
+Q1070229	CTAO	member	SE		026vcq606	KTH Royal Institute of Technology	Oskar Klein Centre, Department of Physics	KTH	http://www.physics.kth.se		
 Q1070229	CTAO	member	SE		00j9qag85	Linnaeus University			http://www.lnu.se		
-Q1070229	CTAO	member	SE		012a77v79	Lund University	Lund Observatory		http://www.astro.lu.se
-Q1070229	CTAO	member	SE		026vcq606	KTH Royal Institute of Technology	Oskar Klein Centre, Department of Physics	KTH	http://www.physics.kth.se
+Q1070229	CTAO	member	SE		012a77v79	Lund University	Lund Observatory		http://www.astro.lu.se		
 Q1070229	CTAO	member	SE		05f0yaq80	Stockholm University			http://www.su.se/english		
 Q1070229	CTAO	member	SE		048a87296	Uppsala University	Dept. of Physics and Astronomy		http://www.uu.se/en		
 Q1070229	CTAO	member	SI		00mw0tw28	University of Nova Gorica	Center for Astrophysics and Cosmology		http://www.ung.si/en/research/cac		
 Q1070229	CTAO	member	TH		027rw9342	National Astronomical Research Institute of Thailand			http://www.narit.or.th		
 Q1070229	CTAO	member	UA		01s7y5e82	Astronomical Observatory of Ivan Franko National University of Lviv			http://sup.uwb.edu.pl/en/nul.html		
 Q1070229	CTAO	member	UA		02aaqv166	Astronomical Observatory of Taras Shevchenko National University of Kyiv			http://www.observ.univ.kiev.ua/eng/index.php?mod=pages&page=vseh_2010		
-Q1070229	CTAO	member	UA		https://ror.org/05dry3213	Pidstryhach Institute for Applied Problems of Mechanics and Mathematics			http://www1.nas.gov.ua/en/Structure/dmat/iapmm/Pages/default.aspx
+Q1070229	CTAO	member	UA		05dry3213	Pidstryhach Institute for Applied Problems of Mechanics and Mathematics			http://www1.nas.gov.ua/en/Structure/dmat/iapmm/Pages/default.aspx		
 Q1070229	CTAO	member	US		05gvnxz63	Argonne National Laboratory			http://www.anl.gov		
 Q1070229	CTAO	member	US		0248gc218	Astronomy Department, Adler Planetarium and Astronomy Museum			http://www.adlerplanetarium.org		
-Q1070229	CTAO	member	US		https://ror.org/04rt94r53	Barnard College	Department of Physics and Astronomy,		http://www.barnard.edu
-Q1070229	CTAO	member	US		https://ror.org/00hj8s172	Columbia University	Department of Physics		http://www.columbia.edu
+Q1070229	CTAO	member	US		04rt94r53	Barnard College	Department of Physics and Astronomy,		http://www.barnard.edu		
+Q1070229	CTAO	member	US		00hj8s172	Columbia University	Department of Physics		http://www.columbia.edu		
 Q1070229	CTAO	member	US		024mw5h28	Enrico Fermi Institute, University of Chicago			http://www.uchicago.edu/index.shtml		
 Q1070229	CTAO	member	US		01zkghx44	Georgia Institute of Technology	School of Physics and Center for Relativistic Astrophysics		https://www.physics.gatech.edu		
 Q1070229	CTAO	member	US		03c3r2d17	Harvard-Smithsonian Center for Astrophysics			http://www.cfa.harvard.edu/sao		
