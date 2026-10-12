@@ -47,7 +47,7 @@ Q19372318	CESSDA	partner	RO			Romanian Social Data Archive		RODA
 Q19372318	CESSDA	partner	RS			Data Centre Serbia for Social Sciences		DCS	https://datacentarserbia.com		
 Q19372318	CESSDA	partner	UA			The Ukraine National Data Bank of Sociological Data “Kyiv archive”					
 Q19372318	CESSDA	partner	XK			The Kosovo Social Sciences Data Centre		KSSDC			
-Q1070229	CTAO	member	AT		054pv6659	Universität Innsbruck	Institute for Astro- and Particle Physics		http://www.uibk.ac.at/universitaet/index.html.en
+Q1070229	CTAO	member	AT		054pv6659	Universität Innsbruck	Institute for Astro- and Particle Physics		http://www.uibk.ac.at/universitaet/index.html.en		
 Q1070229	CTAO	member	AU		019wvm592	Australian National University			http://www.anu.edu.au		
 Q1070229	CTAO	member	AU		02n415q13	Curtin University			https://www.curtin.edu.au		
 Q1070229	CTAO	member	AU		02bfwt286	Monash University			http://www.monash.edu.au		
@@ -170,8 +170,8 @@ Q1070229	CTAO	member	IT		05eva6s33	INFN – Sezione di Roma La Sapienza			https:
 Q1070229	CTAO	member	IT		025rrx658	INFN – Sezione di Roma Tor Vergata			https://www.roma2.infn.it		
 Q1070229	CTAO	member	IT		01vj6ck58	INFN – Sezione di Torino			http://www.to.infn.it		
 Q1070229	CTAO	member	IT		0290wsh42	Istituto Universitario di Studi Superiori di Pavia		IUSS	http://www.iusspavia.it		
+Q1070229	CTAO	member	IT			Istituto di Astrofisica Spaziale e Fisica Cosmica - Bologna			http://www.iasfbo.inaf.it		
 Q1070229	CTAO	member	IT		01jgp6d54	Istituto di Astrofisica Spaziale e Fisica Cosmica – Milano			http://www.iasf-milano.inaf.it		
-Q1070229	CTAO	member	IT			Istituto di Astrofisica Spaziale e Fisica Cosmica - Bologna			http://www.iasfbo.inaf.it
 Q1070229	CTAO	member	IT		027ynra39	Università degli Studi di Bari and INFN Sezione di Bari			http://www.ba.infn.it		
 Q1070229	CTAO	member	IT		01tevnk56	Università degli Studi di Siena			https://www.dsfta.unisi.it/it		
 Q1070229	CTAO	member	IT		048tbm396	Università degli Studi di Torino			https://www.df.unito.it/do/home.pl		
@@ -207,8 +207,8 @@ Q1070229	CTAO	member	JP		00ntfnx83	Waseda University	Faculty of Science and Engi
 Q1070229	CTAO	member	JP		00xy44n04	Yamagata University	Department of Physics		http://xpolar.kj.yamagata-u.ac.jp		
 Q1070229	CTAO	member	JP		02n5c8f58	Yamanashi-Gakuin University	Faculty of Management Information		http://www.ygu.ac.jp		
 Q1070229	CTAO	member	MX		01tmp8f25	Universidad Nacional Autónoma de México, México			http://www.astroscu.unam.mx		
-Q1070229	CTAO	member	NL		https://ror.org/04dkp9463	University of Amsterdam	Gravitation and Astroparticle Physics in Amsterdam	UVA	https://iop.fnwi.uva.nl/grappa
 Q1070229	CTAO	member	NL		016xsfp80	Radboud University Nijmegen			http://www.ru.nl/english		
+Q1070229	CTAO	member	NL		04dkp9463	University of Amsterdam	Gravitation and Astroparticle Physics in Amsterdam	UVA	https://iop.fnwi.uva.nl/grappa		
 Q1070229	CTAO	member	NL		012p63287	University of Groningen	KVI – Center for Advanced Radiation Technology		http://www.rug.nl/kvi-cart/?lang=en		
 Q1070229	CTAO	member	PL		00bas1c41	AGH University of Science and Technology, Kraków	Faculty of Computer Science, Electronics and Telecommunications		http://www.agh.edu.pl/en		
 Q1070229	CTAO	member	PL		0575jwx13	Academic Computer Centre CYFRONET AGH			http://www.cyfronet.pl/en		
@@ -223,20 +223,20 @@ Q1070229	CTAO	member	PL		05cq64r17	University of Lódź	Faculty of Physics and A
 Q1070229	CTAO	member	PL		039bjqg32	University of Warsaw	Faculty of Physics		http://www.uw.edu.pl/en		
 Q1070229	CTAO	member	PL		04fzm7v55	University of Zielona Góra	Faculty of Physics and Astronomy		http://www.uz.zgora.pl/index.php?en-fpa		
 Q1070229	CTAO	member	PL		00y0xnp53	Warsaw University of Technology			https://www.pw.edu.pl/engpw		
+Q1070229	CTAO	member	SE		026vcq606	KTH Royal Institute of Technology	Oskar Klein Centre, Department of Physics	KTH	http://www.physics.kth.se		
 Q1070229	CTAO	member	SE		00j9qag85	Linnaeus University			http://www.lnu.se		
-Q1070229	CTAO	member	SE		012a77v79	Lund University	Lund Observatory		http://www.astro.lu.se
-Q1070229	CTAO	member	SE		026vcq606	KTH Royal Institute of Technology	Oskar Klein Centre, Department of Physics	KTH	http://www.physics.kth.se
+Q1070229	CTAO	member	SE		012a77v79	Lund University	Lund Observatory		http://www.astro.lu.se		
 Q1070229	CTAO	member	SE		05f0yaq80	Stockholm University			http://www.su.se/english		
 Q1070229	CTAO	member	SE		048a87296	Uppsala University	Dept. of Physics and Astronomy		http://www.uu.se/en		
 Q1070229	CTAO	member	SI		00mw0tw28	University of Nova Gorica	Center for Astrophysics and Cosmology		http://www.ung.si/en/research/cac		
 Q1070229	CTAO	member	TH		027rw9342	National Astronomical Research Institute of Thailand			http://www.narit.or.th		
 Q1070229	CTAO	member	UA		01s7y5e82	Astronomical Observatory of Ivan Franko National University of Lviv			http://sup.uwb.edu.pl/en/nul.html		
 Q1070229	CTAO	member	UA		02aaqv166	Astronomical Observatory of Taras Shevchenko National University of Kyiv			http://www.observ.univ.kiev.ua/eng/index.php?mod=pages&page=vseh_2010		
-Q1070229	CTAO	member	UA		https://ror.org/05dry3213	Pidstryhach Institute for Applied Problems of Mechanics and Mathematics			http://www1.nas.gov.ua/en/Structure/dmat/iapmm/Pages/default.aspx
+Q1070229	CTAO	member	UA		05dry3213	Pidstryhach Institute for Applied Problems of Mechanics and Mathematics			http://www1.nas.gov.ua/en/Structure/dmat/iapmm/Pages/default.aspx		
 Q1070229	CTAO	member	US		05gvnxz63	Argonne National Laboratory			http://www.anl.gov		
 Q1070229	CTAO	member	US		0248gc218	Astronomy Department, Adler Planetarium and Astronomy Museum			http://www.adlerplanetarium.org		
-Q1070229	CTAO	member	US		https://ror.org/04rt94r53	Barnard College	Department of Physics and Astronomy,		http://www.barnard.edu
-Q1070229	CTAO	member	US		https://ror.org/00hj8s172	Columbia University	Department of Physics		http://www.columbia.edu
+Q1070229	CTAO	member	US		04rt94r53	Barnard College	Department of Physics and Astronomy,		http://www.barnard.edu		
+Q1070229	CTAO	member	US		00hj8s172	Columbia University	Department of Physics		http://www.columbia.edu		
 Q1070229	CTAO	member	US		024mw5h28	Enrico Fermi Institute, University of Chicago			http://www.uchicago.edu/index.shtml		
 Q1070229	CTAO	member	US		01zkghx44	Georgia Institute of Technology	School of Physics and Center for Relativistic Astrophysics		https://www.physics.gatech.edu		
 Q1070229	CTAO	member	US		03c3r2d17	Harvard-Smithsonian Center for Astrophysics			http://www.cfa.harvard.edu/sao		
@@ -261,7 +261,7 @@ Q1070229	CTAO	member	ZA		010f1sq29	North-West University	Centre for Space Resear
 Q1070229	CTAO	member	ZA		04z6c2n17	University of Johannesburg	Department of Physics		http://www.uj.ac.za/faculties/science/physics		
 Q1070229	CTAO	member	ZA		009xwd568	University of the Free State			http://www.ufs.ac.za		
 Q1070229	CTAO	member	ZA		03rp50x72	University of the Witwatersrand			http://www.wits.ac.za		
-Q55520740	DARIAH-DE	coordinating institution	DE		05745n787	University of Göttingen – Göttingen State and University Library (SUB)			https://www.sub.uni-goettingen.de/en	Daniel Kurzawe (https://www.daniel-kurzawe.de/), Nanette Rißler-Pipka (https://orcid.org/0000-0002-0719-9003)
+Q55520740	DARIAH-DE	coordinating institution	DE		05745n787	University of Göttingen – Göttingen State and University Library (SUB)			https://www.sub.uni-goettingen.de/en	Daniel Kurzawe (https://www.daniel-kurzawe.de/), Nanette Rißler-Pipka (https://orcid.org/0000-0002-0719-9003)	
 Q55520740	DARIAH-DE	partner institution	DE		01kdxra28	Academy of Sciences and Literature Mainz			https://www.adwmainz.de/en		
 Q55520740	DARIAH-DE	partner institution	DE		05jgq9443	Berlin-Brandenburg Academy of Sciences and Humanities			https://www.bbaw.de/en		
 Q55520740	DARIAH-DE	partner institution	DE		048yzb176	DAASI International			https://daasi.de/en		
@@ -284,7 +284,7 @@ Q55520740	DARIAH-DE	partner institution	DE		058kzsd48	University of Paderborn (M
 Q55520740	DARIAH-DE	partner institution	DE		02778hg05	University of Trier			https://kompetenzzentrum.uni-trier.de/en		
 Q55520740	DARIAH-DE	partner institution	DE		00fbnyb24	University of Würzburg			https://www.uni-wuerzburg.de/en/university		
 Q55520740	DARIAH-DE	representing entity	DE	Q492234	04pz7b180	Federal Ministry of Research Technology and Space		BMFTR		Maria Böhme	
-Q104481183	INSTRUCT	funder	BE			Belgian Federal Science Policy Office		BELSPO
+Q104481183	INSTRUCT	funder	BE			Belgian Federal Science Policy Office		BELSPO			
 Q104481183	INSTRUCT	funder	CZ			Ministry of Education, Youth and Sports		MSMT	http://www.msmt.cz		
 Q104481183	INSTRUCT	funder	FR			Ministère de l'Éducation nationale de l'enseignement supérieur et de la recherché		MENESR	http://www.enseignementsup-recherche.gouv.fr		
 Q104481183	INSTRUCT	funder	GB			Medical research council			https://mrc.ukri.org		
@@ -344,7 +344,7 @@ Q104481183	INSTRUCT	partner	JO							Areej Abuhammad
 Q104481183	INSTRUCT	partner	UY							Alejandro Buschiazzo	
 Q104481183	INSTRUCT	partner	VE							Alberto Podjarny	
 Q104481183	INSTRUCT	partner	ZA			University of Cape Town				Bryan Trevor Sewell	
-Q17088342	JIV	member	ES		03yycdv57	Instituto Geográfico Nacional		IGN-MITMA	https://www.ign.es/web/ign/portal
+Q17088342	JIV	member	ES		03yycdv57	Instituto Geográfico Nacional		IGN-MITMA	https://www.ign.es/web/ign/portal		
 Q17088342	JIV	member	FR		02feahw73	French National Centre for Scientific Research		CNRS	https://www.cnrs.fr/en		
 Q17088342	JIV	member	GB		001aqnf71	UK Research and Innovation		UKRI	https://www.ukri.org/councils/stfc		originally referenced as Science & Technology Facilities Council (STFC) and pointed to http://www.scitech.ac.uk/, but this is now part of UKRI
 Q17088342	JIV	member	IT		02gh4kt33	National Institute for Astrophysics		INAF	http://www.inaf.it/en		
@@ -356,7 +356,7 @@ Q17088342	JIV	member	SE		03zttf063	Swedish Research Council			https://www.vr.se/
 Q17088342	JIV	partner	CN		058pyyv44	National Astronomical Observatories of the Chinese Academy of Sciences		NAOC	http://www.bao.ac.cn/english/home.asp		
 Q17088342	JIV	partner	DE			Max Plank Institute for Radioastronomy		MPIfR	https://www.mpifr-bonn.mpg.de		
 Q17088342	JIV	partner	ZA		05s0g1g46	South Africa National Research Foundation		NRF-SARAO	http://www.nrf.ac.za		
-Q122873030	SHARE		AT		052r2xn60	Johannes Kepler Universität Linz	Department of Economics		https://www.share-austria.at/index.php?id=share	Rudolf Winter-Ebmer (rudolf.winterebmer@jku.at), Michael Radhuber (michael.radhuber@jku.at), Nicole Halmdienst (nicole.halmdienst@jku.at)
+Q122873030	SHARE		AT		052r2xn60	Johannes Kepler Universität Linz	Department of Economics		https://www.share-austria.at/index.php?id=share	Rudolf Winter-Ebmer (rudolf.winterebmer@jku.at), Michael Radhuber (michael.radhuber@jku.at), Nicole Halmdienst (nicole.halmdienst@jku.at)	
 Q122873030	SHARE		BE		008x57b05	Universiteit Antwerpen	Centre for Social Policy Herman Deleeck		https://www.share-project.be	Koen Decancq (koen.decancq@uantwerpen.be), Daniela Skugor (daniela.skugor@uantwerpen.be)	
 Q122873030	SHARE		BG		01x8hew03	Bulgarian Academy of Sciences	Institute of Philosophy and Sociology	IPS-BAS	https://share-eric-bulgaria.bg/en	Ekaterina Markova (emarkova@ips.bas.bg), Gabriela Yordanova (gabriela.m.yordanova@ips.bas.bg)	
 Q122873030	SHARE		CH		019whta54	University of Lausanne	Faculty of Business and Economics		https://www.unil.ch/share/de/home.html	Jürgen Maurer, (Jurgen.Maurer@unil.ch), Olivier Mucchiut (Olivier.Mucchiut@unil.ch)	
@@ -364,12 +364,12 @@ Q122873030	SHARE		CY		02qjrjx09	University of Cyprus	Department of Economics and
 Q122873030	SHARE		CZ		0362ttz08	Center for Economic Research and Graduate Education – Economics Institute		CERGE-EI	http://share.cerge-ei.cz	Radim Bohacek (radim.bohacek@gmail.com), Jan Kroupa	
 Q122873030	SHARE		DE	Q122873350		SHARE BERLIN Institute GmbH		SBI	http://www.share-umfrage.de	Arne Bethmann (abethmann@share-berlin.eu), Alexander Schumacher (aschumacher@share-berlin.eu)	
 Q122873030	SHARE		DK		03yrrjy16	University of Southern Denmark			https://www.sdu.dk/en/forskning/forskningsenheder/samf/share	Jørgen T. Lauridsen (jtl@sam.sdu.dk), Hans Christian B. Lauridsen (hcbl@sam.sdu.dk)	
-Q122873030	SHARE		EE		05mey9k78	Tallinn University	Estonian Institute for Population Studies		http://share-estonia.ee	Luule Sakkeus (luule.sakkeus@tlu.ee), Tiina Tambaum (tiina.tambaum@tlu.ee), Liili Abduladze (liili@tlu.ee)
+Q122873030	SHARE		EE		05mey9k78	Tallinn University	Estonian Institute for Population Studies		http://share-estonia.ee	Luule Sakkeus (luule.sakkeus@tlu.ee), Tiina Tambaum (tiina.tambaum@tlu.ee), Liili Abduladze (liili@tlu.ee)	
 Q122873030	SHARE		ES		035h6g182	Centro de Estudios Monetarios y Financieros		CEMFI	https://www.share.cemfi.es	Pedro Mira (mira@cemfi.es), Yarine Fawaz (fawaz@cemfi.es)	
 Q122873030	SHARE		FI		01pndf691	Väestöliitto			https://www.vaestoliitto.fi/en/research/ageing-and-generations/survey-of-health-ageing-and-retirement-in-europe	Anna Rotkirch (Anna.Rotkirch@vaestoliitto.fi), Johanna Lahtela (johanna.lahtela@vaestoliitto.fi)	
 Q122873030	SHARE		FR		052bz7812	Université Paris-Dauphine			https://share.dauphine.fr	Florence Jusot (florence.jusot@dauphine.psl.eu), Justine Bondoux, Thomas Renaud, Pierre Depardieu	
 Q122873030	SHARE		GR		056ddyv20	Panteion University of Social and Political Sciences				Antigone Lyberaki (antiglib@gmail.com), Platon Tinios (ptinios@otenet.gr), Michail Chouzouris (mchouzouris@hotmail.com), Thomas Georgiadis (th.georgiadis@gmail.com)	
-Q122873030	SHARE		HR		00mv6sv71	University of Zagreb	Faculty of Economics and Business		https://www.share-project.hr	Šime Smolić, Ivan Čipin
+Q122873030	SHARE		HR		00mv6sv71	University of Zagreb	Faculty of Economics and Business		https://www.share-project.hr	Šime Smolić, Ivan Čipin	
 Q122873030	SHARE		HU		02ks8qq67	Institute of Economics Centre for Economic and Regional Studies of the Hungarian Academy of Sciences				Aniko Biro (biro.aniko@krtk.mta.hu), Maria Volkov (volkov_maria@alumni.ceu.edu)	
 Q122873030	SHARE		IL		03qxff017	The Hebrew University Israel	Gerontological Data Center		http://igdc.huji.ac.il/home/share/introduction.aspx	Sharon Shiovitz-Ezra (sharon.shiovitz@mail.huji.ac.il), Avi Cohen (avi.cohen2@mail.huji.ac.il)	
 Q122873030	SHARE		IT		00240q980	Universita’ degli Studi di Padova	Dipartimento di Scienze Economiche			Guglielmo Weber (guglielmo.weber@unipd.it), Nancy Zambon (nancy.zambon@unipd.it)	
@@ -381,7 +381,7 @@ Q122873030	SHARE		NL		04pp8hn57	Utrecht University	Faculty of Social Sciences		h
 Q122873030	SHARE		PL		032cph770	Warsaw School of Economics			https://share50plus.pl	Agnieszka Chłoń-Domińczak (achlon@sgh.waw.pl), Monika Oczkowska (moczko@sgh.waw.pl)	
 Q122873030	SHARE		PT		03nr2fs68	Nova University of Lisbon, Nova School of Business and Economics				Pedro Pita Barros (ppbarros@novasbe.pt)	
 Q122873030	SHARE		PT		043pwc612	University of Porto				Patrício Costa (pcosta@fpce.up.pt), Raquel Barbosa raquel@fpce.up.pt), Gina Voss (gvoss16@gmail.com), Beatriz David (beatrizdavid.psi@gmail.com)	
-Q122873030	SHARE		RO		022kvet57	Alexandru Ioan Cuza University of Iasi	Faculty of Economics and Business Administration			Alin Marius Andries (alin.andries@uaic.ro), Mircea Asandului (mircea.asandului@uaic.ro)
+Q122873030	SHARE		RO		022kvet57	Alexandru Ioan Cuza University of Iasi	Faculty of Economics and Business Administration			Alin Marius Andries (alin.andries@uaic.ro), Mircea Asandului (mircea.asandului@uaic.ro)	
 Q122873030	SHARE		SE		05kb8h459	Umeå universitet			https://cors.se/share-survey-of-health-ageing-and-retirement-in-europe	Gunnar Malmberg (gunnar.malmberg@geography.umu.se), Mikael Stattin (mikael.stattin@soc.umu.se), Jenny Olofsson (jenny.olofsson@umu.se)	
 Q122873030	SHARE		SI		014z5x149	Institute for Economic Research		IER	http://www.share-slovenija.si	Valentina Prevolnik Rupel (valentina.rupel@ier.si), Boris Majcen (majcenb@ier.si), Sonja Uršič (ursics@ier.si)	
 Q122873030	SHARE		SK		0310h1546	University of Economics in Bratislava				Eva Pongrácz (eva.pongracz@euba.sk), Silvia Šipikalová (silvia.sipikalova@euba.sk)	
