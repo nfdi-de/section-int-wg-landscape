@@ -1,0 +1,181 @@
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix org: <http://www.w3.org/ns/org#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix ror: <https://ror.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix wikidata: <http://www.wikidata.org/entity/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+wikidata:Q1070229 a org:organization ;
+    rdfs:label "Cherenkov Telescope Array Observatory" ;
+    skos:exactMatch ror:05fb7v315 ;
+    foaf:homepage "https://www.ctao.org/"^^xsd:anyURI .
+
+wikidata:Q111431904 a org:organization ;
+    rdfs:label "European Plate Observing System" ;
+    skos:exactMatch ror:00qxqkw78 ;
+    foaf:homepage "https://www.epos-eu.org/"^^xsd:anyURI .
+
+wikidata:Q113551491 a org:organization ;
+    rdfs:label "Euro-BioImaging" ;
+    skos:exactMatch ror:05d78xc36 ;
+    foaf:homepage "https://www.eurobioimaging.eu/"^^xsd:anyURI .
+
+wikidata:Q113551509 a org:organization ;
+    rdfs:label "European Marine Biology Resource Center" ;
+    skos:exactMatch ror:0038zss60 ;
+    foaf:homepage "http://www.embrc.eu/"^^xsd:anyURI .
+
+wikidata:Q116991385 a org:organization ;
+    rdfs:label "LifeWatch" ;
+    skos:exactMatch ror:04c04g438 ;
+    foaf:homepage "http://www.lifewatch.eu/"^^xsd:anyURI .
+
+wikidata:Q1192324 a org:organization ;
+    rdfs:label "LOw Frequency ARray" ;
+    foaf:homepage "https://www.astron.nl/telescopes/lofar"^^xsd:anyURI .
+
+wikidata:Q122873030 a org:organization ;
+    rdfs:label "Survey of Health, Ageing and Retirement in Europe" ;
+    foaf:homepage "https://share-eric.eu/"^^xsd:anyURI .
+
+wikidata:Q127415594 a org:organization ;
+    rdfs:label "Open Screening Platforms for Chemical Biology" ;
+    skos:exactMatch ror:055zp1089 ;
+    foaf:homepage "http://www.eu-openscreen.eu/"^^xsd:anyURI .
+
+wikidata:Q140879720 a org:organization ;
+    rdfs:label "Analysis and Experimentation on Ecosystems" ;
+    skos:exactMatch ror:013cta085 ;
+    foaf:homepage "https://www.anaee.eu/"^^xsd:anyURI .
+
+wikidata:Q141247116 a org:organization ;
+    rdfs:label "Microbial Resource Research Infrastructure" ;
+    foaf:homepage "https://www.mirri-eric.eu/"^^xsd:anyURI .
+
+wikidata:Q141247123 a org:organization ;
+    rdfs:label "European Research Infrastructure for Concentrated Solar Power /Solar Thermal Energy" ;
+    foaf:homepage "https://eu-solaris.eu/"^^xsd:anyURI .
+
+wikidata:Q141247125 a org:organization ;
+    rdfs:label "European Carbon Dioxide Capture and Storage Laboratory Infrastructure" ;
+    foaf:homepage "https://www.eccsel.org/"^^xsd:anyURI .
+
+wikidata:Q141247130 a org:organization ;
+    rdfs:label "International Centre for Advanced Science on River-Sea Systems" ;
+    foaf:homepage "https://danubius-ri.eu/"^^xsd:anyURI .
+
+wikidata:Q141247133 a org:organization ;
+    rdfs:label "European Research Infrastructure for Heritage Science" ;
+    foaf:homepage "https://www.e-rihs.eu/"^^xsd:anyURI .
+
+wikidata:Q141247145 a org:organization ;
+    rdfs:label "European Social Survey" ;
+    foaf:homepage "https://www.europeansocialsurvey.org/"^^xsd:anyURI .
+
+wikidata:Q17075202 a org:organization ;
+    rdfs:label "European Multidisciplinary Seafloor and Water Column Observatory" ;
+    skos:exactMatch ror:04xkqms46 ;
+    foaf:homepage "http://www.emso-eu.org/"^^xsd:anyURI .
+
+wikidata:Q17088342 a org:organization ;
+    rdfs:label "Joint Institute for VLBI" ;
+    skos:exactMatch ror:006dmc180 ;
+    foaf:homepage "http://www.jive.nl/"^^xsd:anyURI .
+
+wikidata:Q19372318 a org:organization ;
+    rdfs:label "Consortium of European Social Science data Archives" ;
+    skos:exactMatch ror:02wg9xc72 ;
+    org:linkedTo wikidata:Q2007643 ;
+    foaf:homepage "https://www.cessda.eu/"^^xsd:anyURI .
+
+wikidata:Q21755493 a org:organization ;
+    rdfs:label "European Holocaust Research Infrastructure" ;
+    skos:exactMatch ror:00zsk2t64 ;
+    foaf:homepage "https://www.ehri-project.eu/"^^xsd:anyURI .
+
+wikidata:Q2986825 a org:organization ;
+    rdfs:label "pan-European Common Language Resources and Technology Infrastructure" ;
+    skos:exactMatch ror:03wp25384 ;
+    foaf:homepage "https://www.clarin.eu/"^^xsd:anyURI .
+
+wikidata:Q30267344 a org:organization ;
+    rdfs:label "European Research Infrastructure" ;
+    skos:exactMatch ror:00vawn972 ;
+    foaf:homepage "https://infrafrontier.eu/"^^xsd:anyURI .
+
+wikidata:Q30294972 a org:organization ;
+    rdfs:label "pan-European Biobanking and Biomolecular Resources Research Infrastructure" ;
+    skos:exactMatch ror:00pwncn89 ;
+    foaf:homepage "https://www.bbmri-eric.eu/"^^xsd:anyURI .
+
+wikidata:Q3147739 a org:organization ;
+    rdfs:label "Integrated Carbon Observation System" ;
+    skos:exactMatch ror:01d0fc168 ;
+    foaf:homepage "https://www.icos-ri.eu/"^^xsd:anyURI .
+
+wikidata:Q47519380 a org:organization ;
+    rdfs:label "Central European Research Infrastructure Consortium" ;
+    skos:exactMatch ror:01h2v3d55 ;
+    foaf:homepage "http://www.ceric-eric.eu/"^^xsd:anyURI .
+
+wikidata:Q49103279 a org:organization ;
+    rdfs:label "Digital Research Infrastructure for the Arts and Humanities" ;
+    skos:exactMatch ror:05n09v162 ;
+    foaf:homepage "http://www.dariah.eu/"^^xsd:anyURI .
+
+wikidata:Q59536568 a org:organization ;
+    rdfs:label "European Clinical Research Infrastructure Network" ;
+    skos:exactMatch ror:051ycea61 ;
+    foaf:homepage "https://ecrin.org/"^^xsd:anyURI .
+
+wikidata:Q753269 a org:organization ;
+    rdfs:label "Extreme Light Infrastructure" ;
+    skos:exactMatch ror:03ct7hs15 ;
+    foaf:homepage "https://eli-laser.eu/"^^xsd:anyURI .
+
+wikidata:Q81805283 a org:organization ;
+    rdfs:label "European Advanced Translational Research Infrastructure in medicine" ;
+    skos:exactMatch ror:00hjz5209 ;
+    foaf:homepage "http://www.eatris.eu/"^^xsd:anyURI .
+
+wikidata:Q83006305 a org:organization ;
+    rdfs:label "Euro-Argo" ;
+    skos:exactMatch ror:05bz2z050 ;
+    foaf:homepage "http://www.euro-argo.eu/"^^xsd:anyURI .
+
+wikidata:Q839231 a org:organization ;
+    rdfs:label "European Spallation Source" ;
+    skos:exactMatch ror:01wv9cn34 ;
+    foaf:homepage "https://europeanspallationsource.se/"^^xsd:anyURI .
+
+wikidata:Q104481183 a org:organization ;
+    rdfs:label "Integrated Structural Biology" ;
+    skos:exactMatch ror:05528ey35 ;
+    org:hasMember wikidata:Q1248816 ;
+    foaf:homepage "https://instruct-eric.org/"^^xsd:anyURI .
+
+wikidata:Q133811902 a org:organization ;
+    rdfs:label "Aerosol, Clouds and Trace Gases Research Infrastructure" ;
+    skos:exactMatch ror:024zy9450 ;
+    org:linkedTo wikidata:Q1607075 ;
+    foaf:homepage "https://www.actris.eu/"^^xsd:anyURI .
+
+wikidata:Q55520740 org:linkedTo wikidata:Q492234 .
+
+[] a rdf:Statement ;
+    rdf:object wikidata:Q492234 ;
+    rdf:predicate org:linkedTo ;
+    rdf:subject wikidata:Q55520740 .
+
+[] a rdf:Statement ;
+    rdf:object wikidata:Q1248816 ;
+    rdf:predicate org:hasMember ;
+    rdf:subject wikidata:Q104481183 .
+
+[] a rdf:Statement ;
+    rdf:object wikidata:Q1607075 ;
+    rdf:predicate org:linkedTo ;
+    rdf:subject wikidata:Q133811902 .
+
